@@ -3,7 +3,7 @@
 	{
 		"PLAYER_KILLED_MESSAGE": "<style=cEvent{0} 被 '{1}' 击杀</color>",
 		"PLAYER_DIED_MESSAGE": "<style=cEvent>{0} 死掉了</color>",
-		"PLAYER_PICKUP": "<style=cEvent>{0} 已获得 {1}{2}</color>",
+		"PLAYER_PICKUP": "<style=cEvent>{0} 获得了 {1}{2}</color>",
 		"PLAYER_PICKUP_2P": "<style=cEvent>你获得了 {1}{2}</color>",
 		"PLAYER_CONNECTED": "<style=cEvent>{0} 已连接</color>",
 		"PLAYER_DISCONNECTED": "<style=cEvent>{0} 断开连接</color>",
@@ -13,7 +13,7 @@
 		"PLAYER_PING_ENEMY" : "<style=cIsHealth>{0} 想要攻击 {1}.</style>",
 		"PLAYER_PING_INTERACTABLE" : "<style=cIsDamage>{0} 找到了 {1}.</style>",
 		"PLAYER_PING_COOLDOWN" : "<style=cEvent>指令发送频率过快！</style>",
-		"MONSTER_LEVEL": "<style=cWorldEvent><i>The forces of the planet have become stronger over time.</i></style>",
+		"MONSTER_LEVEL": "<style=cWorldEvent><i>随着时间推移，怪物将会不断变强！</i></style>",
 		"PORTAL_SHOP_WILL_OPEN":"<style=cWorldEvent>一颗蓝色的谜之球状物出现了……</style>",
 		"PORTAL_SHOP_OPEN" : "<style=cWorldEvent>一道蓝色的传送门出现了！</style>",
 		"PORTAL_GOLDSHORES_WILL_OPEN":"<style=cWorldEvent>一颗金色的谜之球状物出现了……</style>",

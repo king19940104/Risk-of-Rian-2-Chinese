@@ -4,9 +4,9 @@
 	//[NULL]
 	"NULL_SUBTITLE": "好大的一堆！",
 
-	"ELITE_MODIFIER_FIRE": "炽烈的 {0}",
-	"ELITE_MODIFIER_LIGHTNING": "电量过载的 {0}",
-	"ELITE_MODIFIER_ICE": "冰冷的 {0}",
+	"ELITE_MODIFIER_FIRE": "烈焰{0}",
+	"ELITE_MODIFIER_LIGHTNING": "过载{0}",
+	"ELITE_MODIFIER_ICE": "寒霜{0}",
 
 	//[CHARACTER]
 	"COMMANDO_BODY_NAME": "突击步兵",
@@ -104,7 +104,7 @@
 	//[BOSS]
 	"BEETLEQUEEN_BODY_NAME": "甲虫女王",
 	"BEETLEQUEEN_BODY_SUBTITLE": "杀人蜂的老妈子",
-	"CLAYBOSS_BODY_NAME": "陶罐，石油，沙漠探险者",
+	"CLAYBOSS_BODY_NAME": "沙陶诡虫",
 	"CLAYBOSS_BODY_SUBTITLE": "吃货共生体",
 	"TITAN_BODY_NAME": "巨石泰坦",
 	"TITAN_BODY_SUBTITLE": "万恶之源",

@@ -18,7 +18,7 @@
 	"ITEM_BEAR_DESC": "<style=cStack>100%-100%/(100%+15%×道具数)</style> 概率抵挡一次伤害，57叶草效果对此道具无效", 
 	"ITEM_BEAR_LORE" : "<style=cMono>\r\n//-- 自 动 转 录 自 UES 4211B 室 [ 已 修 订 ]--//</style>\r\n\r\n“你为什么要来这里？”\r\n\r\nWyatt的语气充满着厌烦，找到触光号最后一个已知的坐标位置所花费的时间比他预期的稍微久了一点。\r\n\r\nMalik正在地上专注地清理着她的步枪，“主要是为了钱。”\r\n\r\n“就这些？”\r\n\r\n她咕哝一下表示肯定，然后继续清理着她的武器。\r\n\r\n“我来这里是为了找一个东西”他自顾自地说，“我几年前曾想把它运走过，但我认为那辆列车并没有在坏掉之前把它给运到目的地。我觉着它应该还在触光号上，所以我要去把它找回来。”\r\n\r\n她开始拧紧最后的几根螺丝，这是她今天的最后几件要做的事，她将目光移向Wyatt，“你认真的吗？”\r\n\r\n“当然！”\r\n\r\nMalik扬起她的眉毛，“触光号上有超过7000000个保险箱，你从这当中找到特定的那个箱子几乎是不可能的。”她用她的步枪撑起身体，舒展着她的双腿，“并且根据遇难信号，我们已经可以确认触光号在轨道上被摧毁掉了，你的货物现在或许就在太空里飘着不知道飘到哪里了，它没了，Wyatt。”\r\n\r\n他笑了一下，“我确信我能找到它。”\r\n\r\n“你的性格真差劲。”\r\n",
 	
-	"ITEM_BEHEMOTH_NAME": "超帅气的巨炮",
+	"ITEM_BEHEMOTH_NAME": "卓越巨炮",
 	"ITEM_BEHEMOTH_PICKUP": "所有攻击爆炸！",
 	"ITEM_BEHEMOTH_DESC": "所有攻击会产生一个半径 <style=cStack>1.5×道具数+2.5</style> m的<style=cIsDamage>爆炸</style>，给予范围内敌人 60% 伤害", 
 
@@ -39,7 +39,7 @@
 	"ITEM_TOOTH_PICKUP": "击杀怪物掉落治疗球",
 	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个治疗球，每个恢复 <style=cStack>4×道具数</style> 血量", 
 
-	"ITEM_CRITGLASSES_NAME": "眼镜匠的眼镜",
+	"ITEM_CRITGLASSES_NAME": "眼镜师的眼镜",
 	"ITEM_CRITGLASSES_PICKUP": "有几率触发“会心攻击”，双倍伤害",
 	"ITEM_CRITGLASSES_DESC": "增加 <style=cStack> 10%×道具数 </style> 概率触发“会心攻击”造成双倍伤害", 
 
@@ -63,11 +63,11 @@
 	"ITEM_ICICLE_PICKUP": "击杀怪物时身边会生成寒霜",
 	"ITEM_ICICLE_DESC": "击杀怪物时身边生成3层分别能造成 33% 伤害的寒霜", 
 
-	"ITEM_GHOSTONKILL_NAME": "微笑面具",
+	"ITEM_GHOSTONKILL_NAME": "邪笑面具",
 	"ITEM_GHOSTONKILL_PICKUP": "杀死怪物时有概率生成怪物的幽灵",
 	"ITEM_GHOSTONKILL_DESC": "击杀怪物时有10%概率生成被击杀怪物的幽灵，幽灵继承原怪物属性并拥有 400% 攻击力，持续 <style=cStack>30×道具数</style> 秒", 
 
-	"ITEM_MUSHROOM_NAME": "菌类爆发",
+	"ITEM_MUSHROOM_NAME": "菌菇爆发",
 	"ITEM_MUSHROOM_PICKUP": "保持固定位置2秒后为身边所有友军恢复血量",
 	"ITEM_MUSHROOM_DESC": "保持固定位置2秒后，创建一个半径 <style=cStack> 1.5×道具数+1.5 </style> m的恢复区域，为其中的所有友军恢复 <style=cStack>2.25%×(道具数+1)</style> 最大生命值", 
 
@@ -81,7 +81,7 @@
 	"ITEM_ATTACKSPEEDONCRIT_LORE": "流言蜚语在恐慌的人群中快速传播着，人们都在讨论着他们下水道里那令人畏惧的蜥蜴人，虽然只是简单的传说，但却使这平原上的所有花草石木为之颤抖，恐惧在森林间、山谷中不断传播着\r\n\r\n一个恶魔，自天空坠落，其强大程度足以碾压Providence与他手下的那些菜鸟，虽然同样只有双手双脚，但却它有着22只永不闭拢的深红色的眼睛\n",
 
 	"ITEM_BLEEDONHIT_NAME": "倒刺小刀",
-	"ITEM_BLEEDONHIT_PICKUP": "有概率攻击怪物使怪物流血",
+	"ITEM_BLEEDONHIT_PICKUP": "攻击怪物有几率使怪物流血",
 	"ITEM_BLEEDONHIT_DESC": "<style=cStack>15%×道具数</style> 概率给与敌人 240% 伤害的流血效果",
 
 	"ITEM_SPRINTOUTOFCOMBAT_NAME": "红鞭子",
@@ -97,16 +97,16 @@
 	"ITEM_COOLDOWNONCRIT_PICKUP": "“会心攻击”减少1秒冷却",
 	"ITEM_COOLDOWNONCRIT_DESC": "增加 5% 会心攻击率，会心攻击减少所有冷却1秒",
 
-	"ITEM_WARDONLEVEL_NAME": "战旗",
-	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落战旗，可以为你提供超强Buff",
-	"ITEM_WARDONLEVEL_DESC": "当等级提升时会自动在地上插下战旗，为 <style=cStack>8×(道具数+1)</style> m范围内所有友军提升30%攻击与移动速度",
+	"ITEM_WARDONLEVEL_NAME": "战争旗帜",
+	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落旗帜，可以为你提供超强Buff",
+	"ITEM_WARDONLEVEL_DESC": "当等级提升时会自动在地上插下旗帜，为 <style=cStack>8×(道具数+1)</style> m范围内所有友军提升30%攻击与移动速度",
 
 	"ITEM_WARCRYONMULTIKILL_NAME": "Berzerker的肩甲",
 	"ITEM_WARCRYONMULTIKILL_PICKUP": "快速击杀3只怪物后进入狂暴模式",
 	"ITEM_WARCRYONMULTIKILL_DESC": "在1秒内击杀3只怪物将获得 <style=cStack>4×道具数+2</style> 秒的狂暴Buff，增加50%移动速度与100%攻击速度",
 
-	"ITEM_PHASING_NAME": "老旧的战时隐身组件",
-	"ITEM_PHASING_PICKUP": "当受到重大攻击时隐身",
+	"ITEM_PHASING_NAME": "破旧的隐身自救装置",
+	"ITEM_PHASING_PICKUP": "当受到过多伤害时自动隐身",
 	"ITEM_PHASING_DESC": "受到攻击时有概率提供 <style=cStack>1.5×(道具数+1)</style> 秒的40%移动速度加成与隐身Buff，受到的伤害越高概率越高",
 	"ITEM_PHASING_LORE": "送货订单：[杂物] 古战争文物 (47件)\r\n跟踪编码：01××××××\r\n预计送达日期：2056年8月13日\r\n送货优先级：优先派送\r\n送货地址：地球，新奥尔良，国家战争博物馆\r\n送货详情：\r\n\r\n我们已经尽力将当地的所有战争文物收集起来了，这里有好多有趣的东西：老式步枪、压缩饼干、密码册，我们甚至还发现了一个状态极佳的隐形装置原型，把它放在你的展览上一定能惊艳全场。\r\n\r\n不过我们这边出了点小问题，我们的货车撞到了坑里，然后火车把所有的货物都撒出去了，然后，它看起来确实是进入了隐形状态，我猜大概是遇到了一些奇怪的短路还是什么，总之我们现在没有办法确认这个隐形设备的具体位置了，它应该就在我邮给你的这其中一个盒子里面。\r\n希望我们的佣金里包含着这个玩意。\r\n",
 	
@@ -171,7 +171,7 @@
 	"ITEM_STUNCHANCEONHIT_PICKUP": "攻击怪物有几率使怪物眩晕",
 	"ITEM_STUNCHANCEONHIT_DESC": "<style=cStack>100%-100%/(5%×伤害系数×(道具数+1))</style> 概率眩晕敌人2秒\r\n\r\n来自汉化者的私货：\r\n\r\n幸存者技能伤害系数（仅系数非1的技能）：\r\nMUL-T\r\n全自动钉枪 0.3\r\n震撼爆桶 第二段 0.3\r\n\r\n发明家\r\n纳米球 爆炸前 0.4\r\n\r\n猎人\r\n回旋镖 0.8\r\n流星雨 0.2\r\n\r\n道具伤害系数（没提到的是没测，不确定是多少）\r\n肉钩 0.33\r\n电圈 0.3\r\n烟花 0.2\r\nN'kuhana 0.2\r\n仪式小刀 1\r\n粘性炸弹 0\r\n\r\n装备伤害系数（没提到的是没测，不确定是多少）\r\n地狱火 0\r\n众筹者 0.2\r\n发电 1\r\n前子 0.1\r\n陨石 1\r\n导弹 1",
 
-	"ITEM_LUNARDAGGER_NAME": "碎玻璃",
+	"ITEM_LUNARDAGGER_NAME": "被重塑过的玻璃刀",
 	"ITEM_LUNARDAGGER_PICKUP": "双倍伤害……<color=#FF7F7F>但是血量减半</color>\n",
 	"ITEM_LUNARDAGGER_DESC": "增加 <style=cStack>100%×道具数</style> 伤害，减少最大生命值 50%<style=cStack>（每再获得一件此道具最大生命值在现有基础上再减50%）</style>.",
 	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel 机 器 语 言 翻 译 程 序   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <50912157 轮循环>\n暂 停 中…\n目 前 只 能 显 示 部 分 结 果，确 认 吗 ？Y/N\nY\n================================</style>\n成对\n\n这是来自[月球]内核处的，没有具体结构的玻璃，在以飘渺的声音鸣叫了三回之后停了下来。\n\n我们将时间混到它的材质中，两段时间，我们与<他>的时间，这是<他>唯一想要让我们支付的代价，<他>用着神明才会知道的设计，将玻璃折叠与重塑。\n\n<他>用那些不知有多少数量的巨大的手当中的一只手拿着它，我们注入到其中的时间在<他>那紧握的手中展开，快速爆发，肌肉以2倍速度收缩。以2倍的目的性，用2倍有序但复杂的手法，将一切折叠起来，在[?]上成对回环。随着时间耗尽，<他>停了下来。\n\n<他> 将一栋建筑割裂成了千万份。\n\n但时间对任何人都是平等的，微小的碎片开始成对散开，肌肉开始重新舒展，全都以2倍速度运作，这是压缩时间的代价，但<他>有无穷无尽的时间。\n\n<style=cMono>\n================================\n继 续 尝 试 翻 译 ？ Y/N\nY</style>\n",
@@ -275,7 +275,7 @@
 	"ITEM_REPEATHEAL_PICKUP" : "双倍治疗量……<color=#FF7F7F>但治疗速度降低</color>\n",
 	"ITEM_REPEATHEAL_DESC" : "增加 <style=cStack>100%×道具数 </style> 治疗量，但治疗速度降低，每秒最多治疗 10% 最大生命值的血量（每额外获得一个此道具每秒治疗量再减少50%）",	
 
-	"ITEM_AUTOCASTEQUIPMENT_NAME": "溺水者",
+	"ITEM_AUTOCASTEQUIPMENT_NAME": "溺水自救",
 	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "大幅度减少装备冷却……<color=#FF7F7F>但是会自动使用它</color>",
 	"ITEM_AUTOCASTEQUIPMENT_DESC": "减少 <style=cStack>50%×道具数</style> 的装备冷却，装备冷却结束后强制使用装备",
 	}
