@@ -1,4 +1,4 @@
-{
+﻿{
 	strings:
 	{
 	"ITEM_PICKUP_CONTEXT" : "捡起 {0}",
@@ -72,7 +72,7 @@
 	"ITEM_MUSHROOM_DESC": "保持固定位置2秒后，创建一个半径 <style=cStack> 1.5×道具数+1.5 </style> m的恢复区域，为其中的所有友军恢复 <style=cStack>2.25%×(道具数+1)</style> 最大生命值", 
 
 	"ITEM_CROWBAR_NAME": "撬棍",
-	"ITEM_CROWBAR_PICKUP": "对没怎么挨过打的怪物造成更高的伤害",
+	"ITEM_CROWBAR_PICKUP": "对生命值高的敌人造成更高的伤害",
 	"ITEM_CROWBAR_DESC": "对生命值高于90%的敌人的攻击会造成 <style=cStack> 30%×道具数量+120% </style> 伤害",   
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "狩猎天性",
@@ -85,8 +85,8 @@
 	"ITEM_BLEEDONHIT_DESC": "<style=cStack>15%×道具数</style> 概率给与敌人 240% 伤害的流血效果",
 
 	"ITEM_SPRINTOUTOFCOMBAT_NAME": "红鞭子",
-	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "脱战后移速加快",
-	"ITEM_SPRINTOUTOFCOMBAT_DESC": "脱战后增加 <style=cStack>30%×道具数</style> 移动速度",
+	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "脱离战斗后移动速度加快",
+	"ITEM_SPRINTOUTOFCOMBAT_DESC": "脱离战斗后增加 <style=cStack>30%×道具数</style> 移动速度",
 
 	"ITEM_FALLBOOTS_NAME": "H3AD-5T v2",
 	"ITEM_FALLBOOTS_PICKUP": "增加跳跃高度，按住“跳跃键”使用坠地攻击",
