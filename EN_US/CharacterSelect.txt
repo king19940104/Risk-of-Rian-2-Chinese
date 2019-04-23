@@ -1,0 +1,10 @@
+{
+	"strings":
+	{
+		"CHARACTER_SELECT_TITLE": "Character Select",
+		"SURVIVOR_OVERVIEW": "Overview",
+		"SURVIVOR_SKILLS": "Skills",
+		"CHARACTER_SELECT_READY": "Ready",
+		"CHARACTER_SELECT_LOCKED_IN": "Locked In",
+	}
+}

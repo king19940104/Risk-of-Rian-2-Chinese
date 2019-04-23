@@ -1,0 +1,27 @@
+{
+	"strings":
+	{
+		"RULE_HEADER_DIFFICULTY": "Difficulty",
+		"RULE_HEADER_ARTIFACTS": "Artifacts",
+		"RULE_HEADER_ITEMS": "Items",
+		"RULE_HEADER_EQUIPMENT": "Equipment",
+		"RULE_HEADER_MISC": "Modifiers",
+		"RULE_ARTIFACTS_EMPTY_TIP": "Game modifiers that can be found in the world. <sprite name=\"WIP\"> Coming soon! <sprite name=\"WIP\">",
+
+		"RULE_STARTINGMONEY_CHOICE_0_NAME": "Broke",
+		"RULE_STARTINGMONEY_CHOICE_0_DESC": "Start with no gold.",
+		"RULE_STARTINGMONEY_CHOICE_15_NAME": "Standard",
+		"RULE_STARTINGMONEY_CHOICE_15_DESC": "Start with 15 gold.",
+		"RULE_STARTINGMONEY_CHOICE_50_NAME": "Rich!",
+		"RULE_STARTINGMONEY_CHOICE_50_DESC": "Start with 50 gold.",
+
+		"RULE_STAGEORDER_CHOICE_NORMAL_NAME": "Standard",
+		"RULE_STAGEORDER_CHOICE_NORMAL_DESC": "Stages progress in order.",
+
+		"RULE_STAGEORDER_CHOICE_RANDOM_NAME": "Meander",
+		"RULE_STAGEORDER_CHOICE_RANDOM_DESC": "Stages progress in a random order.",
+		
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_ON_DESC": "Money is kept between stages",
+		"RULE_KEEPMONEYBETWEENSTAGES_CHOICE_OFF_DESC": "Money is converted to experience upon stage completion",
+	}
+}

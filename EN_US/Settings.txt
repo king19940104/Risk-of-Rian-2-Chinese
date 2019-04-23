@@ -1,0 +1,172 @@
+{
+	"strings":
+	{
+		"OPTION_HEADER_GAMEPLAY": "GAMEPLAY",
+		"OPTION_HEADER_KEYBINDING": "KEYBOARD + MOUSE",
+		"OPTION_HEADER_CONTROLLER": "CONTROLLER",
+		"OPTION_HEADER_AUDIO": "AUDIO",
+		"OPTION_HEADER_VIDEO": "VIDEO",
+		"OPTION_HEADER_GRAPHICS": "GRAPHICS",
+
+		"OPTION_OFF": "Off",
+		"OPTION_ON": "Off",
+		"OPTION_LOW": "Low",
+		"OPTION_MEDIUM": "Medium",
+		"OPTION_HIGH": "High",
+		"OPTION_ULTRA": "Ultra",
+		"OPTION_CUSTOM": "Custom",
+
+		"OPTION_APPLY": "Apply",
+		"OPTION_REVERT": "Revert",
+		"OPTION_BACK": "Back",
+		"OPTION_ACCEPT": "Accept",
+
+		"OPTION_AUTOREVERT_DIALOG_DESCRIPTION": "Changes will be reverted in {0} seconds. Keep these changes?",
+		
+
+		//[AUDIO]
+		"OPTION_MASTERVOLUME": "Master Volume:",
+		"OPTION_MASTERVOLUME_DESCRIPTION": "The volume of the overall game.",
+
+		"OPTION_MUSICVOLUME": "Music Volume:",
+		"OPTION_MUSICVOLUME_DESCRIPTION": "The volume of the music.",
+
+		"OPTION_SFXVOLUME": "SFX Volume:",
+		"OPTION_SFXVOLUME_DESCRIPTION": "The volume of the in-game sound effects.",
+
+		"OPTION_AUDIOFOCUS": "Mute When Unfocused:",
+		"OPTION_AUDIOFOCUS_DESCRIPTION" : "Whether or not audio should be muted when the game window is not in focus.",
+
+		//[VIDEO]
+		"OPTION_VSYNC": "V-Sync:",
+		"OPTION_VSYNC_DESCRIPTION": "Eliminates screen tearing by synchronizing the game's framerate to the monitor's refresh rate. Only enable this setting if you see screen tearing.",
+		"OPTION_VSYNC_NONE": "Off",
+		"OPTION_VSYNC_EVERYOTHER": "Half",
+		"OPTION_VSYNC_EVERY": "Always",
+
+		"OPTION_FPSLIMIT" : "FPS Limit",
+		"OPTION_FPSLIMIT_DESCRIPTION": "Cap the FPS to maintain a steady frame rate.",
+
+		"OPTION_RESOLUTION" : "Resolution",
+		"OPTION_RESOLUTION_DESCRIPTION" : "The resolution and refresh rate of the game. This is usually one of the best settings to lower for improving performance on low-end machines.",
+
+		"OPTION_FULLSCREEN" : "Fullscreen:",
+		"OPTION_FULLSCREEN_DESCRIPTION": "Whether or not the game is running in fullscreen or windowed-mode.",
+		"OPTION_FULLSCREEN_FULLSCREEN": "Fullscreen",
+		"OPTION_FULLSCREEN_WINDOWED": "Windowed",
+
+		"OPTION_SCREENSCALE": "Screen Scale:",
+		"OPTION_SCREENSCALE_DESCRIPTION": "Reduce the internal resolution of the screen. Lower settings will improve performance dramatically.",
+
+		"OPTION_GAMMA": "Gamma Boost",
+		"OPTION_GAMMA_DESCRIPTION": "The brightness of a pixel. Change to brighten or darken the screen.",
+
+		"OPTION_HUDSCALE" : "HUD Scale",
+		"OPTION_HUDSCALE_DESCRIPTION": "Increase or decrease the size of the in-game UI elements, like healthbars and icons.",
+
+		//[GRAPHICS]
+		"OPTION_SHADOW_TYPE": "Shadow Type:",
+		"OPTION_SHADOW_TYPE_DESCRIPTION": "This determines which type of shadows should be used. Soft shadows are smoother, but require more processing power. Disabling shadows will dramatically improve performance.",
+		"OPTION_SHADOW_TYPE_OFF": "Off",
+		"OPTION_SHADOW_TYPE_HARDONLY": "Hard",
+		"OPTION_SHADOW_TYPE_ALL": "Soft",
+
+		"OPTION_SHADOW_QUALITY": "Shadow Resolution:",
+		"OPTION_SHADOW_QUALITY_DESCRIPTION": "The higher the setting, the higher the resolution of the shadows. Lower this to improve performance.",
+
+		"OPTION_SHADOW_CASCADE": "Shadow Cascades:",
+		"OPTION_SHADOW_CASCADE_DESCRIPTION": "The number of shadow cascades. Higher settings will improve shadow resolution. Lower this to significantly improve performance.",
+
+		"OPTION_SHADOW_DISTANCE": "Shadow Distance:",
+		"OPTION_SHADOW_DISTANCE_DESCRIPTION": "How far away shadows are drawn. Lower this to improve performance.",
+
+		"OPTION_TEXTURE_RESOLUTION": "Texture Resolution:",
+		"OPTION_TEXTURE_RESOLUTION_DESCRIPTION": "Controls the resolution and quality of textures on all game elements. High quality textures are more detailed. Lower this to improve performance.",
+		"OPTION_TEXTURE_RESOLUTION_FULL": "Full",
+		"OPTION_TEXTURE_RESOLUTION_HALF": "Half",
+		"OPTION_TEXTURE_RESOLUTION_QUARTER": "Quarter",
+		"OPTION_TEXTURE_RESOLUTION_EIGHTH": "Eighth",
+
+		"OPTION_ANISOTROPIC_FILTERING": "Anisotropic Filtering:",
+		"OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "Improves the sharpness of textures viewed at an angle. Lowering this will increase GPU performance.",
+
+		"OPTION_VFX_BIAS": "VFX Culling Bias:",
+		"OPTION_VFX_BIAS_DESCRIPTION": "Adds a chance to remove particles and other VFX in high effect densities. Lowering this will improve both CPU and GPU performance, but effects may stop appearing.",
+
+		"OPTION_LOD_BIAS": "LOD Bias:",
+		"OPTION_LOD_BIAS_DESCRIPTION": "The distances in which the LOD will change. Lowering this will improve performance but may cause pop-in.",
+
+		"OPTION_MAX_LOD": "LOD Reduction:",
+		"OPTION_MAX_LOD_DESCRIPTION": "The reduces the highest LOD that will be used by the game. Lowering this will improve performance but may cause pop-in and dramatically reduce graphic fidelity.",	
+
+		"OPTION_SOFTPARTICLES": "Soft Particles:",
+		"OPTION_SOFTPARTICLES_DESCRIPTION": "Enables depth-based particle blending for smoother particles. Disabling will improve GPU performance.",
+		
+		"OPTION_FOLIAGEWIND": "Foliage Wind:",
+		"OPTION_FOLIAGEWIND_DESCRIPTION": "Enables animated foliage. Disabling will improve GPU and CPU performance.",
+		
+		"OPTION_BLOOM": "Bloom:",
+		"OPTION_BLOOM_DESCRIPTION": "Allows for overbrightened pixels to add glows to bright lights. Disabling will improve GPU performance.",
+
+		"OPTION_AO": "SSAO:",
+		"OPTION_AO_DESCRIPTION": "Darkens corners to simulate bounced lights. Disabling will dramatically improve GPU performance.",
+
+		"OPTION_MOTIONBLUR": "Motion Blur:",
+		"OPTION_MOTIONBLUR_DESCRIPTION": "Simulates the camera effect of blurring objects as they move. Disabling this will improve GPU performance.",
+
+		"OPTION_SOBEL": "Sobel Lighting:",
+		"OPTION_SOBEL_DESCRIPTION": "Enables a light outline to help elements stand out. Disabling this will improve GPU performance.",
+
+		"OPTION_CORPSE_DISPOSAL": "Corpse Clean-up",
+		"OPTION_CORPSE_DISPOSAL_DEFINITION": "How the maximum corpse limit is enforced. Immediate is cheaper, but will cause corpses over the limit to disappear even when visible.",
+		"OPTION_CORPSE_DISPOSAL_HARD": "Immediate",
+		"OPTION_CORPSE_DISPOSAL_OUTOFSIGHT":"Hidden",
+
+		"OPTION_MAX_CORPSE": "Max Corpses",
+		"OPTION_MAX_CORPSE_DEFINITION": "Limit the maximum number of corpses that can exist at one time. Lowering this number will boost performance.",
+
+		//[Gamepad]
+		"OPTION_STICK_LOOK_SENSITIVITY": "<style=cUserSetting>Look Sensitivity</style>",
+		"OPTION_STICK_LOOK_SENSITIVITY_DESCRIPTION": "How quickly the camera rotates with the control stick.",
+		"OPTION_STICK_LOOK_SCALE_X": "<style=cUserSetting>Horizontal Look Scale</style>",
+		"OPTION_STICK_LOOK_SCALE_X_DESCRIPTION": "How much to scale the horizontal rotation rate of the camera.",
+		"OPTION_STICK_LOOK_SCALE_Y": "<style=cUserSetting>Vertical Look Scale</style>",
+		"OPTION_STICK_LOOK_SCALE_Y_DESCRIPTION": "How much to scale the vertical rotation rate of the camera.",
+		"OPTION_STICK_LOOK_INVERT_X": "<style=cUserSetting>Horizontal Look Invert</style>",
+		"OPTION_STICK_LOOK_INVERT_X_DESCRIPTION": "Inverts horizontal rotation of the camera.",
+		"OPTION_STICK_LOOK_INVERT_Y": "<style=cUserSetting>Vertical Look Invert</style>",
+		"OPTION_STICK_LOOK_INVERT_Y_DESCRIPTION": "Inverts vertical rotation of the camera.",
+		"OPTION_GAMEPAD_VIBRATION_SCALE": "<style=cUserSetting>Vibration Scale</style>",
+		"OPTION_GAMEPAD_VIBRATION_SCALE_DESCRIPTION": "Intensity of controller vibration.",
+
+		//[Keyboard+Mouse]
+		"OPTION_MOUSE_LOOK_SENSITIVITY": "<style=cUserSetting>Look Sensitivity</style>",
+		"OPTION_MOUSE_LOOK_SENSITIVITY_DESCRIPTION": "How quickly the camera rotates with the mouse.",
+		"OPTION_MOUSE_LOOK_SCALE_X": "<style=cUserSetting>Horizontal Look Scale</style>",
+		"OPTION_MOUSE_LOOK_SCALE_X_DESCRIPTION": "How much to scale the horizontal rotation rate of the camera.",
+		"OPTION_MOUSE_LOOK_SCALE_Y": "<style=cUserSetting>Vertical Look Scale</style>",
+		"OPTION_MOUSE_LOOK_SCALE_Y_DESCRIPTION": "How much to scale the vertical rotation rate of the camera.",
+		"OPTION_MOUSE_LOOK_INVERT_X": "<style=cUserSetting>Horizontal Look Invert</style>",
+		"OPTION_MOUSE_LOOK_INVERT_X_DESCRIPTION": "Inverts horizontal rotation of the camera.",
+		"OPTION_MOUSE_LOOK_INVERT_Y": "<style=cUserSetting>Vertical Look Invert</style>",
+		"OPTION_MOUSE_LOOK_INVERT_Y_DESCRIPTION": "Inverts vertical rotation of the camera.",
+		
+		//[Gameplay]
+		"OPTION_SCREENSHAKE_SCALE": "<style=cUserSetting>Screen Shake Scale</style>",
+		"OPTION_SCREENSHAKE_SCALE_DESCRIPTION": "Intensity of screen shake.",
+
+		"OPTION_DAMAGENUMBERS": "Damage Number",
+		"OPTION_DAMAGENUMBERS_DESCRIPTION": "Enables floating damage numbers.",
+
+		"OPTION_HUD": "In-Game HUD",
+		"OPTION_HUD_DESCRIPTION": "Enables the in-game HUD, i.e healthbars, item icons, skill icons.",
+
+
+		"OPTION_REBIND_DIALOG_TITLE": "Rebind Control...",
+		"OPTION_REBIND_DIALOG_DESCRIPTION": "Press the button you wish to assign for {0}. \n{1:0} second(s) remaining.",
+		
+		"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "Rebinding cancelled.",
+		
+		"SETTINGS_PROFILE_NAME_FORMAT": "Settings - <style=cUserSetting>{0}</style>",
+	}
+}

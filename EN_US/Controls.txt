@@ -1,0 +1,25 @@
+{
+	strings:
+	{
+		"ACTION_MOVE_HORIZONTAL" : "Move Horizontal",
+		"ACTION_MOVE_VERTICAL" : "Move Vertical",
+		"ACTION_AIM_HORIZONTAL_MOUSE" : "Aim Horizontal",
+		"ACTION_AIM_VERTICAL_MOUSE" : "Aim Vertical",
+		"ACTION_AIM_HORIZONTAL_STICK" : "Aim Horizontal",
+		"ACTION_AIM_VERTICAL_STICK" : "Aim Vertical",
+		"ACTION_JUMP" : "Jump",
+		"ACTION_SPRINT" : "Toggle Sprint",
+		"ACTION_INTERACT" : "Interact",
+		"ACTION_EQUIPMENT" : "Activate Equipment",
+		"ACTION_PRIMARY_SKILL" : "Primary Skill",
+		"ACTION_SECONDARY_SKILL" : "Secondary Skill",
+		"ACTION_UTILITY_SKILL" : "Utility Skill",
+		"ACTION_SPECIAL_SKILL" : "Special Skill",
+		"ACTION_INFO" : "Info Screen",
+		"ACTION_PING" : "Ping",
+		"ACTION_MOVE_VERTICAL_POSITIVE" : "Move Forward",
+		"ACTION_MOVE_VERTICAL_NEGATIVE" : "Move Backward",
+		"ACTION_MOVE_HORIZONTAL_POSITIVE" : "Move Right",
+		"ACTION_MOVE_HORIZONTAL_NEGATIVE" : "Move Left",
+	}
+}

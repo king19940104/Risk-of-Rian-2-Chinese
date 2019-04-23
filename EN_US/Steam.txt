@@ -1,0 +1,26 @@
+{
+  "strings":
+  {
+    "STEAM_PROMOTE_OWNER_TOOLTIP_BODY": "Promote to Lobby Leader",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_TOOLTIP_BODY": "Copy your current Lobby ID to your Clipboard.",
+    "STEAM_COPY_LOBBY_TO_CLIPBOARD_MESSAGE": "Copied Lobby ID to clipboard.",
+    "STEAM_JOIN_LOBBY_ON_CLIPBOARD": "Join Clipboard Lobby",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_SUCCESS": "Joined Lobby ID.",
+    "STEAM_JOIN_LOBBY_CLIPBOARD_FAIL": "Invalid Lobby ID.",
+    "STEAM_LOBBY_PUBLIC": "Public",
+    "STEAM_LOBBY_PRIVATE": "Private",
+    "STEAM_LOBBY_FRIENDSONLY": "Friends Only",
+    "STEAM_LOBBY_INVISIBLE": "Invisible",
+    "STEAM_LOBBY_STATUS_NOT_IN_LOBBY": "Not in lobby",
+    "STEAM_LOBBY_STATUS_LAUNCHING_QUICKPLAY": "Entering QuickPlay...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_SEARCHING_FOR_EXISTING_LOBBY": "Searching for an existing lobby...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_BELOW_MINIMUM_PLAYERS": "{0}/{1} in lobby. Waiting for more players...",
+    "STEAM_LOBBY_STATUS_QUICKPLAY_WAITING_ABOVE_MINIMUM_PLAYERS": "{0}/{1} in lobby. Launching in: {2}",
+    "STEAM_LOBBY_STATUS_OUT_OF_QUICKPLAY": "Not in QuickPlay queue.",
+    "STEAM_LOBBY_STATUS_CONNECTING_TO_HOST": "Connecting to host...",
+    "STEAM_LOBBY_STATUS_STARTING_SERVER": "Starting server...",
+	"STEAM_LOBBY_STATUS_GAME_STARTING": "Game starting...",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_TITLE": "Version Mismatch",
+	"STEAM_LOBBY_VERSION_MISMATCH_DIALOG_DESCRIPTION": "Could not join the lobby. The host of the game is running on a version that is either older or newer than yours.\nYours={0}\nTheirs={1}",
+  }
+}

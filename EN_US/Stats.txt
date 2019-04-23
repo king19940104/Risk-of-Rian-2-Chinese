@@ -1,0 +1,28 @@
+{
+	"strings":
+	{
+		"STAT_NAME_VALUE_FORMAT": "{0}: <color=#FFFF7F>{1}</color>",
+		"STAT_NAME_VALUE_TIME_FORMAT": "{0}: <color=#FFFF7F>{1}</color>",
+		"STAT_VALUE_MARATHONS_FORMAT": "{0:0.00} marathons",
+		"STAT_POINTS_FORMAT": "<color=#FFFF7F>{0}</color> pts.",
+		"STAT_CLASS_NAME_FORMAT": "Class: <color=#FFFF7F>{0}</color>",
+		"STAT_KILLER_NAME_FORMAT": "Killed By: <color=#FFFF7F>{0}</color>",
+		
+		"STATNAME_TOTALTIMEALIVE": "Time Alive",
+		"STATNAME_TOTALKILLS": "Kills",
+		"STATNAME_TOTALDEATHS": "Deaths",
+		"STATNAME_TOTALDAMAGEDEALT": "Damage Dealt",
+		"STATNAME_TOTALDAMAGETAKEN": "Damage Taken",
+		"STATNAME_HIGHESTDAMAGEDEALT": "Most Damage Dealt",
+		"STATNAME_HIGHESTLEVEL": "Highest Level",
+		"STATNAME_TOTALGOLDCOLLECTED": "Gold Collected",
+		"STATNAME_MAXGOLDCOLLECTED": "Most Gold Collected",
+		"STATNAME_TOTALDISTANCETRAVELED": "Distance Traveled",
+		"STATNAME_TOTALITEMSCOLLECTED": "Items Collected",
+		"STATNAME_HIGHESTITEMSCOLLECTED": "Most Items Collected",
+		"STATNAME_TOTALSTAGESCOMPLETED": "Stages Completed",
+		"STATNAME_HIGHESTSTAGESCOMPLETED": "Most Stages Completed",
+		"STATNAME_TOTALPURCHASES": "Purchases",
+		"STATNAME_HIGHESTPURCHASES": "Most Purchases",
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"strings":
+	{
+		"TOOLTIP_TIME_DIFFICULTY": "Difficulty is <i>ALWAYS</i> increasing with time - play fast!",
+		"TOOLTIP_EQUIPMENT": "<color=orange>Equipment</color> are powerful, activated items.",
+		"TOOLTIP_SPRINT": "Sprint to get around the map!",
+		"TOOLTIP_WIP_CONTENT_NAME" : "Under Construction",
+		"TOOLTIP_WIP_CONTENT_DESCRIPTION" : "This piece of content is still in development. Come back soon!",
+
+		"TOOLTIP_UNLOCK_LOG_NAME" : "Logbook Entry Unlocked",
+		"TOOLTIP_UNLOCK_LOG_DESCRIPTION" : "This entry will now appear in the Logbook.",
+
+		"TOOLTIP_UNLOCK_ITEM_NAME" : "Item Unlocked",
+		"TOOLTIP_UNLOCK_ITEM_DESCRIPTION" : "This item will now randomly appear in runs.",
+
+		"TOOLTIP_UNLOCK_EQUIPMENT_NAME" : "Equipment Unlocked",
+		"TOOLTIP_UNLOCK_EQUIPMENT_DESCRIPTION" : "This equipment will now randomly appear in runs.",
+
+		"TOOLTIP_UNLOCK_SURVIVOR_NAME" : "Survivor Unlocked",
+		"TOOLTIP_UNLOCK_SURVIVOR_DESCRIPTION" : "This Survivor is now available.",
+
+		"TOOLTIP_UNLOCK_GENERIC_NAME" : "Unlocked",
+		"TOOLTIP_UNLOCK_GENERIC_DESCRIPTION" : "This content is now available.",
+	}
+}
