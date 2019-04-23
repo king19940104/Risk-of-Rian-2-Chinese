@@ -1,0 +1,43 @@
+{
+	strings:
+	{
+		"LOCKED" : "LOCKED",
+		"UNLOCKED_FORMAT" : "Unlocked: {0}",
+		
+		"UNLOCK_VIA_ACHIEVEMENT_FORMAT" : "Requires \"{0}\".\n\n<i>{1}</i>",
+		"UNLOCK_VIA_FIND_FORMAT" : "Find {0}.",
+		
+		"UNLOCKABLE_LOG_BEETLE": "Monster Log: Beetle",
+		"UNLOCKABLE_LOG_BEETLEGUARD": "Monster Log: Beetle Guard",
+		"UNLOCKABLE_LOG_BEETLEQUEEN": "Monster Log: Beetle Queen",
+		"UNLOCKABLE_LOG_BISON": "Monster Log: Bison",
+		"UNLOCKABLE_LOG_BELL" : "Monster Log: Brass Contraption",
+		"UNLOCKABLE_LOG_CLAY": "Monster Log: Clayman",
+		"UNLOCKABLE_LOG_CLAYBOSS": "Monster Log: Clay Dunestrider",
+		"UNLOCKABLE_LOG_GOLEM": "Monster Log: Stone Golem",
+		"UNLOCKABLE_LOG_TITAN": "Monster Log: Stone Titan",
+		"UNLOCKABLE_LOG_TITANGOLD": "Monster Log: Aurelionite",
+		"UNLOCKABLE_LOG_IMP": "Monster Log: Imp",
+		"UNLOCKABLE_LOG_JELLYFISH": "Monster Log: Jellyfish",
+		"UNLOCKABLE_LOG_VAGRANT": "Monster Log: Wandering Vagrant",
+		"UNLOCKABLE_LOG_LEMURIAN": "Monster Log: Lemurian",
+		"UNLOCKABLE_LOG_MAGMAWORM": "Monster Log: Magma Worm",
+		"UNLOCKABLE_LOG_WISP": "Monster Log: Lesser Wisp",
+		"UNLOCKABLE_LOG_GREATERWISP": "Monster Log: Greater Wisp",
+		"UNLOCKABLE_LOG_ANCIENTWISP" : "Monster Log: Ancient Wisp",
+		"UNLOCKABLE_LOG_LEMURIANBRUISER" : "Monster Log: Elder Lemurian",
+		"UNLOCKABLE_LOG_HERMITCRAB" : "Monster Log: Hermit Crab",
+		"UNLOCKABLE_LOG_IMPBOSS" : "Monster Log: Imp Overlord",
+		"UNLOCKABLE_LOG_ELECTRICWORMBODY" : "Monster Log: Overloading Worm",
+
+		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint: Transcendence",
+		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "Environment Log: Distant Roost",
+		"UNLOCKABLE_LOG_STAGES_GOLEMPLAINS": "Environment Log: Titanic Plains",
+		"UNLOCKABLE_LOG_STAGES_GOOLAKE": "Environment Log: Abandoned Aqueduct",
+		"UNLOCKABLE_LOG_STAGES_BAZAAR": "Environment Log: Bazaar Between Time",
+		"UNLOCKABLE_LOG_STAGES_FROZENWALL": "Environment Log: Rallypoint Delta",
+		"UNLOCKABLE_LOG_STAGES_FOGGYSWAMP": "Environment Log: Wetland Aspect",
+		"UNLOCKABLE_LOG_STAGES_DAMPCAVE": "Environment Log: Abyssal Depths",
+		"UNLOCKABLE_LOG_STAGES_MYSTERYSPACE" : "Environment Log: A Moment, Fractured"
+	}
+}

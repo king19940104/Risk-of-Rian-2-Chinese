@@ -1,0 +1,8 @@
+{
+	strings:
+	{
+	"EARLY_ACCESS_DISCLAIMER": "Thank you for playing Risk of Rain 2! \r\n\r\nPlease remember that RoR2 is still in active development during Early Access! You may run into missing or partially complete features <sprite name=\"WIP\">.\r\n\r\nPlease send us feedback or bug reports at contact@hopoogames.com. You can also join us in our official Discord channel, accessible under 'Music & More'. \r\n\r\nSee you on the planet.\r\n\r\n<i>- Hopoo Games<\/i>",
+	"EARLY_ACCESS_LORE" : "<style=cMono>\r\nWelcome to DataScraper (v3.1.53 \u2013 beta branch)\r\n$ Scraping memory... error.\r\n$ Resolving... error.\r\n$ Combing for relevant data...\r\nError!\r\nOutputting error log...\r\n<\/style>\r\n\r\n<sprite name=\"WIP\"> This data is still being transmitted. Thank you for your patience.  <sprite name=\"WIP\">\r\n",
+	}
+}
+

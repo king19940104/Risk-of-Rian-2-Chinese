@@ -1,0 +1,125 @@
+{
+	"strings":
+	{
+		"ACHIEVEMENT_UNLOCKED_MESSAGE": "<color=#ccd3e0>{0} achieved <color=#BDE151>{1}</color></color>",
+		"ACHIEVEMENT_UNLOCKED_MESSAGE_2P": "<color=#ccd3e0>You achieved <color=#BDE151>{1}</color></color>",
+		
+		"ACHIEVEMENT_LOGCOLLECTOR_NAME": "Bookworm",
+		"ACHIEVEMENT_LOGCOLLECTOR_DESCRIPTION": "Collect 10 Monster or Environment Logs.",
+
+		"ACHIEVEMENT_ATTACKSPEED_NAME": "Rapidfire",
+		"ACHIEVEMENT_ATTACKSPEED_DESCRIPTION": "Reach +200% attack speed.",
+		
+		"ACHIEVEMENT_STAYALIVE1_NAME": "The Lone Survivor",
+		"ACHIEVEMENT_STAYALIVE1_DESCRIPTION": "Stay alive for 30 consecutive minutes.",
+		
+		"ACHIEVEMENT_HARDHITTER_NAME": "Macho",
+		"ACHIEVEMENT_HARDHITTER_DESCRIPTION": "Deal 5000 damage in one shot.",
+
+		"ACHIEVEMENT_CARRYLUNARITEMS_NAME": "Moon Worshipper",
+		"ACHIEVEMENT_CARRYLUNARITEMS_DESCRIPTION": "Carry 5 Lunar items in a single run.",
+
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_NAME": "Glorious Battle",
+		"ACHIEVEMENT_CHARGETELEPORTERWHILENEARDEATH_DESCRIPTION": "Charge the Teleporter with less than 10% health.",
+
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_NAME": "Ascendant",
+		"ACHIEVEMENT_COMPLETEMULTIBOSSSHRINE_DESCRIPTION": "Defeat the Teleporter bosses after activating 2 Shrines of the Mountain.",
+
+		"ACHIEVEMENT_COMPLETETELEPORTER_NAME": "Advancement",
+		"ACHIEVEMENT_COMPLETETELEPORTER_DESCRIPTION": "Complete a Teleporter event.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGES_NAME": "Warrior",
+		"ACHIEVEMENT_COMPLETETHREESTAGES_DESCRIPTION" : "Reach and complete the 3rd Teleporter event without dying.",
+
+		"ACHIEVEMENT_DIE5TIMES_NAME": "Learning Process",
+		"ACHIEVEMENT_DIE5TIMES_DESCRIPTION": "Die 5 times.",
+
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_NAME": "Experimenting",
+		"ACHIEVEMENT_DISCOVER5EQUIPMENT_DESCRIPTION": "Pick up 5 different types of Equipment.",
+
+		"ACHIEVEMENT_COMPLETE20STAGES_NAME": "The Long Road",
+		"ACHIEVEMENT_COMPLETE20STAGES_DESCRIPTION": "Complete 20 stages in a single run.",
+
+		"ACHIEVEMENT_HARDELITEBOSSKILL_NAME": "Deicide",
+		"ACHIEVEMENT_HARDELITEBOSSKILL_DESCRIPTION": "Defeat an Elite boss on Monsoon difficulty.",
+
+		"ACHIEVEMENT_KILLTOTALENEMIES_NAME": "Slaughter",
+		"ACHIEVEMENT_KILLTOTALENEMIES_DESCRIPTION": "Defeat 3000 enemies.",
+
+		"ACHIEVEMENT_KILLELITEMONSTER_NAME": "Elite Slayer",
+		"ACHIEVEMENT_KILLELITEMONSTER_DESCRIPTION": "Defeat an Elite-type monster.",
+
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_NAME": "Verified",
+		"ACHIEVEMENT_REPEATFIRSTTELEPORTER_DESCRIPTION": "Complete the first Teleporter event 5 times.",
+
+		"ACHIEVEMENT_MAXHEALINGSHRINE_NAME": "One with the Woods",
+		"ACHIEVEMENT_MAXHEALINGSHRINE_DESCRIPTION": "Fully upgrade a Shrine of the Woods.",
+
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_NAME": "Mechanic",
+		"ACHIEVEMENT_TOTALDRONESREPAIRED_DESCRIPTION": "Repair 30 drones or turrets.",
+
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_NAME": "Funded!",
+		"ACHIEVEMENT_TOTALMONEYCOLLECTED_DESCRIPTION": "Collect $30,480 total gold.",
+
+		"ACHIEVEMENT_FINDTIMEDCHEST_NAME": "[REDACTED]",
+		"ACHIEVEMENT_FINDTIMEDCHEST_DESCRIPTION": "Open the Timed Security Chest on Rallypoint Delta.",
+
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_NAME": "The Demons And The Crabs",
+		"ACHIEVEMENT_SUICIDEHERMITCRABS_DESCRIPTION": "Kill 20 Hermit Crabs by chasing them off the edge of the map.",
+		
+		"ACHIEVEMENT_MAJORMULTIKILL_NAME": "Multikill!",
+		"ACHIEVEMENT_MAJORMULTIKILL_DESCRIPTION": "Kill 15 enemies simultaneously.",
+		
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_NAME": "Prismatically Aligned",
+		"ACHIEVEMENT_COMPLETEPRISMATICTRIAL_DESCRIPTION": "Complete a Prismatic Trial.",
+
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_NAME": "Death Do Us Part",
+		"ACHIEVEMENT_KILLELEMENTALLEMURIANS_DESCRIPTION": "Discover the hidden chamber in the Abandoned Aqueduct.",
+
+		"ACHIEVEMENT_FREEMAGE_NAME": "Pause.",
+		"ACHIEVEMENT_FREEMAGE_DESCRIPTION": "Free the survivor suspended in time.",
+
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_NAME" : "Newtist",
+		"ACHIEVEMENT_FINDUNIQUENEWTSTATUES_DESCRIPTION" : "Discover and activate 8 unique Newt Altars.",
+
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_NAME" : "True Respite",
+		"ACHIEVEMENT_COMPLETEUNKNOWNENDING_DESCRIPTION" : "Obliterate yourself at the Obelisk..",
+
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_NAME" : "Flawless",
+		"ACHIEVEMENT_COMPLETETELEPORTERWITHOUTINJURY_DESCRIPTION" : "Fully charge a Teleporter without getting hit.",
+
+		"ACHIEVEMENT_MOVESPEED_NAME" : "Going Fast Recommended",
+		"ACHIEVEMENT_MOVESPEED_DESCRIPTION" : "Reach +300% movespeed (includes sprinting).",
+
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_NAME" : "The Basics",
+		"ACHIEVEMENT_DISCOVER10UNIQUETIER1_DESCRIPTION" : "Discover 10 unique white items.",
+
+		"ACHIEVEMENT_FAILSHRINECHANCE_NAME" : "\"Is This Bugged?\"",
+		"ACHIEVEMENT_FAILSHRINECHANCE_DESCRIPTION" : "Fail the Shrine of Chance 3 times in a row.",
+
+		"ACHIEVEMENT_LOOPONCE_NAME" : "Deja Vu?",
+		"ACHIEVEMENT_LOOPONCE_DESCRIPTION" : "Loop back to the first stage.",
+
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_NAME" : "...Maybe One More.",
+		"ACHIEVEMENT_REPEATEDLYDUPLICATEITEMS_DESCRIPTION" : "Duplicate the same item 7 times in a row with a 3D Printer.",
+
+		"ACHIEVEMENT_KILLBOSSQUICK_NAME" : "Keyed Up",
+		"ACHIEVEMENT_KILLBOSSQUICK_DESCRIPTION" : "Defeat the Teleporter boss under 15 seconds.",
+
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_NAME" : "Naturopath",
+		"ACHIEVEMENT_COMPLETETHREESTAGESWITHOUTHEALING_DESCRIPTION" : "Without healing, reach and complete the 3rd Teleporter event.",
+
+		"ACHIEVEMENT_FINDDEVILALTAR_NAME": "Her Concepts",
+		"ACHIEVEMENT_FINDDEVILALTAR_DESCRIPTION": "Find the Altar to N'kuhana.",
+
+		"ACHIEVEMENT_FINDCLAYDOLLS_NAME": "Lunar Omens",
+		"ACHIEVEMENT_FINDCLAYDOLLS_DESCRIPTION": "Find 10 Clay Dolls. <sprite name=\"WIP\"> This achievement is currently unimplemented. <sprite name=\"WIP\">",
+		
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_NAME": "Engineering Perfection",
+		"ACHIEVEMENT_COMPLETE30STAGESCAREER_DESCRIPTION": "Complete 30 stages.",
+		
+		"ACHIEVEMENT__NAME": "",
+		"ACHIEVEMENT__DESCRIPTION": "",
+
+	}
+}

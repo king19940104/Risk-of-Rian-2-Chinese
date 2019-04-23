@@ -1,0 +1,15 @@
+{
+	strings:
+	{
+	"DIFFICULTY_BAR_0": "Very Easy",
+	"DIFFICULTY_BAR_1": "Easy",
+	"DIFFICULTY_BAR_2": "Medium",
+	"DIFFICULTY_BAR_3": "Hard",
+	"DIFFICULTY_BAR_4": "Very Hard",
+	"DIFFICULTY_BAR_5": "Insane",
+	"DIFFICULTY_BAR_6": "Impossible",
+	"DIFFICULTY_BAR_7": "I SEE YOU",
+	"DIFFICULTY_BAR_8": "I'M COMING FOR YOU",
+	"DIFFICULTY_BAR_9": "HAHAHAHAHAHA",
+	}
+}

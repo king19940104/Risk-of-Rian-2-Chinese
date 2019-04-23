@@ -1,0 +1,21 @@
+{
+	strings:
+	{
+	"LOGBOOK" : "Logbook",
+	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "Item & Equipment",
+	"LOGBOOK_CATEGORY_ITEM" : "Item",
+	"LOGBOOK_CATEGORY_EQUIPMENT" : "Equipment",
+	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "Challenge",
+
+	"LOGBOOK_CATEGORY_MONSTER" : "Monster",
+	"LOGBOOK_CATEGORY_STAGE" : "Environment",
+	"LOGBOOK_CATEGORY_SURVIVOR" : "Survivor",
+	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragment",
+
+	"LOGBOOK_UNLOCK_ITEM_LOG" : "<i>Find this item in the world to unlock this log entry.</i>",
+	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "<i>Defeat this monster for a chance to unlock this log entry.</i>",
+	"LOGBOOK_UNLOCK_ITEM_STAGE" : "<i>Find and repair a Radar Tower in the stage to unlock this log entry.</i>",
+	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "<i>Play the game with this survivor to unlock this log entry.</i>",
+	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "<i>This log entry has an unknown unlock condition.</i>",
+	}
+}

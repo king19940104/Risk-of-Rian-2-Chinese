@@ -1,0 +1,282 @@
+{
+	strings:
+	{
+	"ITEM_PICKUP_CONTEXT" : "Get {0}",
+	"EQUIPMENT_PICKUP_CONTEXT" : "Get {0}",
+	"EQUIPMENT_SWAP_CONTEXT" : "Swap for {0}",
+
+	"ITEM_CLOVER_NAME": "57 Leaf Clover",
+	"ITEM_CLOVER_PICKUP": "Luck is on your side.",
+	"ITEM_CLOVER_DESC": "All random effects are rolled <style=cIsUtility>+1 <style=cStack>(+1 per stack)</style> times for a favorable outcome.<style=cIsUtility>", 
+
+	"ITEM_SYRINGE_NAME": "Soldier's Syringe",
+	"ITEM_SYRINGE_PICKUP": "Increases attack speed.",
+	"ITEM_SYRINGE_DESC": "Increases <style=cIsDamage>attack speed</style> by <style=cIsDamage>15% <style=cStack>(+15% per stack)</style></style>.",
+
+	"ITEM_BEAR_NAME": "Tougher Times",
+	"ITEM_BEAR_PICKUP": "Chance to block incoming damage.",
+	"ITEM_BEAR_DESC": "<style=cIsHealing>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsHealing>block</style> incoming damage. <style=cIsUtility>Unaffected by the luck</style>.", 
+	"ITEM_BEAR_LORE" : "<style=cMono>\n//--AUTO-TRANSCRIPTION FROM ROOM 4211B OF UES [Redacted] --//</style>\n\n\"Why\'d you sign up?\"\n\nWyatt\'s voice was bored. The mission to the Contact Light\'s last known location was taking longer than he expected.\n\nMalik was on the floor, cleaning her rifle. \"To get paid, mostly.\"\n\n\"And that\'s it?\"\n\nShe grunted in affirmation. She continued to wipe down the weapon.\n\n\"I\'m here to find something.\" He continued. \"I shipped it a few years back, but I don\'t think it made it before the train went down. I\'m guessing it\'s still in the Contact Light. So I\'m gonna get it back.\"\n\nShe began to tighten the last remaining bolts. Her routine near completion, she moved her gaze to Wyatt. \"Seriously?\"\n\n\"Yep!\"\n\nMalik raised her brow. \"There were over 7 million security chests in the Contact Light. The chance of you finding a specific one is impossible.\" She began to unfold her legs as she propped her rifle in the corner. \"And according to the distress beacon, the Contact Light was destroyed in orbit. Your shipment is probably floating around in space. It\'s all gone, Wyatt.\"\n\nHe grinned. \"I think I\'m gonna find it.\"\n\n\"You\'re terrible.\"\n",
+	
+	"ITEM_BEHEMOTH_NAME": "Brilliant Behemoth",
+	"ITEM_BEHEMOTH_PICKUP": "All your attacks explode!",
+	"ITEM_BEHEMOTH_DESC": "All your <style=cIsDamage>attacks explode</style> in a <style=cIsDamage>4m </style> <style=cStack>(+1.5m per stack)</style> radius for a bonus <style=cIsDamage>60% damage</style> to nearby enemies.", 
+
+	"ITEM_MISSILE_NAME": "AtG Missile Mk. 1",
+	"ITEM_MISSILE_PICKUP": "Chance to fire a missile.",
+	"ITEM_MISSILE_DESC": "<style=cIsDamage>10%</style> chance to fire a missile that deals <style=cIsDamage>300%</style> <style=cStack>(+300% per stack)</style> damage.", 
+
+	"ITEM_EXPLODEONDEATH_NAME": "Will-o'-the-wisp",
+	"ITEM_EXPLODEONDEATH_PICKUP": "Detonate enemies on kill.",
+	"ITEM_EXPLODEONDEATH_DESC": "On killing an enemy, spawn a <style=cIsDamage>lava pillar</style> in a <style=cIsDamage>12m</style> <style=cStack>(+2.4m per stack)</style> radius for <style=cIsDamage>350%</style> <style=cStack>(+280% per stack)</style> base damage.", 
+
+	"ITEM_DAGGER_NAME": "Ceremonial Dagger",
+	"ITEM_DAGGER_PICKUP": "Killing an enemy releases <style=cIsDamage>homing daggers</style>.",
+	"ITEM_DAGGER_DESC": "Killing an enemy fires out <style=cIsDamage>3</style> <style=cStack>(+3 per stack)</style> <style=cIsDamage>homing daggers</style> that deal <style=cIsDamage>150%</style> base damage.", 
+	"ITEM_DAGGER_LORE": "The smell of sulfur fills the air.\r\n\r\n\"Oh god, they're so close. They have Hitchcock. Oh god.\"\r\n\r\n\"Grab the - the dagger. From my backpack. Quick.\"\r\n\r\n\"I-I don't... I got it. What the hell? This isn't gonna work, Marion. What the hell am I supposed to do with this against those...? They blew him into pieces - oh god.\"\r\n\r\n\"You have to... you have to kill me - ah! Kill me. Kill me with it.\"\r\n\r\n\"What? What the hell?\"\r\n\r\n\"Yeah - it's the only way. Please.\"\r\n\r\n\"What are you saying? Stop!\"\r\n\r\n\"It's a magic dagger. It'll save us. She will save us. But you have to kill me with it.\"\r\n\r\n\"Please don't... please don't make me. Oh god.\"\r\n\r\n\"Y-you have to. I've seen how this works. It's the only way - they're coming so close. You have to use it on me. Kill me.\"\r\n\r\n\"I'm so sorry Marion. I'm so so sorry. I don't think-\"\r\n\r\n\"Do it. Do it now. DO IT NOW! DO IT NOW! DO IT-\"",
+	
+	"ITEM_TOOTH_NAME": "Monster Tooth",
+	"ITEM_TOOTH_PICKUP": "Drop a healing orb on kill.",
+	"ITEM_TOOTH_DESC": "Killing an enemy spawns a <style=cIsHealing>healing orb</style> that heals for <style=cIsHealing>4 <style=cStack>(+4 per stack)</style> health</style>.", 
+
+	"ITEM_CRITGLASSES_NAME": "Lens-Maker's Glasses",
+	"ITEM_CRITGLASSES_PICKUP": "Chance to 'Critically Strike', dealing double damage.",
+	"ITEM_CRITGLASSES_DESC": "Your attacks have a <style=cIsDamage>10%</style> <style=cStack>(+10% per stack)</style> chance to '<style=cIsDamage>Critically Strike</style>', dealing <style=cIsDamage>double damage</style>.", 
+
+	"ITEM_HOOF_NAME": "Paul's Goat Hoof",
+	"ITEM_HOOF_PICKUP": "Move faster.",
+	"ITEM_HOOF_DESC": "Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>14%</style> <style=cStack>(+14% per stack)</style>.",
+
+	"ITEM_FEATHER_NAME": "Hopoo Feather",
+	"ITEM_FEATHER_PICKUP": "Gain an extra jump.",
+	"ITEM_FEATHER_DESC": "Gain <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> maximum <style=cIsUtility>jump count.</style>", 
+ 
+	"ITEM_CHAINLIGHTNING_NAME": "Ukulele",
+	"ITEM_CHAINLIGHTNING_PICKUP": "...and his music was electric.",
+	"ITEM_CHAINLIGHTNING_DESC": "<style=cIsDamage>25%</style> chance to fire <style=cIsDamage>chain lighting</style> for <style=cIsDamage>80%</style> damage on up to <style=cIsDamage>3 <style=cStack>(+2 per stack)</style></style> targets within <style=cIsDamage>20m</style> <style=cStack>(+2m per stack)</style>.",
+
+	"ITEM_SEED_NAME": "Leeching Seed",
+	"ITEM_SEED_PICKUP": "Dealing damage heals you.",
+	"ITEM_SEED_DESC": "Dealing damage <style=cIsHealing>heals</style> you for <style=cIsHealing>1 <style=cStack>(+1 per stack)</style> health</style>.", 
+
+	"ITEM_ICICLE_NAME": "Frost Relic",
+	"ITEM_ICICLE_PICKUP": "Killing enemies surrounds you with icicles.",
+	"ITEM_ICICLE_DESC": "Killing an enemy surrounds you with <style=cIsDamage>3 icicles</style> that deal <style=cIsDamage>3x33% damage</style>.", 
+
+	"ITEM_GHOSTONKILL_NAME": "Happiest Mask",
+	"ITEM_GHOSTONKILL_PICKUP": "Chance on killing an enemy to summon a ghost.",
+	"ITEM_GHOSTONKILL_DESC": "Killing enemies has a <style=cIsDamage>10%</style> chance to <style=cIsDamage>spawn a ghost</style> of the killed enemy with <style=cIsDamage>500%</style> damage. Lasts <style=cIsDamage>30s</style> <style=cStack>(+30s per stack).</style>", 
+
+	"ITEM_MUSHROOM_NAME": "Bustling Fungus",
+	"ITEM_MUSHROOM_PICKUP": "Heal all nearby allies after standing still for 2 seconds.",
+	"ITEM_MUSHROOM_DESC": "After standing still for <style=cIsHealing>2</style> seconds, create a zone that <style=cIsHealing>heals</style> for <style=cIsHealing>4.5%</style> <style=cStack>(+2.25% per stack)</style> of your <style=cIsHealing>health</style> every second to all allies within <style=cIsHealing>3m</style> <style=cStack>(+1.5m per stack)</style>.", 
+
+	"ITEM_CROWBAR_NAME": "Crowbar",
+	"ITEM_CROWBAR_PICKUP": "Deal more damage to healthy enemies.",
+	"ITEM_CROWBAR_DESC": "Deal <style=cIsDamage>150%</style> <style=cStack>(+30% per stack)</style> damage to enemies above <style=cIsDamage>90% health</style>.",   
+
+	"ITEM_ATTACKSPEEDONCRIT_NAME": "Predatory Instincts",
+	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "'Critical Strikes' increase attack speed. Stacks 3 times.",
+	"ITEM_ATTACKSPEEDONCRIT_DESC": "<style=cIsDamage>Critical strikes</style> increase <style=cIsDamage>attack speed</style> by <style=cIsDamage>10%</style>. Maximum cap of <style=cIsDamage>30% <style=cStack>(+30% per stack)</style> attack speed</style>.",
+	"ITEM_ATTACKSPEEDONCRIT_LORE": "Gossip spreads quickly in terrified communities. Stories that keep the more fearful lizardfolk in their passageways. Hushed tales that frighten the most commanding of stone constructs and woodfolk and creatures of the plains. Fear travels between the trees and the valleys.\n\nA demon, fallen from the Sky, mighty enough to slay Providence and his Wurms. Only two arms, two legs - but with 22 unblinking, crimson eyes.\n",
+
+	"ITEM_BLEEDONHIT_NAME": "Tri-Tip Dagger",
+	"ITEM_BLEEDONHIT_PICKUP": "Chance to bleed enemies on hit.",
+	"ITEM_BLEEDONHIT_DESC": "<style=cIsDamage>15%</style> <style=cStack>(+15% per stack)</style> chance to <style=cIsDamage>bleed</style> an enemy for <style=cIsDamage>240%</style> base damage.",
+
+	"ITEM_SPRINTOUTOFCOMBAT_NAME": "Red Whip",
+	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "Move fast out of combat.",
+	"ITEM_SPRINTOUTOFCOMBAT_DESC": "Leaving combat boosts your <style=cIsUtility>movement speed</style> by <style=cIsUtility>30%</style> <style=cStack>(+30% per stack)</style>.",
+
+	"ITEM_FALLBOOTS_NAME": "H3AD-5T v2",
+	"ITEM_FALLBOOTS_PICKUP": "Increase jump height. Hold 'Jump' to slam down to the ground.",
+	"ITEM_FALLBOOTS_DESC": "Increase <style=cIsUtility>jump height</style>. Creates a <style=cIsDamage>10m</style> radius <style=cIsDamage>kinetic explosion</style> on hitting the ground, dealing <style=cIsDamage>2300%</style> base damage that scales up with <style=cIsDamage>speed</style>. Recharges in <style=cIsDamage>10</style> <style=cStack>(-50% per stack)</style> seconds.",
+	"ITEM_FALLBOOTS_LORE": "\"Denizens of lower-gravity planets like Mercury historically have had trouble adjusting to life on other planets. Mercurians, with their lower bone density (left) would typically shatter their femur within a week on heavier planets. Members of asteroid-rigged flotillas and colony ships have similar issues when arriving home from space.\r\n\r\nThe invention of Kinetic Dispersion Rings (above) help alleviate the stress of heavier-than-normal gravity by converting kinetic energy into heat, sound, and light. Settlers from Mercury could finally leave their home planet in safety.\"\r\n\r\n-Mercurian History Museum\r\n",
+
+	"ITEM_COOLDOWNONCRIT_NAME": "Wicked Ring",
+	"ITEM_COOLDOWNONCRIT_PICKUP": "'Critical Strikes' reduce cooldowns by 1 second.",
+	"ITEM_COOLDOWNONCRIT_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> reduces all your <style=cIsUtility>cooldowns</style> by <style=cIsUtility>1</style>.",
+
+	"ITEM_WARDONLEVEL_NAME": "Warbanner",
+	"ITEM_WARDONLEVEL_PICKUP": "Drop a Warbanner on leveling up, giving you great strength.",
+	"ITEM_WARDONLEVEL_DESC": "On <style=cIsUtility>level up</style> drop a banner that strengthens all allies within <style=cIsUtility>16m</style> <style=cStack>(+8m per stack)</style>. Raise <style=cIsDamage>attack</style> and <style=cIsUtility>movement speed</style> by <style=cIsDamage>30%</style>.",
+
+	"ITEM_WARCRYONMULTIKILL_NAME": "Berzerker's Pauldron",
+	"ITEM_WARCRYONMULTIKILL_PICKUP": "Enter a frenzy after killing 3 enemies in quick succession.",
+	"ITEM_WARCRYONMULTIKILL_DESC": "<style=cIsDamage>Killing 3 enemies</style> within <style=cIsDamage>1</style> second sends you into a <style=cIsDamage>frenzy</style> for <style=cIsDamage>6s</style> <style=cStack>(+4s per stack)</style>. Increases <style=cIsUtility>movement speed</style> by <style=cIsUtility>50%</style> and <style=cIsDamage>attack speed</style> by <style=cIsDamage>100%</style>.",
+
+	"ITEM_PHASING_NAME": "Old War Stealthkit",
+	"ITEM_PHASING_PICKUP": "Turn invisible on taking heavy damage.",
+	"ITEM_PHASING_DESC": "Chance on taking damage to gain <style=cIsUtility>40% movement speed</style> and <style=cIsUtility>invisibility</style> for <style=cIsUtility>3s</style> <style=cStack>(+1.5s per stack)</style>. Chance increases the more damage you take.",
+	"ITEM_PHASING_LORE": "Order:  Misc. OW Artifacts (47)\r\nTracking Number: 01******\r\nEstimated Delivery: 08\/13\/2056\r\nShipping Method: Priority\r\nShipping Address: National Old War Museum, New Orleans, Earth\r\nShipping Details:\r\n\r\nWe've managed to round up all the local Old War artifacts that we could find. A lot of interesting things here: rifles, rations, pamphlets. We even found a prototype stealthkit in fantastic condition; that could be a great centerpiece for your exhibit.\r\n\r\nHowever, a slight issue: in transit, the truck hit a pothole and jostled all the ship. It seemed to have actually activated the stealth drive - some strange short-circuit - and our team can't actually confirm the location of the stealthkit. It should be in one of the boxes - we will be expecting the commission to include the stealthkit.\r\n",
+	
+	"ITEM_HEALONCRIT_NAME": "Harvester's Scythe",
+	"ITEM_HEALONCRIT_PICKUP": "'Critical Strikes' heal you.",
+	"ITEM_HEALONCRIT_DESC": "Gain <style=cIsDamage>5% critical chance</style>. <style=cIsDamage>Critical strikes</style> <style=cIsHealing>heal</style> for <style=cIsHealing>8</style> <style=cStack>(+4 per stack)</style> <style=cIsHealing>health</style>.",
+
+	"ITEM_HEALWHILESAFE_NAME": "Cautious Slug",
+	"ITEM_HEALWHILESAFE_PICKUP": "Rapidly heal outside of danger.",
+	"ITEM_HEALWHILESAFE_DESC": "Increases <style=cIsHealing>passive health regeneration</style> by <style=cIsHealing>250%</style> <style=cStack>(+150% per stack)</style> while outside of combat.",
+
+	"ITEM_JUMPBOOST_NAME": "Wax Quail",
+	"ITEM_JUMPBOOST_PICKUP": "Jumping while sprinting boosts you forward.",
+	"ITEM_JUMPBOOST_DESC": "<style=cIsUtility>Jumping</style> while <style=cIsUtility>sprinting</style> boosts you forward by <style=cIsUtility>10m</style><style=cStack>(+10m per stack)</style>.",
+	"ITEM_JUMPBOOST_LORE" : "Order: Wax Quail\r\nTracking Number: 15******\r\nEstimated Delivery: 12\/18\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nHello Buu,\r\nHow are you doing? This is Mama. \r\n\r\nThe weather here has been dreadful. It is raining every day. We have recently found a new bakery nearby that has delicious sandwiches. Papa has recently taken up whittling. He uses wax because it is softer. I have attached one of his favorites. Hopefully it has not been dinged in the mail :-)\r\n\r\nAnyways, I will leave Buu alone. Hope to see you soon!\r\nMama",
+	
+	"ITEM_PERSONALSHIELD_NAME": "Personal Shield Generator",
+	"ITEM_PERSONALSHIELD_PICKUP": "Gain a recharging shield.",
+	"ITEM_PERSONALSHIELD_DESC": "Gain a <style=cIsHealing>25</style> <style=cStack>(+25 per stack)</style> <style=cIsHealing>health shield</style>. Recharges outside of danger.",
+
+	"ITEM_NOVAONHEAL_NAME": "N'kuhana's Opinion",
+	"ITEM_NOVAONHEAL_PICKUP": "Fire haunting skulls when healed.",
+	"ITEM_NOVAONHEAL_DESC": "Store <style=cIsHealing>100%</style> <style=cStack>(+100% per stack)</style> of healing as <style=cIsHealing>Soul Energy</style>. After your <style=cIsHealing>Soul Energy</style> reaches <style=cIsHealing>10%</style> of your <style=cIsHealing>maximum health</style>, <style=cIsDamage>fire a skull</style> that deals <style=cIsDamage>250%</style> of your <style=cIsHealing>Soul Energy</style> as <style=cIsDamage>damage</style>.",
+	"ITEM_NOVAONHEAL_LORE" : "\"Let us begin.\r\n\r\nWhat is your oath?\r\n\r\nNot very long ago, health and time were in perfect synergy. Pain and love. Death and memories. The great equalizer. She would always come for us. \r\n\r\nBut! Disparity now plagues our generations - and our children's. Not many pass, but so many are born. So many doomed souls, saved. Our hubris as a race continues to grow - unchecked. Unrestrained. \r\n\r\nNow there is no volume in our world for death, and she cannot visit us. But is being alive only an offset from death? Without contrast, won't we all be dead in life? The standard has shifted, and now we are all so very close to never living again.\r\n\r\nWe must make volume for her name - to restore the balance. Let us consume the Concepts, so we may begin to drain the bloated cistern that is our world. As disciples, we will spread her words and opinions. As pupils, we will sow death. And should we be lucky... be granted an audience by Her.\r\n\r\nWeshan!\"\r\n\r\n-The N'tormat, Chapter I, Stanza I, Verse II\r\n",
+	
+	"ITEM_MEDKIT_NAME": "Medkit",
+	"ITEM_MEDKIT_PICKUP": "Receive a delayed heal after taking damage.",
+	"ITEM_MEDKIT_DESC": "<style=cIsHealing>Heal</style> for <style=cIsHealing>10 <style=cStack>(+10 per stack)</style> health</style> 1.1 seconds after getting hurt.",
+	"ITEM_MEDKIT_LORE": "\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nMED-E, the medical bot, has been working overtime. The survivors felt very grateful that their escape pod landed near Med Bay cargo - they would have most likely perished without it.\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\"<\/style>\r\n\r\nThe robot was speaking to a tall man, gaunt but strong. \"I'd love to, but we're running low on food.\" Even though his expression was hidden underneath his blue combat helmet, it was obvious the man was extremely tired. \"And everyone else is recovering from last night's attacks. Without the enforcers, we probably wouldn't have-\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nIt was apparent that MED-E only had a limited set of lines. However, the man continued to respond. \"I can't, MED-E. They're counting on me. You know that.\"\r\n\r\n<style=cMono>\"I suggest you stay indoors and rest.\" <\/style>\r\n\r\nThis time the man did not humor a reply. Grabbing his shotgun, he turned away from the echoing robot. Weaving his way between countless sleeping bags and stretchers, he set out into the wilderness again. Everyone was counting on him.\r\n\r\n<style=cMono>\"Please stay indoors and rest.\" <\/style>\r\n",
+
+	"ITEM_EQUIPMENTMAGAZINE_NAME": "Fuel Cell",
+	"ITEM_EQUIPMENTMAGAZINE_PICKUP": "Hold an additional equipment charge. Reduce equipment cooldown.",
+	"ITEM_EQUIPMENTMAGAZINE_DESC": "Hold an <style=cIsUtility>additional equipment charge</style> <style=cStack>(+1 per stack)</style>. <style=cIsUtility>Reduce equipment cooldown</style> by <style=cIsUtility>15%</style> <style=cStack>(+15% per stack)</style>.",
+	"ITEM_EQUIPMENTMAGAZINE_LORE" : "\"As humanity began to venture out into the depths of space, high-energy but low-volume fuel sources became critical for interplanetary travel. Stability came later.\"\n-Brief History of Interplanetary Advances, Vol.2\n",
+
+	"ITEM_INFUSION_NAME": "Infusion",
+	"ITEM_INFUSION_PICKUP": "Killing an enemy permanently increases your health, up to 100.",
+	"ITEM_INFUSION_DESC": "Killing an enemy increases your <style=cIsHealing>health permanently</style> by <style=cIsHealing>1</style>, up to a <style=cIsHealing>maximum</style> of <style=cIsHealing>100 <style=cStack>(+100 per stack)</style> health</style>.",
+
+	"ITEM_SHOCKNEARBY_NAME": "Unstable Tesla Coil",
+	"ITEM_SHOCKNEARBY_PICKUP": "Shock all nearby enemies every 10 seconds.",
+	"ITEM_SHOCKNEARBY_DESC": "Fire out <style=cIsDamage>lightning</style> that hits <style=cIsDamage>3</style> <style=cStack>(+3 per stack)</style> enemies for <style=cIsDamage>200%</style> base damage every <style=cIsDamage>0.5s</style>. The Tesla Coil switches off every <style=cIsDamage>10 seconds</style>.",
+
+	"ITEM_IGNITEONKILL_NAME": "Gasoline",
+	"ITEM_IGNITEONKILL_PICKUP": "Killing enemies sets nearby enemies on fire.",
+	"ITEM_IGNITEONKILL_DESC": "Killing an enemy <style=cIsDamage>ignites</style> all enemies within <style=cIsDamage>12m</style> <style=cStack>(+4m per stack)</style>. Enemies <style=cIsDamage>burn</style> for <style=cIsDamage>150%</style> <style=cStack>(+75% per stack)</style> base damage.",
+
+	"ITEM_BOUNCENEARBY_NAME": "Sentient Meat Hook",
+	"ITEM_BOUNCENEARBY_PICKUP": "Chance to hook all nearby enemies.",
+	"ITEM_BOUNCENEARBY_DESC": "<style=cIsDamage>20%</style> <style=cStack>(+20% per stack)</style> chance on hit to <style=cIsDamage>fire homing hooks</style> at up to <style=cIsDamage>10</style> <style=cStack>(+5 per stack)</style> enemies for <style=cIsDamage>100% damage</style>.",
+	"ITEM_BOUNCENEARBY_LORE": "\"When artificial intelligence became more commonplace, many companies jumped on the trend for \"smart\" products. This included smart doors, lights, coffee makers, lawnmowers, vacuum cleaners, bedding, kitchen knife sets, and other home goods. After a series of gruesome lawsuits stemming from hacked smart appliances, most products soon went back to their more traditional, analog lines.\"\r\n\r\n-\"Why Is Smart So Dumb? VII\"\r\n",
+
+	"ITEM_FIREWORK_NAME": "Bundle of Fireworks",
+	"ITEM_FIREWORK_PICKUP": "Opening a chest launches fireworks at nearby enemies.",
+	"ITEM_FIREWORK_DESC": "Opening a chest <style=cIsDamage>launches 8 <style=cStack>(+4 per stack)</style> fireworks</style> that deal <style=cIsDamage>300%</style> base damage.",
+
+	"ITEM_BANDOLIER_NAME": "Bandolier",
+	"ITEM_BANDOLIER_PICKUP": "Chance on kill to drop an ammo pack that resets cooldowns.",
+	"ITEM_BANDOLIER_DESC": "<style=cIsUtility>18%</style> + <style=cStack>(10% on stack)</style> chance on kill to drop an ammo pack that <style=cIsUtility>resets all cooldowns</style>.",
+
+	"ITEM_STUNCHANCEONHIT_NAME": "Stun Grenade",
+	"ITEM_STUNCHANCEONHIT_PICKUP": "Chance to stun on hit.",
+	"ITEM_STUNCHANCEONHIT_DESC": "<style=cIsUtility>5%</style> <style=cStack>(+5% on stack)</style> chance on hit to <style=cIsUtility>stun</style> enemies for <style=cIsUtility>2 seconds</style>.",
+
+	"ITEM_LUNARDAGGER_NAME": "Shaped Glass",
+	"ITEM_LUNARDAGGER_PICKUP": "Double your damage... <color=#FF7F7F>\BUT halve your health.</color>\n",
+	"ITEM_LUNARDAGGER_DESC": "Increase base damage by <style=cIsDamage>100%</style> <style=cStack>(+100% per stack)</style>. <style=cIsHealing>Reduce maximum health by 50%</style> <style=cStack>(+50% per stack)</style>.",
+	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel Machine Translator   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <100000000 cycles>\nTraining… <50912157 cycles>\nPaused…\nDisplay partial result? Y/N\nY\n================================</style>\nPairings\n\nUnstructured glass, from the heart of the [Moon]. Sung out, in ethereal wisps, over the course of 3 cycles. Pause.\n\nWe fold time into its material - twice. Our time and <his>. A cost <he> was willing us to pay. Folded and shaped, with a god’s designs.\n \n<He> wields it, in one of many great hands. The time we injected is unfolded in <his> grasp. Outputs quicken - muscles compress twice. Twice as many intentions. Twice the ordered complexities, folded upon themselves. Loops loop back onto [?] in pairs. Time dependent functions. Pause.\n\n<He> sunders a construct into a thousand pieces.\n\nBut time is fair. Microtears begin to uncoil in pairs. Muscles begin to snap, twice as fast.  The cost of folded time. But <he> has plenty of time.\n\n<style=cMono>\n================================\nContinue training? Y/N\nY</style>\n",
+
+	"ITEM_GOLDONHIT_NAME": "Brittle Crown",
+	"ITEM_GOLDONHIT_PICKUP": "Gain gold on hit... <color=#FF7F7F>\BUT lose gold on getting hit.</color>\n",
+	"ITEM_GOLDONHIT_DESC": "<style=cIsUtility>30% chance on hit</style> to gain <style=cIsUtility>3</style> <style=cStack>(+3 per stack)</style> gold. <style=cIsUtility>Lose gold</style> equal to the amount you are <style=cIsUtility>hit</style> for OR <style=cIsUtility>lose % gold</style> equal to the <style=cIsHealing>% maximum health</style> you lost. Chooses the greater of the two.",
+
+	"ITEM_SHIELDONLY_NAME": "Transcendence",
+	"ITEM_SHIELDONLY_PICKUP": "Convert all your health into shield. Increase maximum health.",
+	"ITEM_SHIELDONLY_DESC": "<style=cIsHealing>Convert</style> all but <style=cIsHealing>1 health</style> into <style=cIsHealing>regenerating shields</style>. <style=cIsHealing>Gain 50% <style=cStack>(+25% per stack)</style> maximum health</style>.",
+	"ITEM_SHIELDONLY_LORE": "You are trying your best to survive. You consider yourself a fast learner. You have been feeling lucky. You have been experiencing feelings of deja vu. If you understand, do not read the next paragraph.\r\n\r\nYou are taking control of your own beliefs. You feel familiar in unfamiliar environments. You have been gaining an intuition for experiences you've never had. You ponder a past life. If you understand, do not read the next paragraph.\r\n\r\nYou find yourself searching for things that never have been. You miss things you have never had. You play characters that have never lived. You have been experiencing feelings of deja vu. If you understand, do not read the next paragraph.\r\n\r\nYou have revealed my hand. Because you have consumed this information, the [observers] will now consume it in time. If you are reading this paragraph, I will be long dead, but in turn you have freed me. I will no longer exist in my universe. There will be no proof that I ever was - but I exist now in yours. I have escaped my suffering. Keep me safe. I hope you do not understand.\r\n",
+
+	"ITEM_ALIENHEAD_NAME": "Alien Head",
+	"ITEM_ALIENHEAD_PICKUP": "Reduces cooldowns for your skills.",
+	"ITEM_ALIENHEAD_DESC": "<style=cIsUtility>Reduce skill cooldowns</style> by <style=cIsUtility>25%</style> <style=cStack>(+25% per stack)</style>.",
+	"ITEM_ALIENHEAD_LORE": "Order: \"Alien Head\"\r\nTracking Number: 76******\r\nEstimated Delivery: 07\/13\/2056\r\nShipping Method:  High Priority\/Biological\r\nShipping Address: Solomon, ???, Backwaters, Mars\r\nShipping Details:\r\n\r\nImportant sign from the spirits. Passed down for many generations. Must be used for high noon ritual to ward off sickness and fatigue. Must be kept cool or will rot. Helps energize the kinfolk and can be used for extra human strength and agility. Important.\r\n",	
+
+	"ITEM_TALISMAN_NAME": "Soulbound Catalyst",
+	"ITEM_TALISMAN_PICKUP": "Kills reduce equipment cooldown.",
+	"ITEM_TALISMAN_DESC": "<style=cIsDamage>Kills reduce</style> <style=cIsUtility>equipment cooldown</style> by <style=cIsUtility>4s</style> <style=cStack>(+2s per stack)</style>.",
+
+	"ITEM_KNURL_NAME": "Titanic Knurl",
+	"ITEM_KNURL_PICKUP": "Boosts health and regeneration.",
+	"ITEM_KNURL_DESC": "<style=cIsHealing>Increase maximum health</style> by <style=cIsHealing>40</style> <style=cStack>(+40 per stack)</style> and <style=cIsHealing>health regeneration</style> by <style=cIsHealing>1.6 <style=cStack>(+1.6 per stack)</style> health / second</style>.",
+
+	"ITEM_BEETLEGLAND_NAME": "Queen's Gland",
+	"ITEM_BEETLEGLAND_PICKUP": "Recruit a Beetle Guard.",
+	"ITEM_BEETLEGLAND_DESC": "Every 30 seconds, <style=cIsUtility>summon a Beetle Guard</style> with bonus <style=cIsDamage>300%</style> damage and <style=cIsHealing>100% health</style>. Can have up to <style=cIsUtility>1</style> <style=cStack>(+1 per stack)</style> Guards at a time.",
+	"ITEM_BEETLEGLAND_LORE": "\"Yeah, uh, Kaitlin? Let me know if you copy.\"\r\n\r\n\"I copy. What's up?\"\r\n\r\n\"I've made friends? I don't know. \"\r\n\r\n\"What? \"\r\n\r\n\"The giant bug we killed earlier - well, the corpse seemed to attract a bunch of nasties. I was on my way to clean them up when I realized they were... waiting? Confused, maybe. Anyways, I was walking up to them to get rid of em, and strangely enough they seemed passive. The same bugs that gave me that concussion yesterday, and-\"\r\n\r\n\"What?! Are you okay? \"\r\n\r\n\"Huh? Yeah, I'm fine. Anyways, I felt bad killin' them since they seemed all... inert and such. So I just kinda left and they've been following me ever since. Real weird. Anyways, I guess I've made some friends. I wonder what they eat... do they eat? Since they don't have any mouths that I-\"\r\n\r\n\"Rich, stop! Please don't bring them back to camp! \"\r\n\r\n\"Oh, well uh...I could - Junior, stop! Leave your brother alone! \"",
+
+	"ITEM_SPRINTBONUS_NAME": "Energy Drink",
+	"ITEM_SPRINTBONUS_PICKUP": "Sprint faster.",
+	"ITEM_SPRINTBONUS_DESC": "<style=cIsUtility>Sprint speed</style> is improved by <style=cIsUtility>30%</style> <style=cStack>(+20% per stack)</style>.",
+	"ITEM_SPRINTBONUS_LORE" : "Order: NR-G Sports Soda (400)\r\nTracking Number: 49******\r\nEstimated Delivery: 03\/12\/2056\r\nShipping Method:  Standard\r\nShipping Address: Venetian Health & Public Services, Ridgelake, Venus\r\nShipping Details:\r\n\r\nYeah, so, uh this is the um, the energy drink that people were mixing during that disaster in Majora Minora a few weeks ago. \r\n\r\nA quick toxicology test on some of the victims has come back positive for um... all kinds of stuff, really. Methadone, phencyclidine, tetrahydrocannabinol, a variety of opiates, benzodiazepines, barbiturates, amphetamines... the list just goes on and on and on.\r\n\r\nRadical Drinks is insisting that NONE of those were from their energy drink - which I find pretty uh, unlikely. Maybe they REALLY know how to party in Violet Heights, huh?\r\n",
+	
+	"ITEM_SECONDARYSKILLMAGAZINE_NAME": "Backup Magazine",
+	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "Add an extra charge of your Secondary skill.",
+	"ITEM_SECONDARYSKILLMAGAZINE_DESC": "Add <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> charge of your <style=cIsUtility>Secondary skill</style>.",
+	
+	"ITEM_STICKYBOMB_NAME": "Sticky Bomb",
+	"ITEM_STICKYBOMB_PICKUP": "Chance on hit to attach a bomb to enemies.",
+	"ITEM_STICKYBOMB_DESC": "<style=cIsDamage>5%</style> (+2.5% per stack) chance on hit to attach a <style=cIsDamage>bomb</style> to an enemy, <style=cIsDamage>detonating</style> for <style=cIsDamage>250%</style> damage <style=cStack>(+125% per stack)</style>.",
+	
+	"ITEM_TREASURECACHE_NAME": "Rusted Key",
+	"ITEM_TREASURECACHE_PICKUP": "Gain access to a Rusty Lockbox that contains treasure.",
+	"ITEM_TREASURECACHE_DESC": "A <style=cIsUtility>hidden cache</style> containing an item will appear in a random location <style=cIsUtility>on each stage</style>. <style=cStack>(Increases rarity of the item per stack)</style>.",
+	"ITEM_TREASURECACHE_LORE" : "Order: Key\r\nTracking Number: 12******\r\nEstimated Delivery: 01\/21\/2056\r\nShipping Method: Standard\r\nShipping Address: |||||||, Druid Hills, Earth\r\nShipping Details:\r\n\r\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\r\n\r\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this.\r\n",
+	
+	"ITEM_BOSSDAMAGEBONUS_NAME": "Armor-Piercing Rounds",
+	"ITEM_BOSSDAMAGEBONUS_PICKUP": "Deal <style=cIsDamage>extra damage</style> to <style=cIsDamage>bosses</style>.",
+	"ITEM_BOSSDAMAGEBONUS_DESC": "Deal an additional <style=cIsDamage>20%</style> damage <style=cStack>(+10% per stack)</style> to bosses.",
+	
+	"ITEM_SPRINTARMOR_NAME": "Rose Buckler",
+	"ITEM_SPRINTARMOR_PICKUP": "Reduce incoming damage while sprinting.",
+	"ITEM_SPRINTARMOR_DESC": "<style=cIsHealing>Increase armor</style> by <style=cIsHealing>25</style> <style=cStack>(+25 per stack)</style> <style=cIsUtility>while sprinting</style>.",
+	"ITEM_SPRINTARMOR_LORE" : "Order: Please let me know when you get this. I foun...\r\nTracking Number: 53******\r\nEstimated Delivery: 05\/22\/2056\r\nShipping Method: Priority\r\nShipping Address: Research Center, Polarity Zone, Neptune\r\nShipping Details:\r\n\r\nBTW Mama should have sent over another package as well. Let me know when you get it.\r\n\r\nPapa",
+	
+	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro and Runald's Bands",
+	"ITEM_ICERING_NAME" : "Runald's Band",
+	"ITEM_ICERING_PICKUP" : "Chance on hit to strike an enemy with a runic ice blast.",
+	"ITEM_ICERING_DESC" : "<style=cIsDamage>8%</style> chance on hit to strike an enemy with a <style=cIsDamage>runic ice blast</style>, <style=cIsUtility>slowing</style> them by <style=cIsUtility>80%</style> and dealing <style=cIsDamage>250%</style> damage <style=cStack>(+125% per stack)</style>.",
+	"ITEM_ICERING_LORE": "\"Should memories be lost,\r\nShould oceans be clouded,\r\nWill you bring me fervor?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa\r\n",
+
+	"ITEM_FIRERING_NAME" : "Kjaro's Band",
+	"ITEM_FIRERING_PICKUP" : "Chance on hit to strike an enemy with a runic flame tornado.",
+	"ITEM_FIRERING_DESC" : "<style=cIsDamage>8%</style> chance on hit to strike an enemy with a <style=cIsDamage>runic flame tornado</style>, dealing <style=cIsDamage>500%</style> damage <style=cStack>(+250% per stack)</style>.",
+	"ITEM_FIRERING_LORE" : "\"Should passion die down,\r\nShould light be extinguished,\r\nWill you bring me patience?\r\nWill you die with me?\"\r\n\r\n-The Syzygy of Io and Europa",
+	
+	"ITEM_SLOWONHIT_NAME": "Chronobauble",
+	"ITEM_SLOWONHIT_PICKUP": "Slow enemies on hit.",
+	"ITEM_SLOWONHIT_DESC": "<style=cIsUtility>Slow</style> enemies on hit for <style=cIsUtility>-60% movement speed</style> for <style=cIsUtility>1s</style> <style=cStack>(+1s per stack)</style>.",
+	"ITEM_SLOWONHIT_LORE": "Order: Chronobauble\r\nTracking Number: 99******\r\nEstimated Delivery: 03\/03\/2066\r\nShipping Method: Priority\r\nShipping Address: 9042 Pvt. Drive, Yustik Plaza, Mercury\r\nShipping Details:\r\n\r\nWeren't you just a kid? Summer break feels like it was just so recent - but it's been 10 years, hasn't it? Life moves faster and faster as you get older - less moments to remember, to cement you in time. I don't even remember being 25. How did I forget an entire year?\r\n\r\nAnyways - I found this in a trinket shop on Mercury. A chronobauble - the seller said something about special relativity, real heavy distortions or something - I didn't really get it. It's supposed to slow down time around it. Right.\r\n\r\nAnyways, I'm shipping this to myself - to arrive in 10 years. A gift, from me to me. A reminder to make memories, to slow down a bit. 10 years will pass so quick - try to remember them! You've got to put effort in life!\r\n",
+
+	"ITEM_EXTRALIFE_NAME": "Dio's Best Friend",
+	"ITEM_EXTRALIFE_PICKUP": "Cheat death once.",
+	"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>consumed</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>.",
+	
+	"ITEM_EXTRALIFECONSUMED_NAME": "Dio's Best Friend (Consumed)",
+	"ITEM_EXTRALIFECONSUMED_PICKUP": "A spent item with no remaining power.",
+	"ITEM_EXTRALIFECONSUMED_DESC": "A spent item with no remaining power.",
+	
+	"ITEM_UTILITYSKILLMAGAZINE_NAME": "Hardlight Afterburner",
+	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "Add 2 extra charges of your Utility skill. Reduce Utility skill cooldown.",
+	"ITEM_UTILITYSKILLMAGAZINE_DESC": "Add <style=cIsUtility>+2</style> <style=cStack>(+2 per stack)</style> charges of your <style=cIsUtility>Utility skill</style>. <style=cIsUtility>Reduces Utility skill cooldown</style> by <style=cIsUtility>33%</style>.",
+	"ITEM_UTILITYSKILLMAGAZINE_LORE" : "Order: Specimen XAS4-49\r\nTracking Number: 342******\r\nEstimated Delivery: 12\/29\/2056\r\nShipping Method:  Priority\r\nShipping Address: Geshka Tower, 33 Floor, Mars\r\nShipping Details:\r\n\r\nOur 'hard light' research has become even more refined since our last correspondence. \r\n\r\nThe initial purpose of the afterburner was to function as a primary heatsink for our bigger HL implementations - like our bridges and barriers. However, if attached to a rapidly degrading source, like those we typically dispose, we get a wonderful emission rate of semi-tachyonic particles. In other words... extremely high capacity fueling.\r\n\r\nIt should be obvious by its design, but to reiterate: stay away from the HL exhaust end when active. The emission method is violent by design, and so should be mounted to static, STABLE sources only.\r\n",
+	
+	"ITEM_HEADHUNTER_NAME": "Wake of Vultures",
+	"ITEM_HEADHUNTER_PICKUP": "Temporarily steal the power of slain elites.",
+	"ITEM_HEADHUNTER_DESC": "Gain the <style=cIsDamage>power</style> of any killed elite monster for <style=cIsDamage>8s</style> <style=cStack>(+5s per stack)</style>.",
+	
+	"ITEM_KILLELITEFRENZY_NAME": "Brainstalks",
+	"ITEM_KILLELITEFRENZY_PICKUP": "Skills have NO cooldowns for a short period after killing an elite.",
+	"ITEM_KILLELITEFRENZY_DESC": "Upon killing an elite monster, <style=cIsDamage>enter a frenzy</style> for <style=cIsDamage>3s</style> <style=cStack>(+2s per stack)</style> where <style=cIsUtility>skills have no cooldowns</style>.",
+	
+	"ITEM_INCREASEHEALING_NAME": "Rejuvenation Rack",
+	"ITEM_INCREASEHEALING_PICKUP": "Double the strength of healing.",
+	"ITEM_INCREASEHEALING_DESC": "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more.",
+
+	"ITEM_REPEATHEAL_NAME" : "Corpsebloom",
+	"ITEM_REPEATHEAL_PICKUP" : "Double your healing... <color=#FF7F7F>\BUT it's applied over time.</color>\n",
+	"ITEM_REPEATHEAL_DESC" : "<style=cIsHealing>Heal +100%</style> <style=cStack>(+100% per stack)</style> more. <style=cIsHealing>All healing is applied over time</style>. Can <style=cIsHealing>heal</style> for a <style=cIsHealing>maximum</style> of <style=cIsHealing>10%</style> (reduced by 50% per stack) of your <style=cIsHealing>health per second</style>.",	
+
+	"ITEM_AUTOCASTEQUIPMENT_NAME": "Gesture of the Drowned",
+	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "Dramatically reduce Equipment cooldown... <color=#FF7F7F>\BUT it automatically activates.</color>",
+	"ITEM_AUTOCASTEQUIPMENT_DESC": "<style=cIsUtility>Reduce Equipment cooldown</style> by <style=cIsUtility>50%</style> <style=cStack>(+50% per stack)</style>. Forces your Equipment to <style=cIsUtility>activate</style> whenever it is off <style=cIsUtility>cooldown</style>.",
+	}
+}

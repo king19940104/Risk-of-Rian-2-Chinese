@@ -1,0 +1,151 @@
+{
+	strings:
+	{
+	//[INTERACTABLES],
+	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "Exit Escape Pod",
+
+	"TELEPORTER_NAME": "Teleporter",
+	"TELEPORTER_BEGIN_CONTEXT": "Activate Teleporter..?",
+	"TELEPORTER_END_CONTEXT": "Enter Teleporter",
+
+	"BARREL1_NAME": "Barrel",
+	"BARREL1_CONTEXT": "Open barrel",
+	
+	"LOCKBOX_NAME": "Rusty Lockbox",
+	"LOCKBOX_CONTEXT": "Open Rusty Lockbox",
+	
+	"EQUIPMENTBARREL_NAME": "Equipment Barrel",
+	"EQUIPMENTBARREL_CONTEXT": "Open equipment barrel",
+
+	//[CHESTS],
+	"OLDCHEST_NAME": "Old Chest",
+	"OLDCHEST_CONTEXT": "",
+
+	"CHEST1_NAME": "Chest",
+	"CHEST1_CONTEXT": "Open chest",
+
+	"CHEST1_STEALTHED_NAME": "Cloaked Chest",
+	"CHEST1_STEALTHED_CONTEXT": "Open cloaked chest",
+
+	"CHEST2_NAME": "Large Chest",
+	"CHEST2_CONTEXT": "Open large chest",
+
+	"GOLDCHEST_NAME": "Legendary Chest",
+	"GOLDCHEST_CONTEXT": "Open Legendary Chest",
+
+	"TIMEDCHEST_NAME": "Timed Security Chest",
+	"TIMEDCHEST_CONTEXT": "Open Timed Security Chest",
+
+	"RADIOTOWER_NAME" : "Radio Scanner",
+	"RADIOTOWER_CONTEXT" : "Download environment data",
+
+	"MULTISHOP_TERMINAL_NAME": "Multishop Terminal",
+	"MULTISHOP_TERMINAL_CONTEXT": "Open terminal",
+
+	"FAN_NAME": "Fan",
+	"FAN_CONTEXT": "Reactivate Fan",
+
+	"DUPLICATOR_NAME": "3D Printer",
+	"DUPLICATOR_CONTEXT": "Use 3D Printer",
+
+	"DUPLICATOR_MILITARY_NAME": "Mili-Tech Printer",
+	"DUPLICATOR_MILITARY_CONTEXT": "Use Mili-Tech Printer",
+
+	//[LUNAR STUFF],
+	"LUNAR_CHEST_NAME" : "Lunar Pod",
+	"LUNAR_CHEST_CONTEXT" : "Open Lunar Pod",
+
+	"LUNAR_TERMINAL_NAME" : "Lunar Bud",
+	"LUNAR_TERMINAL_CONTEXT" : "Open Lunar Bud",
+
+	"BAZAAR_UPGRADE_LUNAR_NAME" : "Slab",
+	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "Permanently upgrade Item Shop",
+
+	"BAZAAR_BLUEPRINT_NAME" : "Strange Display",
+	"BAZAAR_BLUEPRINT_CONTEXT" : "Permanently Unlock",
+
+	"BAZAAR_UPGRADE_DRONE_NAME" : "Slab",
+	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "Permanently upgrade Drone Shop",
+
+	"BAZAAR_CAULDRON_NAME" : "Cauldron",
+	"BAZAAR_CAULDRON_CONTEXT" : "Reforge",
+
+	"NEWT_STATUE_NAME" : "Newt Altar",
+	"NEWT_STATUE_CONTEXT" : "Donate to Newt Altar",
+
+	"MSOBELISK_NAME" : "Obelisk",
+	"MSOBELISK_CONTEXT" : "Obliterate yourself from existence",
+	"MSOBELISK_CONTEXT_CONFIRMATION" : "Are you sure?",
+
+
+	//[SHRINES],
+	"SHRINE_HEALING_NAME": "Shrine of the Woods",
+	"SHRINE_HEALING_CONTEXT": "Offer to Shrine of the Woods",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>You are embraced by the healing warmth of the Woods.</color>",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} is embraced by the healing warmth of the Woods.</color>",
+	
+	"SHRINE_BLOOD_NAME": "Shrine of Blood",
+	"SHRINE_BLOOD_CONTEXT": "Offer to Shrine of Blood",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You feel a searing pain. You have gained {1} gold.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} feels a searing pain, and has gained {1} gold.</color>",
+
+	"SHRINE_CHANCE_NAME": "Shrine of Chance",
+	"SHRINE_CHANCE_CONTEXT": "Offer to Shrine of Chance",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>You offer to the shrine and are rewarded!</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} offered to the shrine and was rewarded!</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>You offer to the shrine, but gain nothing.</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} offered to the shrine and gained nothing.</color>",
+
+	"SHRINE_BOSS_NAME": "Shrine of the Mountain",
+	"SHRINE_BOSS_CONTEXT": "Pray to Shrine of the Mountain",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>You have invited the challenge of the Mountain..</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} has invited the challenge of the Mountain..</color>",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Let the challenge of the Mountain... begin!</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Your bravery is rewarded!</style>",
+
+	"SHRINE_RESTACK_NAME": "Shrine of Order",
+	"SHRINE_RESTACK_CONTEXT": "Offer to Shrine of Order",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>You have been... sequenced.</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} is... sequenced.</color>",
+
+	"SHRINE_GOLDSHORES_NAME": "Altar of Gold",
+	"SHRINE_GOLDSHORES_CONTEXT": "Offer to Altar of Gold",
+
+	"SHRINE_COMBAT_NAME": "Shrine of Combat",
+	"SHRINE_COMBAT_CONTEXT": "Pray to Shrine of Combat",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>You have summoned {1}s to fight.</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s to fight.</color>",
+
+	"GOLDTOTEM_NAME": "Halycon Beacon",
+	"GOLDTOTEM_CONTEXT": "Rebuild Halycon Beacon",
+
+	//MISC
+	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
+	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
+
+	"LOCKEDMAGE_NAME" : "Survivor",
+	"LOCKEDMAGE_CONTEXT" : "Free the survivor",
+
+	//[DRONES],
+	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Gunner Drone",
+	"DRONE_GUNNER_CONTEXT": "Repair Gunner Drone",
+
+	"DRONE_MEGA_INTERACTABLE_NAME": "Broken TC-280",
+	"DRONE_MEGA_CONTEXT": "Repair ???",
+
+	"DRONE_HEALING_INTERACTABLE_NAME": "Broken Healing Drone",
+	"DRONE_HEALING_CONTEXT": "Repair Healing Drone",
+
+	"DRONE_MISSILE_INTERACTABLE_NAME": "Broken Missile Drone",
+	"DRONE_MISSILE_CONTEXT": "Repair Missile Drone",
+
+	//[TURRETS],
+	"TURRET1_INTERACTABLE_NAME": "Broken Gunner Turret",
+	"TURRET1_CONTEXT": "Repair Gunner Turret",
+
+	"PORTAL_GENERIC_CONTEXT": "Enter Portal",
+
+	"PICKUP_LUNAR_COIN": "Lunar Coin",
+	"LUNAR_COIN_PICKUP_CONTEXT": "Pick up Lunar Coin",
+	}
+}
