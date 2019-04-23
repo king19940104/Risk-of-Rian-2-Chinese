@@ -3,7 +3,7 @@
 
 由于@_喵Plus_ 学业繁忙，无暇继续进行后续的更新，故由本人上传到github，由社区的大家一起来为雨中冒险2的汉化添砖加瓦，谢谢大家！
 
-百度网盘下载pan.baidu.com/s/1L7oOm6jMKz9s8_1_h1CNMA 提取码：uaxi
+[百度](pan.baidu.com/s/1L7oOm6jMKz9s8_1_h1CNMA) 提取码：uaxi
 
 汉化文本 By _喵Plus_
 
