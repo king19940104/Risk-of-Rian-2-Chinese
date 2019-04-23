@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 3966854395
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 990be274b8caf960f0991f75ecbf7ac2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2beb6d70daa8c970833523384dac2c11
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: -667331979, guid: a213b461a27f6cb45a87d94ccba16190, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Fonts/MainFont.asset
+- Assets/Fonts/BackupFont5.asset
+- Assets/Fonts/BackupFont3.asset
+- Assets/Fonts/Special.asset
+- Assets/Fonts/BackupFont4.asset
+- Assets/Fonts/BackupFont2.asset
+- Assets/Fonts/BackupFont1.asset
+Dependencies: []
