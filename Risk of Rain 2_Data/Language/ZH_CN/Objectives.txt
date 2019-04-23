@@ -1,0 +1,13 @@
+{
+	"strings":
+	{
+		"OBJECTIVE_FIND_TELEPORTER": "找到并激活 <style=cDeath>传送点 <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_CHARGE_TELEPORTER": "站在传送点充能区为 <style=cDeath>传送点 <sprite name=\"TP\" tint=1></style>充能 ({0}%)",
+		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "进入 <style=cDeath>传送点充能区！</style> ({0}%)",
+		"OBJECTIVE_FINISH_TELEPORTER": "前往 <style=cDeath>传送点 <sprite name=\"TP\" tint=1></style>",
+		"OBJECTIVE_DEFEAT_BOSS": "干掉BOSS！",
+		"OBJECTIVE_GOLDSHORES_ACTIVATE_BEACONS" :  "重建Halycon信标({0}/{1})",
+		"OBJECTIVE_GOLDSHORES_DEFEAT_BOSS" :  "干掉 {0},{1}",
+		"OBJECTIVE_WEEKLYRUN_DESTROY_CRYSTALS" : "打破 <color=#f37aff>时间晶体</color> ({0}/{1})",
+	}
+}

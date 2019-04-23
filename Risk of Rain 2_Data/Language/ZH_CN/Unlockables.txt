@@ -1,0 +1,43 @@
+{
+	"strings":
+	{
+		"LOCKED" : "已锁定",
+		"UNLOCKED_FORMAT" : "已解锁：{0}",
+		
+		"UNLOCK_VIA_ACHIEVEMENT_FORMAT" : "关联成就：\"{0}\"\n\n<i>{1}</i>",
+		"UNLOCK_VIA_FIND_FORMAT" : "找到 {0}.",
+		
+		"UNLOCKABLE_LOG_BEETLE": "怪物日志：甲虫",
+		"UNLOCKABLE_LOG_BEETLEGUARD": "怪物日志：甲虫护卫",
+		"UNLOCKABLE_LOG_BEETLEQUEEN": "怪物日志：甲虫女王",
+		"UNLOCKABLE_LOG_BISON": "怪物日志：大角羊",
+		"UNLOCKABLE_LOG_BELL" : "怪物日志：黄铜古钟",
+		"UNLOCKABLE_LOG_CLAY": "怪物日志：黏土人",
+		"UNLOCKABLE_LOG_CLAYBOSS": "怪物日志：陶罐，石油，沙漠探险者",
+		"UNLOCKABLE_LOG_GOLEM": "怪物日志：石巨人",
+		"UNLOCKABLE_LOG_TITAN": "怪物日志：巨石泰坦",
+		"UNLOCKABLE_LOG_TITANGOLD": "怪物日志：Aurelionite",
+		"UNLOCKABLE_LOG_IMP": "怪物日志：小恶魔",
+		"UNLOCKABLE_LOG_JELLYFISH": "怪物日志：水母",
+		"UNLOCKABLE_LOG_VAGRANT": "怪物日志：流浪水母",
+		"UNLOCKABLE_LOG_LEMURIAN": "怪物日志：蜥蜴人",
+		"UNLOCKABLE_LOG_MAGMAWORM": "怪物日志：熔岩巨虫",
+		"UNLOCKABLE_LOG_WISP": "怪物日志：小幽灵",
+		"UNLOCKABLE_LOG_GREATERWISP": "怪物日志：幽灵鬼面",
+		"UNLOCKABLE_LOG_ANCIENTWISP" : "怪物日志：鬼火骷髅",
+		"UNLOCKABLE_LOG_LEMURIANBRUISER" : "怪物日志：蜥蜴长老",
+		"UNLOCKABLE_LOG_HERMITCRAB" : "怪物日志：寄居蟹",
+		"UNLOCKABLE_LOG_IMPBOSS" : "怪物日志：魔鬼君主",
+		"UNLOCKABLE_LOG_ELECTRICWORMBODY" : "怪物日志：过载电子虫",
+
+		"UNLOCKABLE_BLUEPRINT_SHIELDONLY": "Blueprint：Transcendence",
+		"UNLOCKABLE_LOG_STAGES_BLACKBEACH": "地图日志：孤远灵境",
+		"UNLOCKABLE_LOG_STAGES_GOLEMPLAINS": "地图日志：广袤平原",
+		"UNLOCKABLE_LOG_STAGES_GOOLAKE": "地图日志：废弃渡槽",
+		"UNLOCKABLE_LOG_STAGES_BAZAAR": "地图日志：时空间隙里的菜市场",
+		"UNLOCKABLE_LOG_STAGES_FROZENWALL": "地图日志：集结点D",
+		"UNLOCKABLE_LOG_STAGES_FOGGYSWAMP": "地图日志：湿地废墟",
+		"UNLOCKABLE_LOG_STAGES_DAMPCAVE": "地图日志：深渊之境",
+		"UNLOCKABLE_LOG_STAGES_MYSTERYSPACE" : "地图日志：某一小片碎掉的时间"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	strings:
+	{
+	"LOGBOOK" : "冒险日志",
+	"LOGBOOK_CATEGORY_ITEMANDEQUIPMENT" : "道具与装备",
+	"LOGBOOK_CATEGORY_ITEM" : "道具装备",
+	"LOGBOOK_CATEGORY_EQUIPMENT" : "装备",
+	"LOGBOOK_CATEGORY_ACHIEVEMENTS" : "成就",
+
+	"LOGBOOK_CATEGORY_MONSTER" : "怪物",
+	"LOGBOOK_CATEGORY_STAGE" : "地图",
+	"LOGBOOK_CATEGORY_SURVIVOR" : "幸存者",
+	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragment",
+
+	"LOGBOOK_UNLOCK_ITEM_LOG" : "<i>在游戏中找到此物品以解锁此项目</i>",
+	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "<i>捡到此怪物的相关日志以解锁此项目（击杀怪物概率掉落）</i>",
+	"LOGBOOK_UNLOCK_ITEM_STAGE" : "<i>在地图中找到并修复雷达来解锁此项目</i>",
+	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "<i>以此幸存者游玩游戏来解锁此项目</i>",
+	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "<i>隐藏的解锁项目，解锁条件未知……</i>",
+	}
+}

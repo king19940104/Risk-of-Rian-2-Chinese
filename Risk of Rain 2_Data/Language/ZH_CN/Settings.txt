@@ -1,0 +1,172 @@
+{
+	"strings":
+	{
+		"OPTION_HEADER_GAMEPLAY": "游戏",
+		"OPTION_HEADER_KEYBINDING": "键盘+鼠标",
+		"OPTION_HEADER_CONTROLLER": "手柄",
+		"OPTION_HEADER_AUDIO": "音频",
+		"OPTION_HEADER_VIDEO": "显示",
+		"OPTION_HEADER_GRAPHICS": "画质",
+
+		"OPTION_OFF": "关",
+		"OPTION_ON": "开",
+		"OPTION_LOW": "低",
+		"OPTION_MEDIUM": "中",
+		"OPTION_HIGH": "高",
+		"OPTION_ULTRA": "最高",
+		"OPTION_CUSTOM": "自定义",
+
+		"OPTION_APPLY": "应用",
+		"OPTION_REVERT": "恢复",
+		"OPTION_BACK": "返回",
+		"OPTION_ACCEPT": "确定",
+
+		"OPTION_AUTOREVERT_DIALOG_DESCRIPTION": "修改将在 {0} 秒后撤销，保留现在的修改？",
+		
+
+		//[AUDIO]
+		"OPTION_MASTERVOLUME": "主音量：",
+		"OPTION_MASTERVOLUME_DESCRIPTION": "游戏整体音量",
+
+		"OPTION_MUSICVOLUME": "音乐音量：",
+		"OPTION_MUSICVOLUME_DESCRIPTION": "音乐音量",
+
+		"OPTION_SFXVOLUME": "音效音量",
+		"OPTION_SFXVOLUME_DESCRIPTION": "游戏内的各种效果音",
+
+		"OPTION_AUDIOFOCUS": "失去焦点时静音",
+		"OPTION_AUDIOFOCUS_DESCRIPTION" : "当游戏窗口不处于活动状态时是否静音",
+
+		//[VIDEO]
+		"OPTION_VSYNC": "垂直同步：",
+		"OPTION_VSYNC_DESCRIPTION": "通过使游戏帧率与屏幕保持同步来减少画面撕裂的产生，仅推荐在屏幕有明显画面撕裂出现时开启",
+		"OPTION_VSYNC_NONE": "关",
+		"OPTION_VSYNC_EVERYOTHER": "半刷新率",
+		"OPTION_VSYNC_EVERY": "全刷新率",
+
+		"OPTION_FPSLIMIT" : "帧率限制",
+		"OPTION_FPSLIMIT_DESCRIPTION": "保持帧率在特定值",
+
+		"OPTION_RESOLUTION" : "分辨率",
+		"OPTION_RESOLUTION_DESCRIPTION" : "设置游戏的分辨率与刷新率，降低此选项可以显著提升性能",
+
+		"OPTION_FULLSCREEN" : "是否全屏:",
+		"OPTION_FULLSCREEN_DESCRIPTION": "选择是否以全屏的方式游玩游戏",
+		"OPTION_FULLSCREEN_FULLSCREEN": "全屏",
+		"OPTION_FULLSCREEN_WINDOWED": "窗口化",
+
+		"OPTION_SCREENSCALE": "渲染比例：",
+		"OPTION_SCREENSCALE_DESCRIPTION": "通过降低游戏内部渲染分辨率以提高性能",
+
+		"OPTION_GAMMA": "追加伽马值",
+		"OPTION_GAMMA_DESCRIPTION": "提高像素亮度使暗处细节更容易被看清",
+
+		"OPTION_HUDSCALE" : "HUD比例",
+		"OPTION_HUDSCALE_DESCRIPTION": "提高或降低游戏界面（血条、技能图标等）的大小",
+
+		//[GRAPHICS]
+		"OPTION_SHADOW_TYPE": "阴影类型：",
+		"OPTION_SHADOW_TYPE_DESCRIPTION": "这个选项决定了游戏将要使用哪种类型的阴影。软阴影更加平滑，但需要更多处理机能。关闭阴影则可以显著提高性能",
+		"OPTION_SHADOW_TYPE_OFF": "关闭",
+		"OPTION_SHADOW_TYPE_HARDONLY": "硬阴影",
+		"OPTION_SHADOW_TYPE_ALL": "软阴影",
+
+		"OPTION_SHADOW_QUALITY": "阴影分辨率",
+		"OPTION_SHADOW_QUALITY_DESCRIPTION": "设的越高，阴影贴图的渲染分辨率就越高，阴影表现出的细节也会更多，锯齿更少，降低此选项以提升性能",
+
+		"OPTION_SHADOW_CASCADE": "阴影层叠：",
+		"OPTION_SHADOW_CASCADE_DESCRIPTION": "阴影层叠数量，提升此选项以提高阴影贴图分辨率，降低此选项以提升性能",
+
+		"OPTION_SHADOW_DISTANCE": "阴影距离：",
+		"OPTION_SHADOW_DISTANCE_DESCRIPTION": "决定了阴影会渲染多远距离，降低此选项以提升性能",
+
+		"OPTION_TEXTURE_RESOLUTION": "贴图分辨率：",
+		"OPTION_TEXTURE_RESOLUTION_DESCRIPTION": "决定了游戏内各种元素的贴图分辨率与质量，高质量的贴图拥有更多细节，降低此选项以提升性能",
+		"OPTION_TEXTURE_RESOLUTION_FULL": "完整",
+		"OPTION_TEXTURE_RESOLUTION_HALF": "1/2",
+		"OPTION_TEXTURE_RESOLUTION_QUARTER": "1/4",
+		"OPTION_TEXTURE_RESOLUTION_EIGHTH": "1/8",
+
+		"OPTION_ANISOTROPIC_FILTERING": "各项异性过滤：",
+		"OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "提高以各种角度观看游戏贴图的清晰度，降低此选项以提升GPU性能",
+
+		"OPTION_VFX_BIAS": "视觉特效剔除系数：",
+		"OPTION_VFX_BIAS_DESCRIPTION": "提升在特效过于密集时删除部分特效的概率，降低此选项可以显著提升CPU与GPU性能，但可能导致特效不再显示",
+
+		"OPTION_LOD_BIAS": "多细节层级切换系数：",
+		"OPTION_LOD_BIAS_DESCRIPTION": "决定了模型在什么距离切换为低细节模型，降低此选项以提升性能，但可能导致模型显示问题",
+
+		"OPTION_MAX_LOD": "减少细节层级：",
+		"OPTION_MAX_LOD_DESCRIPTION": "降低游戏使用的最高细节层次级别，降低此选项以提升性能，但可能导致模型显示问题，并且会使游戏真实感大幅度下降",	
+
+		"OPTION_SOFTPARTICLES": "平滑粒子:",
+		"OPTION_SOFTPARTICLES_DESCRIPTION": "为平滑的粒子启用基于屏幕空间深度的粒子混合技术，降低以提升GPU性能",
+		
+		"OPTION_FOLIAGEWIND": "植被特效：",
+		"OPTION_FOLIAGEWIND_DESCRIPTION": "启用使树叶随风飘动的特效，降低以提升CPU与GPU性能",
+		
+		"OPTION_BLOOM": "泛光：",
+		"OPTION_BLOOM_DESCRIPTION": "为过于明亮的像素增加辉光效果，降低以提升GPU性能",
+
+		"OPTION_AO": "SSAO屏幕空间环境光遮罩:",
+		"OPTION_AO_DESCRIPTION": "模拟全局光被物体遮挡导致的变暗效果，降低以显著提升GPU性能",
+
+		"OPTION_MOTIONBLUR": "动态模糊：",
+		"OPTION_MOTIONBLUR_DESCRIPTION": "模拟物体运动时的模糊效果，降低以显著提升GPU性能",
+
+		"OPTION_SOBEL": "物体描边效果：",
+		"OPTION_SOBEL_DESCRIPTION": "启用使物体边缘增加一层更亮的描边以使物体更加突出，关闭以提升GPU性能",
+
+		"OPTION_CORPSE_DISPOSAL": "清理尸体",
+		"OPTION_CORPSE_DISPOSAL_DEFINITION": "立即 - 立即消失\r\n隐藏 - 看不见时消失\r\n选择如何处理超出最大尸体数的尸体，立即消失对性能提升非常有效，但会使尸体在眼前消失",
+		"OPTION_CORPSE_DISPOSAL_HARD": "立即",
+		"OPTION_CORPSE_DISPOSAL_OUTOFSIGHT":"隐藏",
+
+		"OPTION_MAX_CORPSE": "最大尸体数",
+		"OPTION_MAX_CORPSE_DEFINITION": "限制同时存在的最大尸体数量，降低数量将会显著提升性能",
+
+		//[Gamepad]
+		"OPTION_STICK_LOOK_SENSITIVITY": "<style=cUserSetting>视角灵敏度</style>",
+		"OPTION_STICK_LOOK_SENSITIVITY_DESCRIPTION": "决定使用摇杆时视角以多快的速度旋转",
+		"OPTION_STICK_LOOK_SCALE_X": "<style=cUserSetting>水平灵敏度比例</style>",
+		"OPTION_STICK_LOOK_SCALE_X_DESCRIPTION": "视角水平旋转的灵敏度比例",
+		"OPTION_STICK_LOOK_SCALE_Y": "<style=cUserSetting>垂直灵敏度比例</style>",
+		"OPTION_STICK_LOOK_SCALE_Y_DESCRIPTION": "视角垂直旋转的灵敏度比例",
+		"OPTION_STICK_LOOK_INVERT_X": "<style=cUserSetting>水平视角反转</style>",
+		"OPTION_STICK_LOOK_INVERT_X_DESCRIPTION": "反转视角水平旋转的方向",
+		"OPTION_STICK_LOOK_INVERT_Y": "<style=cUserSetting>垂直视角反转</style>",
+		"OPTION_STICK_LOOK_INVERT_Y_DESCRIPTION": "反转视角垂直旋转的方向",
+		"OPTION_GAMEPAD_VIBRATION_SCALE": "<style=cUserSetting>震动幅度</style>",
+		"OPTION_GAMEPAD_VIBRATION_SCALE_DESCRIPTION": "设置手柄震动幅度大小",
+
+		//[Keyboard+Mouse]
+		"OPTION_MOUSE_LOOK_SENSITIVITY": "<style=cUserSetting>视角灵敏度</style>",
+		"OPTION_MOUSE_LOOK_SENSITIVITY_DESCRIPTION": "决定移动鼠标时视角以多快的速度旋转",
+		"OPTION_MOUSE_LOOK_SCALE_X": "<style=cUserSetting>水平灵敏度比例</style>",
+		"OPTION_MOUSE_LOOK_SCALE_X_DESCRIPTION": "视角水平旋转的灵敏度比例",
+		"OPTION_MOUSE_LOOK_SCALE_Y": "<style=cUserSetting>垂直灵敏度比例</style>",
+		"OPTION_MOUSE_LOOK_SCALE_Y_DESCRIPTION": "视角垂直旋转的灵敏度比例",
+		"OPTION_MOUSE_LOOK_INVERT_X": "<style=cUserSetting>水平视角反转</style>",
+		"OPTION_MOUSE_LOOK_INVERT_X_DESCRIPTION": "反转视角水平旋转的方向",
+		"OPTION_MOUSE_LOOK_INVERT_Y": "<style=cUserSetting>垂直视角反转</style>",
+		"OPTION_MOUSE_LOOK_INVERT_Y_DESCRIPTION": "反转视角垂直旋转的方向",
+		
+		//[Gameplay]
+		"OPTION_SCREENSHAKE_SCALE": "<style=cUserSetting>屏幕震动幅度</style>",
+		"OPTION_SCREENSHAKE_SCALE_DESCRIPTION": "设置屏幕震动幅度大小",
+
+		"OPTION_DAMAGENUMBERS": "伤害数字",
+		"OPTION_DAMAGENUMBERS_DESCRIPTION": "攻击怪物时显示怪物实际收到的伤害浮动数字",
+
+		"OPTION_HUD": "游戏内HUD",
+		"OPTION_HUD_DESCRIPTION": "启动游戏内HUD，包括生命值、道具图标、技能图标",
+
+
+		"OPTION_REBIND_DIALOG_TITLE": "修改绑定按键……",
+		"OPTION_REBIND_DIALOG_DESCRIPTION": "请在{1:0}秒内为 {0} 绑定按键",
+		
+		"OPTION_REBIND_CANCELLED_DIALOG_DESCRIPTION": "修改已取消",
+		
+		"SETTINGS_PROFILE_NAME_FORMAT": "设置 - <style=cUserSetting>{0}</style>",
+	}
+}
