@@ -1,9 +1,9 @@
-# Risk-of-Rian-2-Chinese
-该汉化由雨中冒险2吧大佬@_喵Plus_ 提供，最终解释权归该大佬所有
+## Risk-of-Rian-2-Chinese
+#该汉化由雨中冒险2吧大佬@_喵Plus_ 提供，最终解释权归该大佬所有
 
 由于@_喵Plus_ 学业繁忙，无暇继续进行后续的更新，故由本人上传到github，由社区的大家一起来为雨中冒险2的汉化添砖加瓦，谢谢大家！
 
-[百度](pan.baidu.com/s/1L7oOm6jMKz9s8_1_h1CNMA) 提取码：uaxi
+[百度网盘下载](https://pan.baidu.com/s/1L7oOm6jMKz9s8_1_h1CNMA) 提取码：uaxi
 
 汉化文本 By _喵Plus_
 
