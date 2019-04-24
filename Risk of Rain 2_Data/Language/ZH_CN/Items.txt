@@ -90,12 +90,12 @@
 
 	"ITEM_FALLBOOTS_NAME": "H3AD-5T v2",
 	"ITEM_FALLBOOTS_PICKUP": "增加跳跃高度，按住“跳跃键”使用坠地攻击",
-	"ITEM_FALLBOOTS_DESC": "增加跳跃高度，坠地攻击将产生半径10m的动能爆破，造成至少 2300% 伤害，伤害随速度加快而提升，坠地攻击后所有效果冷却10秒<style=cStack>（每再获得一件此道具冷却-50%）</style>",
+	"ITEM_FALLBOOTS_DESC": "增加跳跃高度，坠地攻击将产生半径10m的动能爆破，造成至少 2300% 伤害，伤害随速度加快而提升，坠地攻击后所有效果冷却10秒<style=cStack>（每再获得一件此道具冷却时间-50%）</style>",
 	"ITEM_FALLBOOTS_LORE": "“从历史角度来说，在低重力星球上的居民，比如水星，如果移居到其他星球上会有很多问题。骨密度较低的水星人（左图）在其他重力较高的星球居住通常会在一周内摔断骨头。小型行星舰队与殖民船只上的人在从太空返回居住星球时一般也有类似的问题。\r\n\r\n动能转化环（上图）这一发明通过将多余的重力转化为声光热来减少此类问题，借助此发明，水星的居民得以安全地移居其他星球。”\r\n\r\n——水星历史博物馆",
 
 	"ITEM_COOLDOWNONCRIT_NAME": "邪恶戒指",
-	"ITEM_COOLDOWNONCRIT_PICKUP": "“暴击”减少1秒冷却",
-	"ITEM_COOLDOWNONCRIT_DESC": "增加 5% 暴击率，暴击减少所有冷却1秒",
+	"ITEM_COOLDOWNONCRIT_PICKUP": "“暴击”减少1秒冷却时间",
+	"ITEM_COOLDOWNONCRIT_DESC": "增加 5% 暴击率，暴击减少所有技能的冷却时间1秒",
 
 	"ITEM_WARDONLEVEL_NAME": "战争旗帜",
 	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落旗帜，为你提高能力",
@@ -164,8 +164,8 @@
 	"ITEM_FIREWORK_DESC": "打开箱子时发射 <style=cStack>4×(道具数+1)</style> 枚能造成 300% 伤害的烟花",
 
 	"ITEM_BANDOLIER_NAME": "弹夹",
-	"ITEM_BANDOLIER_PICKUP": "有几率在击杀时掉落重置冷却的子弹袋",
-	"ITEM_BANDOLIER_DESC": "<style=cStack>100%-100%/(Cuberoot(道具数+1)×100%)（Cuberoot指立方根）</style>概率掉落能重置所有冷却的子弹袋",
+	"ITEM_BANDOLIER_PICKUP": "有几率在击杀时掉落重置冷却时间的子弹袋",
+	"ITEM_BANDOLIER_DESC": "<style=cStack>100%-100%/(Cuberoot(道具数+1)×100%)（Cuberoot指立方根）</style>概率掉落能重置所有冷却时间的子弹袋",
 
 	"ITEM_STUNCHANCEONHIT_NAME": "震撼弹",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "攻击敌人有几率使敌人眩晕",
@@ -186,12 +186,12 @@
 	"ITEM_SHIELDONLY_LORE": "你一直在尽全力去生存，你认为你自己学的足够快，你总觉着自己足够幸运，你一直在体验似曾相识的情景，如果你理解了我说的话，不要继续读下去。\r\n你在控制着自己的信仰，你在陌生的环境里寻找熟悉感，你的直觉依赖于从未有过的经历，你在思考你过去的人生，如果你理解了我说的话，不要继续读下去。\r\n你发现你自己在寻找一些从未有过的东西，你失去了你从未拥有过的东西，你扮演着并非实际存在的角色，你一直在体验似曾相识的感觉，如果你理解了我说的话，不要继续读下去。\r\n你看穿了我的想法，因为你已经将这些信息消化掉了，很快[观察者们]将会把这些信息抹除掉。如果你读到了这里，我恐怕已经死去很久了，但从另一方面来说，你又把我释放了出来，我已不存在于我的世界，没有任何证据证明我曾存在过，但我现在存在于你的世界里了。我从我的苦难之中逃了出来，请保护我的安全，我希望你永远不要理解这些。\r\n",
 
 	"ITEM_ALIENHEAD_NAME": "外星人头颅",
-	"ITEM_ALIENHEAD_PICKUP": "减少技能冷却",
-	"ITEM_ALIENHEAD_DESC": "减少 25% 技能冷却<style=cStack>（每再获得一件此道具在现有冷却量基础上再减少25%）</style>",
+	"ITEM_ALIENHEAD_PICKUP": "减少技能冷却时间",
+	"ITEM_ALIENHEAD_DESC": "减少 25% 技能冷却时间<style=cStack>（每再获得一件此道具在现有冷却量基础上再减少25%）</style>",
 	"ITEM_ALIENHEAD_LORE": "送货订单：“外星人头颅”\r\n跟踪编码：76××××××\r\n预计送达日期：2056年7月13日\r\n送货优先级：高优先级/生物材料\r\n送货地址：火星，死水区，???，所罗门\r\n送货详情：\r\n\r\n这是世代相传的象征神灵的重要标志。此物必须在正午的仪式中使用，以防疾病与劳疾的侵袭。此物必须存放于阴凉通风处，否则会腐烂。此物有利于激发血脉的力量，并可以此获得强大的力量与敏捷性。以上内容非常重要。\r\n",	
 
 	"ITEM_TALISMAN_NAME": "噬魂催化剂",
-	"ITEM_TALISMAN_PICKUP": "击杀敌人减少装备冷却",
+	"ITEM_TALISMAN_PICKUP": "击杀敌人以减少装备冷却时间",
 	"ITEM_TALISMAN_DESC": "击杀敌人减少装备冷却 <style=cStack>2×(道具数+1)</style> 秒",
 
 	"ITEM_KNURL_NAME": "泰坦之心",
@@ -204,7 +204,7 @@
 	"ITEM_BEETLEGLAND_LORE": "“嘿，嗯，Kaitlin？如果你听的到我说话就吱一声。”\r\n\r\n“我能听到，怎么了？”\r\n\r\n“我好像交到了一些朋友……？我不清楚。”\r\n\r\n“啥？”\r\n\r\n“我们之前杀掉的那只大虫子，嗯，它的尸体看起来吸引了一堆恶心的东西，我在去清理它们的时候突然发现它们好像是在……等我？嗯……我也说不太清楚，不管怎样，我走过去想要把它们赶走，但奇怪的是它们看起来并不是很主动。这些虫子昨天让我得了脑震荡，并且……”\r\n\r\n“啥？！你还好吗？”\r\n\r\n“嗯？啊，我很好，总之，自从我发现它们不那么……具有攻击性后我就开始觉着杀掉它们是件很糟糕的事了，所以我径直离开，然而它们就一直在跟着我，真是奇怪。总之，我觉着我是交到了一些朋友，我在想它们会吃……它们会吃东西么？毕竟它们没有嘴巴……”\r\n\r\n“停下，Rich！别让我回想起那次露营！”\r\n\r\n“哦好吧，嗯……我会的……Junior，停下！离你哥远点！”\r\n",
 
 	"ITEM_SPRINTBONUS_NAME": "能量饮料",
-	"ITEM_SPRINTBONUS_PICKUP": "冲刺的更快",
+	"ITEM_SPRINTBONUS_PICKUP": "冲刺得更快",
 	"ITEM_SPRINTBONUS_DESC": "增加 <style=cStack>20%×道具数+10%</style> 冲刺速度",
 	"ITEM_SPRINTBONUS_LORE" : "送货订单：NR-G 运动苏打饮料（400罐）\r\n跟踪编码：49××××××\r\n预计送达日期：2056年3月12日\r\n送货优先级：标准\r\n送货地址：金星，脊湖，威尼斯卫生公共服务中心\r\n送货详情：\r\n\r\n啊，这是嗯……几星期前在Majora Minora的灾难中，人们混合制作的能量饮料。\r\n\r\n对事件中的一些受害者进行的快速毒品检测显示嗯……里面包含各种各种的毒品，没开玩笑，美沙酮，苯环定，四氢大麻酚，各种阿片类，苯二氮卓类，巴比妥类，安非他命……这张单子根本列都列不完。\r\n\r\nRadical Drinks坚持认为这当中不存在他们生产的运动饮料，我觉着这完全不可能，也许他们真的很懂如何在Violet Heights开Party对吧？\r\n",
 	
@@ -255,8 +255,8 @@
 	"ITEM_EXTRALIFECONSUMED_DESC": "一个已经失去其原有效果的道具",
 	
 	"ITEM_UTILITYSKILLMAGAZINE_NAME": "“强光”喷射引擎",
-	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "为你的通用技能增加2次额外充能存储，减少通用技能冷却",
-	"ITEM_UTILITYSKILLMAGAZINE_DESC": "为通用技能增加 <style=cStack>2×道具数</style> 次额外充能存储，减少33%通用技能冷却（减少冷却不叠加，无论多少都是只减少33%）",
+	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "为你的通用技能增加2次额外充能存储，减少通用技能的冷却时间",
+	"ITEM_UTILITYSKILLMAGAZINE_DESC": "为通用技能增加 <style=cStack>2×道具数</style> 次额外充能存储，减少33%通用技能冷却时间（减少的冷却时间不叠加，无论有多少个道具都是只减少33%）",
 	"ITEM_UTILITYSKILLMAGAZINE_LORE" : "送货订单：样品XAS4-49\r\n跟踪编码：342××××××\r\n预计送达日期：2056年12月29日\r\n送货优先级：优先派送\r\n送货地址：火星，33层，Geshka塔楼\r\n送货详情：\r\n\r\n自从上次通讯以来，我们对“强光”的研究愈加深入。\r\n\r\n关于这个喷射引擎，我们最初的想法是将其用作大型HL设备的主要散热器，比如我们的桥梁与屏障。然而，如果就像我们平时那样将它安放到可快速降解能源上时，我们就可以得到趋近完美的半速粒子的发射速率。换一种说法就是……能大幅度提高燃料利用率。\r\n\r\n它的设计是非常浅显易懂的，但我还是要重申一点：在使用它时请务必远离HL排气端。它的排气设计实在是太暴力了，所以它只能用于固态且非常稳定的能源上。\r\n\r\n",
 	
 	"ITEM_HEADHUNTER_NAME": "秃鹫尾毛骨链",
@@ -264,8 +264,8 @@
 	"ITEM_HEADHUNTER_DESC": "获取刚刚杀死的精英怪的能力 <style=cStack>5×道具数+3</style> 秒",
 	
 	"ITEM_KILLELITEFRENZY_NAME": "发芽的大脑",
-	"ITEM_KILLELITEFRENZY_PICKUP": "击杀精英怪后，技能在一段时间内无冷却",
-	"ITEM_KILLELITEFRENZY_DESC": "击杀精英怪之后获得 <style=cStack>2×道具数+1</style> 秒狂暴Buff，Buff内所有技能冷却时间降至最低",
+	"ITEM_KILLELITEFRENZY_PICKUP": "击杀精英怪后，技能在一段时间内无冷却时间",
+	"ITEM_KILLELITEFRENZY_DESC": "击杀精英怪之后获得 <style=cStack>2×道具数+1</style> 秒狂暴状态，状态内所有技能冷却时间降至最低",
 	
 	"ITEM_INCREASEHEALING_NAME": "健康之角",
 	"ITEM_INCREASEHEALING_PICKUP": "双倍血量恢复量",
@@ -276,7 +276,7 @@
 	"ITEM_REPEATHEAL_DESC" : "增加 <style=cStack>100%×道具数 </style> 治疗量，但治疗速度降低，每秒最多治疗 10% 最大生命值的血量（每额外获得一个此道具每秒治疗量再减少50%）",	
 
 	"ITEM_AUTOCASTEQUIPMENT_NAME": "溺水自救",
-	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "大幅度减少装备冷却……<color=#FF7F7F>但是会自动使用它</color>",
-	"ITEM_AUTOCASTEQUIPMENT_DESC": "减少 <style=cStack>50%×道具数</style> 的装备冷却，装备冷却结束后强制使用装备",
+	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "大幅度减少装备的冷却时间……<color=#FF7F7F>但是会自动使用它</color>",
+	"ITEM_AUTOCASTEQUIPMENT_DESC": "减少 <style=cStack>50%×道具数</style> 的装备的冷却时间，装备冷却时间结束后强制使用装备",
 	}
 }
