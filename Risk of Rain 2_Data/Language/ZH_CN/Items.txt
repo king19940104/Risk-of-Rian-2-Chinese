@@ -37,7 +37,7 @@
 	
 	"ITEM_TOOTH_NAME": "怪物的牙齿",
 	"ITEM_TOOTH_PICKUP": "击杀敌人后掉落治疗球",
-	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个治疗球，每个恢复 <style=cStack>4×道具数</style> 血量", 
+	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个治疗球，每个恢复 <style=cStack>4×道具数</style> 生命值", 
 
 	"ITEM_CRITGLASSES_NAME": "眼镜师的眼镜",
 	"ITEM_CRITGLASSES_PICKUP": "有几率触发“暴击”，造成双倍伤害",
@@ -56,7 +56,7 @@
 	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有25%概率触发连锁闪电，对半径 <style=cStack>2×道具数+18</style> m范围内的 <style=cStack>2×道具数+1</style> 只敌人分别造成 80% 伤害",
 
 	"ITEM_SEED_NAME": "吸血种子",
-	"ITEM_SEED_PICKUP": "攻击造成伤害时恢复血量",
+	"ITEM_SEED_PICKUP": "攻击造成伤害时恢复生命值",
 	"ITEM_SEED_DESC": "对敌人造成伤害时恢复 <style=cStack>与道具数等量</style> 的生命值", 
 
 	"ITEM_ICICLE_NAME": "寒霜圣物",
@@ -68,7 +68,7 @@
 	"ITEM_GHOSTONKILL_DESC": "击杀敌人时有10%概率生成被击杀敌人的幽灵，幽灵继承原敌人属性并拥有 400% 攻击力，持续 <style=cStack>30×道具数</style> 秒", 
 
 	"ITEM_MUSHROOM_NAME": "菌菇爆发",
-	"ITEM_MUSHROOM_PICKUP": "保持固定位置2秒后为身边所有友军恢复血量",
+	"ITEM_MUSHROOM_PICKUP": "保持固定位置2秒后为身边所有友军恢复生命值",
 	"ITEM_MUSHROOM_DESC": "保持固定位置2秒后，创建一个半径 <style=cStack> 1.5×道具数+1.5 </style> m的恢复区域，为其中的所有友军恢复 <style=cStack>2.25%×(道具数+1)</style> 最大生命值", 
 
 	"ITEM_CROWBAR_NAME": "撬棍",
@@ -116,7 +116,7 @@
 
 	"ITEM_HEALWHILESAFE_NAME": "谨慎的蛞蝓",
 	"ITEM_HEALWHILESAFE_PICKUP": "脱离战斗后快速回血",
-	"ITEM_HEALWHILESAFE_DESC": "脱离战斗后增加 <style=cStack>100%+150%×道具数</style> 回血量",
+	"ITEM_HEALWHILESAFE_DESC": "脱离战斗后增加 <style=cStack>100%+150%×道具数</style> 的生命值回复量",
 
 	"ITEM_JUMPBOOST_NAME": "蜡制鹌鹑",
 	"ITEM_JUMPBOOST_PICKUP": "冲刺时跳跃会自动前冲",
@@ -144,7 +144,7 @@
 
 	"ITEM_INFUSION_NAME": "输液",
 	"ITEM_INFUSION_PICKUP": "击杀敌人永久增加生命值上限，最高增加100",
-	"ITEM_INFUSION_DESC": "击杀敌人将永久增加1点血量上限，最高增加 <style=cStack>100×道具数</style> 血量上限",
+	"ITEM_INFUSION_DESC": "击杀敌人将永久增加1点生命值上限，最高增加 <style=cStack>100×道具数</style> 生命值上限",
 
 	"ITEM_SHOCKNEARBY_NAME": "不稳定的特斯拉电圈",
 	"ITEM_SHOCKNEARBY_PICKUP": "以10秒为间隔电击周围的敌人",
@@ -172,16 +172,16 @@
 	"ITEM_STUNCHANCEONHIT_DESC": "<style=cStack>100%-100%/(5%×伤害系数×(道具数+1))</style> 概率眩晕敌人2秒\r\n\r\n来自汉化者的私货：\r\n\r\n幸存者技能伤害系数（仅系数非1的技能）：\r\nMUL-T\r\n全自动钉枪 0.3\r\n震撼爆桶 第二段 0.3\r\n\r\n发明家\r\n纳米球 爆炸前 0.4\r\n\r\n猎人\r\n回旋镖 0.8\r\n流星雨 0.2\r\n\r\n道具伤害系数（没提到的是没测，不确定是多少）\r\n肉钩 0.33\r\n电圈 0.3\r\n烟花 0.2\r\nN'kuhana 0.2\r\n仪式小刀 1\r\n粘性炸弹 0\r\n\r\n装备伤害系数（没提到的是没测，不确定是多少）\r\n地狱火 0\r\n众筹者 0.2\r\n发电 1\r\n前子 0.1\r\n陨石 1\r\n导弹 1",
 
 	"ITEM_LUNARDAGGER_NAME": "异形玻璃",
-	"ITEM_LUNARDAGGER_PICKUP": "造成双倍伤害……<color=#FF7F7F>但是血量减半</color>\n",
+	"ITEM_LUNARDAGGER_PICKUP": "造成双倍伤害……<color=#FF7F7F>但是生命值减半</color>\n",
 	"ITEM_LUNARDAGGER_DESC": "增加 <style=cStack>100%×道具数</style> 伤害，减少最大生命值 50%<style=cStack>（每再获得一件此道具最大生命值在现有基础上再减50%）</style>.",
 	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel 机 器 语 言 翻 译 程 序   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <50912157 轮循环>\n暂 停 中…\n目 前 只 能 显 示 部 分 结 果，确 认 吗 ？Y/N\nY\n================================</style>\n成对\n\n这是来自[月球]内核处的，没有具体结构的玻璃，在以飘渺的声音鸣叫了三回之后停了下来。\n\n我们将时间混到它的材质中，两段时间，我们与<他>的时间，这是<他>唯一想要让我们支付的代价，<他>用着神明才会知道的设计，将玻璃折叠与重塑。\n\n<他>用那些不知有多少数量的巨大的手当中的一只手拿着它，我们注入到其中的时间在<他>那紧握的手中展开，快速爆发，肌肉以2倍速度收缩。以2倍的目的性，用2倍有序但复杂的手法，将一切折叠起来，在[?]上成对回环。随着时间耗尽，<他>停了下来。\n\n<他> 将一栋建筑割裂成了千万份。\n\n但时间对任何人都是平等的，微小的碎片开始成对散开，肌肉开始重新舒展，全都以2倍速度运作，这是压缩时间的代价，但<他>有无穷无尽的时间。\n\n<style=cMono>\n================================\n继 续 尝 试 翻 译 ？ Y/N\nY</style>\n",
 
 	"ITEM_GOLDONHIT_NAME": "脆弱的王冠",
 	"ITEM_GOLDONHIT_PICKUP": "攻击敌人获得金钱……<color=#FF7F7F>但是受伤时会扣除金钱</color>\n",
-	"ITEM_GOLDONHIT_DESC": "30%×伤害系数（伤害系数请参考“震撼弹”） 概率在攻击敌人时获得 <style=cStack>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的血量/最大血量 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
+	"ITEM_GOLDONHIT_DESC": "30%×伤害系数（伤害系数请参考“震撼弹”） 概率在攻击敌人时获得 <style=cStack>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的生命值/最大生命值 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
 
 	"ITEM_SHIELDONLY_NAME": "超凡入圣",
-	"ITEM_SHIELDONLY_PICKUP": "增加最高血量上限，并将血量全部转换为护盾",
+	"ITEM_SHIELDONLY_PICKUP": "增加最高生命值上限，并将生命值全部转换为护盾",
 	"ITEM_SHIELDONLY_DESC": "保留1点生命值，其他生命值全部转换为充能护盾，增加 <style=cStack>25%×(道具数+1)</style> 最大生命值",
 	"ITEM_SHIELDONLY_LORE": "你一直在尽全力去生存，你认为你自己学的足够快，你总觉着自己足够幸运，你一直在体验似曾相识的情景，如果你理解了我说的话，不要继续读下去。\r\n你在控制着自己的信仰，你在陌生的环境里寻找熟悉感，你的直觉依赖于从未有过的经历，你在思考你过去的人生，如果你理解了我说的话，不要继续读下去。\r\n你发现你自己在寻找一些从未有过的东西，你失去了你从未拥有过的东西，你扮演着并非实际存在的角色，你一直在体验似曾相识的感觉，如果你理解了我说的话，不要继续读下去。\r\n你看穿了我的想法，因为你已经将这些信息消化掉了，很快[观察者们]将会把这些信息抹除掉。如果你读到了这里，我恐怕已经死去很久了，但从另一方面来说，你又把我释放了出来，我已不存在于我的世界，没有任何证据证明我曾存在过，但我现在存在于你的世界里了。我从我的苦难之中逃了出来，请保护我的安全，我希望你永远不要理解这些。\r\n",
 
@@ -196,7 +196,7 @@
 
 	"ITEM_KNURL_NAME": "泰坦之心",
 	"ITEM_KNURL_PICKUP": "增加最大生命值与恢复速度",
-	"ITEM_KNURL_DESC": "增加 <style=cStack>40×道具数</style> 最大生命值并提供每秒 <style=cStack>1.6×道具数</style> 血量的血量回复",
+	"ITEM_KNURL_DESC": "增加 <style=cStack>40×道具数</style> 最大生命值并提供每秒 <style=cStack>1.6×道具数</style> 的生命值回复",
 
 	"ITEM_BEETLEGLAND_NAME": "甲虫女王的信息素囊",
 	"ITEM_BEETLEGLAND_PICKUP": "招募一只甲虫护卫",
@@ -268,12 +268,12 @@
 	"ITEM_KILLELITEFRENZY_DESC": "击杀精英怪之后获得 <style=cStack>2×道具数+1</style> 秒狂暴状态，状态内所有技能冷却时间降至最低",
 	
 	"ITEM_INCREASEHEALING_NAME": "健康之角",
-	"ITEM_INCREASEHEALING_PICKUP": "双倍血量恢复量",
+	"ITEM_INCREASEHEALING_PICKUP": "双倍生命值恢复量",
 	"ITEM_INCREASEHEALING_DESC": "增加 <style=cStack>100%×道具数 </style> 治疗量",
 
 	"ITEM_REPEATHEAL_NAME" : "曼珠沙华",
 	"ITEM_REPEATHEAL_PICKUP" : "双倍治疗量……<color=#FF7F7F>但治疗速度降低</color>\n",
-	"ITEM_REPEATHEAL_DESC" : "增加 <style=cStack>100%×道具数 </style> 治疗量，但治疗速度降低，每秒最多治疗 10% 最大生命值的血量（每额外获得一个此道具每秒治疗量再减少50%）",	
+	"ITEM_REPEATHEAL_DESC" : "增加 <style=cStack>100%×道具数 </style> 治疗量，但治疗速度降低，每秒最多治疗 10% 最大生命值的生命值（每额外获得一个此道具每秒治疗量再减少50%）",	
 
 	"ITEM_AUTOCASTEQUIPMENT_NAME": "溺水自救",
 	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "大幅度减少装备的冷却时间……<color=#FF7F7F>但是会自动使用它</color>",
