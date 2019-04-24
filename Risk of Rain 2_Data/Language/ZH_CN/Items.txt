@@ -13,13 +13,13 @@
 	"ITEM_SYRINGE_PICKUP": "增加攻击速度",
 	"ITEM_SYRINGE_DESC": "增加 <style=cStack>15%×道具数</style> 攻击速度",
 
-	"ITEM_BEAR_NAME": "艰苦时光",
+	"ITEM_BEAR_NAME": "艰苦时刻",
 	"ITEM_BEAR_PICKUP": "有几率抵挡一次伤害",
 	"ITEM_BEAR_DESC": "<style=cStack>100%-100%/(100%+15%×道具数)</style> 概率抵挡一次伤害，57叶草效果对此道具无效", 
 	"ITEM_BEAR_LORE" : "<style=cMono>\r\n//-- 自 动 转 录 自 UES 4211B 室 [ 已 修 订 ]--//</style>\r\n\r\n“你为什么要来这里？”\r\n\r\nWyatt的语气充满着厌烦，找到触光号最后一个已知的坐标位置所花费的时间比他预期的稍微久了一点。\r\n\r\nMalik正在地上专注地清理着她的步枪，“主要是为了钱。”\r\n\r\n“就这些？”\r\n\r\n她咕哝一下表示肯定，然后继续清理着她的武器。\r\n\r\n“我来这里是为了找一个东西”他自顾自地说，“我几年前曾想把它运走过，但我认为那辆列车并没有在坏掉之前把它给运到目的地。我觉着它应该还在触光号上，所以我要去把它找回来。”\r\n\r\n她开始拧紧最后的几根螺丝，这是她今天的最后几件要做的事，她将目光移向Wyatt，“你认真的吗？”\r\n\r\n“当然！”\r\n\r\nMalik扬起她的眉毛，“触光号上有超过7000000个保险箱，你从这当中找到特定的那个箱子几乎是不可能的。”她用她的步枪撑起身体，舒展着她的双腿，“并且根据遇难信号，我们已经可以确认触光号在轨道上被摧毁掉了，你的货物现在或许就在太空里飘着不知道飘到哪里了，它没了，Wyatt。”\r\n\r\n他笑了一下，“我确信我能找到它。”\r\n\r\n“你的性格真差劲。”\r\n",
 	
 	"ITEM_BEHEMOTH_NAME": "卓越巨炮",
-	"ITEM_BEHEMOTH_PICKUP": "你所有的攻击都会爆炸！",
+	"ITEM_BEHEMOTH_PICKUP": "你所有的攻击都会产生爆炸！",
 	"ITEM_BEHEMOTH_DESC": "所有攻击会产生一个半径 <style=cStack>1.5×道具数+2.5</style> m的<style=cIsDamage>爆炸</style>，给予范围内敌人 60% 伤害", 
 
 	"ITEM_MISSILE_NAME": "空对地导弹 Mk. 1",
@@ -30,21 +30,21 @@
 	"ITEM_EXPLODEONDEATH_PICKUP": "引爆击杀的敌人",
 	"ITEM_EXPLODEONDEATH_DESC": "击杀敌人时，生成一道半径 <style=cStack>2.4×道具数+9.6</style> m的岩浆柱，并造成 <style=cStack>280%×道具数+70%</style> 伤害", 
 
-	"ITEM_DAGGER_NAME": "仪式小刀",
-	"ITEM_DAGGER_PICKUP": "击杀敌人释放自动追踪的小刀",
-	"ITEM_DAGGER_DESC": "击杀敌人释放 <style=cStack>3×道具数</style> 把自动跟踪的小刀，每把造成 150% 基础伤害", 
+	"ITEM_DAGGER_NAME": "仪式匕首",
+	"ITEM_DAGGER_PICKUP": "击杀敌人后释放自动追踪的匕首",
+	"ITEM_DAGGER_DESC": "击杀敌人后释放 <style=cStack>3×道具数</style> 把自动跟踪的匕首，每把造成 150% 基础伤害", 
 	"ITEM_DAGGER_LORE": "硫磺的味道弥漫在空气中。\r\n\r\n“哦天哪，它们离我们太近了，它们已经抓住Hitchcock了，哦我的老天。”\r\n\r\n“找到那个……那把匕首，就在我的背包里，快点”\r\n\r\n“我没看到……哦我找到了！这是什么鬼，这玩意不会有用的，Marion。我到底要怎么用这玩意去……？哦天哪！它们把他撕成了碎片……”\r\n\r\n“你必须……必须要杀掉我，啊！快杀掉我，用这个杀掉我！”\r\n\r\n“什么？你在说什么鬼东西？”\r\n\r\n“是的，这是唯一的方法了，快点！”\r\n\r\n“你在说什么鬼话？快停下来！”\r\n\r\n“这是拥有魔力的小刀，它会保护我们，她会保佑我们的。但在那之前你必须要用这把刀杀掉我。”\r\n\r\n“不，不要让我来做这件事，哦我的天哪。”\r\n\r\n“你……必须这么，我已经见过这个东西的效果了，这是唯一的方法——它们已经靠的很近了，你必须用它杀了我，快杀了我！”\r\n\r\n“对不起，Marion，我真的很抱歉，我不觉着……”\r\n\r\n“快点！现在就杀了我！现在马上杀掉我！快！杀！掉！我！杀……”",
 	
-	"ITEM_TOOTH_NAME": "敌人的牙齿",
-	"ITEM_TOOTH_PICKUP": "击杀敌人掉落治疗球",
+	"ITEM_TOOTH_NAME": "怪物的牙齿",
+	"ITEM_TOOTH_PICKUP": "击杀敌人后掉落治疗球",
 	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个治疗球，每个恢复 <style=cStack>4×道具数</style> 血量", 
 
 	"ITEM_CRITGLASSES_NAME": "眼镜师的眼镜",
-	"ITEM_CRITGLASSES_PICKUP": "有几率触发“暴击”，双倍伤害",
-	"ITEM_CRITGLASSES_DESC": "增加 <style=cStack> 10%×道具数 </style> 概率触发“暴击”造成双倍伤害", 
+	"ITEM_CRITGLASSES_PICKUP": "有几率触发“暴击”，造成双倍伤害",
+	"ITEM_CRITGLASSES_DESC": "增加 <style=cStack> 10%×道具数 </style> 概率触发“暴击”以造成双倍伤害", 
 
 	"ITEM_HOOF_NAME": "Paul的羊腿",
-	"ITEM_HOOF_PICKUP": "跑得更快",
+	"ITEM_HOOF_PICKUP": "移动得更快",
 	"ITEM_HOOF_DESC": "增加 <style=cStack>14%×道具数</style> 移动速度",
 
 	"ITEM_FEATHER_NAME": "Hopoo羽毛",
@@ -56,12 +56,12 @@
 	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有25%概率触发连锁闪电，对半径 <style=cStack>2×道具数+18</style> m范围内的 <style=cStack>2×道具数+1</style> 只敌人分别造成 80% 伤害",
 
 	"ITEM_SEED_NAME": "吸血种子",
-	"ITEM_SEED_PICKUP": "攻击产生伤害时恢复血量",
+	"ITEM_SEED_PICKUP": "攻击造成伤害时恢复血量",
 	"ITEM_SEED_DESC": "对敌人造成伤害时恢复 <style=cStack>与道具数等量</style> 的生命值", 
 
 	"ITEM_ICICLE_NAME": "寒霜圣物",
-	"ITEM_ICICLE_PICKUP": "击杀敌人时自己身边会生成寒霜",
-	"ITEM_ICICLE_DESC": "击杀敌人时身边生成3层分别能造成 33% 伤害的寒霜", 
+	"ITEM_ICICLE_PICKUP": "击杀敌人时自己身边会生成冰柱",
+	"ITEM_ICICLE_DESC": "击杀敌人时身边生成3层分别能造成 33% 伤害的冰柱", 
 
 	"ITEM_GHOSTONKILL_NAME": "邪笑面具",
 	"ITEM_GHOSTONKILL_PICKUP": "杀死敌人时有概率生成幽灵",
@@ -72,11 +72,11 @@
 	"ITEM_MUSHROOM_DESC": "保持固定位置2秒后，创建一个半径 <style=cStack> 1.5×道具数+1.5 </style> m的恢复区域，为其中的所有友军恢复 <style=cStack>2.25%×(道具数+1)</style> 最大生命值", 
 
 	"ITEM_CROWBAR_NAME": "撬棍",
-	"ITEM_CROWBAR_PICKUP": "对生命值高的敌人造成更高的伤害",
+	"ITEM_CROWBAR_PICKUP": "对健康的敌人造成更高的伤害",
 	"ITEM_CROWBAR_DESC": "对生命值高于90%的敌人的攻击会造成 <style=cStack> 30%×道具数量+120% </style> 伤害",   
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "狩猎天性",
-	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "“暴击”将会增加攻速，累计3次",
+	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "“暴击”将会增加攻击速度，累计3次",
 	"ITEM_ATTACKSPEEDONCRIT_DESC": "每次暴击将会增加10%攻击速度，最大不超过<style=cStack>30%×道具数量</style>攻击速度",
 	"ITEM_ATTACKSPEEDONCRIT_LORE": "流言蜚语在恐慌的人群中快速传播着，人们都在讨论着他们下水道里那令人畏惧的蜥蜴人，虽然只是简单的传说，但却使这平原上的所有花草石木为之颤抖，恐惧在森林间、山谷中不断传播着\r\n\r\n一个恶魔，自天空坠落，其强大程度足以碾压Providence与他手下的那些菜鸟，虽然同样只有双手双脚，但却它有着22只永不闭拢的深红色的眼睛\n",
 
@@ -86,7 +86,7 @@
 
 	"ITEM_SPRINTOUTOFCOMBAT_NAME": "红鞭子",
 	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "脱离战斗后移动速度加快",
-	"ITEM_SPRINTOUTOFCOMBAT_DESC": "脱离战斗后增加 <style=cStack>30%×道具数</style> 移动速度",
+	"ITEM_SPRINTOUTOFCOMBAT_DESC": "脱离战斗后增加 <style=cStack>30%×道具数</style> 的移动速度",
 
 	"ITEM_FALLBOOTS_NAME": "H3AD-5T v2",
 	"ITEM_FALLBOOTS_PICKUP": "增加跳跃高度，按住“跳跃键”使用坠地攻击",
@@ -105,13 +105,13 @@
 	"ITEM_WARCRYONMULTIKILL_PICKUP": "在快速连续击杀3个敌人后进入狂暴状态",
 	"ITEM_WARCRYONMULTIKILL_DESC": "在1秒内击杀3只敌人将获得 <style=cStack>4×道具数+2</style> 秒的狂暴状态，增加50%移动速度与100%攻击速度",
 
-	"ITEM_PHASING_NAME": "破旧的隐身自救装置",
+	"ITEM_PHASING_NAME": "破旧的战时隐形装置",
 	"ITEM_PHASING_PICKUP": "当受到过多伤害时自动隐身",
 	"ITEM_PHASING_DESC": "受到攻击时有概率提供 <style=cStack>1.5×(道具数+1)</style> 秒的40%移动速度加成与隐身Buff，受到的伤害越高概率越高",
 	"ITEM_PHASING_LORE": "送货订单：[杂物] 古战争文物 (47件)\r\n跟踪编码：01××××××\r\n预计送达日期：2056年8月13日\r\n送货优先级：优先派送\r\n送货地址：地球，新奥尔良，国家战争博物馆\r\n送货详情：\r\n\r\n我们已经尽力将当地的所有战争文物收集起来了，这里有好多有趣的东西：老式步枪、压缩饼干、密码册，我们甚至还发现了一个状态极佳的隐形装置原型，把它放在你的展览上一定能惊艳全场。\r\n\r\n不过我们这边出了点小问题，我们的货车撞到了坑里，然后火车把所有的货物都撒出去了，然后，它看起来确实是进入了隐形状态，我猜大概是遇到了一些奇怪的短路还是什么，总之我们现在没有办法确认这个隐形设备的具体位置了，它应该就在我邮给你的这其中一个盒子里面。\r\n希望我们的佣金里包含着这个玩意。\r\n",
 	
-	"ITEM_HEALONCRIT_NAME": "农夫的镰刀",
-	"ITEM_HEALONCRIT_PICKUP": "“暴击”给予你生命恢复",
+	"ITEM_HEALONCRIT_NAME": "收割者镰刀",
+	"ITEM_HEALONCRIT_PICKUP": "“暴击”回复你的生命值",
 	"ITEM_HEALONCRIT_DESC": "增加5%暴击概率，暴击回复 <style=cStack>4×(道具数+1)</style> 生命",
 
 	"ITEM_HEALWHILESAFE_NAME": "谨慎的蛞蝓",
@@ -128,13 +128,13 @@
 	"ITEM_PERSONALSHIELD_DESC": "生成一个容量 <style=cStack>25×道具数</style> 的生命护盾，长时间不受到伤害时自动充能",
 
 	"ITEM_NOVAONHEAL_NAME": "N'kuhana的理念",
-	"ITEM_NOVAONHEAL_PICKUP": "血量回复时发射一个伴随着鬼火的骷髅",
+	"ITEM_NOVAONHEAL_PICKUP": "生命值回复时发射一个伴随着鬼火的骷髅",
 	"ITEM_NOVAONHEAL_DESC": "将 <style=cStack>100%×道具数</style> 的治疗量（冒绿字的那种）视为灵魂能量，在灵魂能量计数到达最大生命值的10%时，发射一颗骷髅并造成 250%生命能量 的伤害",
 	"ITEM_NOVAONHEAL_LORE" : "“让我们来聊一聊吧，\r\n\r\n你的信仰是什么？\r\n\r\n在很久以前，生命与时间是完美契合的，爱与恨，死亡与存在，它们是平等的，并且她常常守护着我们。\r\n\r\n但是！不平等情形突然出现了，它困扰着我们，以及我们的子孙后代。我们不再死去，但新生命却没有停止诞生。多少理应逝去的灵魂还在祸害着人间。我们野蛮而又傲慢，只是贪婪地壮大着我们的种族，毫无节制。\r\n\r\n现在，我们的世界已经失去了所有容许死亡存在的空间，因此她也无法再守护我们。但人活着只是在抵消死亡吗？只要排斥异己，我们不都是会死掉吗？是时候改变所谓的标准了，现在我们都非常接近于‘死亡’了。\r\n\r\n为了恢复世界的平衡，我们首先必须允许她的名字存在于世。让我们先废除一些多余的‘观念’，这样我们就能让世界这一水箱空出足够多的空间。作为她的门徒，我们要传播她的言论和意见。作为她的学生，我们要传播死亡。然后我们应当庆幸成为她所认同的听众。\r\n\r\nWeshan!”\r\n\r\n——《The N'tormat》第一章，第一节，第二段\r\n",
 	
 	"ITEM_MEDKIT_NAME": "医疗包",
-	"ITEM_MEDKIT_PICKUP": "受到伤害后过一段时间自动回复血量一次",
-	"ITEM_MEDKIT_DESC": "在受伤结束1.1秒后回复 <style=cStack>10×道具数</style> 血量，1.1秒内再次受伤会重置计时",
+	"ITEM_MEDKIT_PICKUP": "受到伤害后过一段时间自动回复一次生命值",
+	"ITEM_MEDKIT_DESC": "在受伤结束1.1秒后回复 <style=cStack>10×道具数</style> 生命值，1.1秒内再次受伤会重置计时",
 	"ITEM_MEDKIT_LORE": "<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\nMED-E，一种医疗机器人，无论什么时候都在工作。幸存者们非常庆幸他们的逃生舱掉落在医疗港的货物附近——如果没了它他们可能都挂掉了。\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n机器人对着一名高高的，稍微有些憔悴但很健壮的男人说，“我很想这么做，但我们的食物快没有了。”尽管他的神情隐藏在他的蓝色战斗头盔之下，但毫无疑问他已经累坏了，“并且其他人遭受了昨晚的攻击，他们还在恢复身体，如果没有那些强力战士，我们可能没办法……”\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n很明显MED-E只会说这一句话，然而，这个男人继续回答道：“我做不到，MED-E，他们可全指望我了。”\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n这一次，这个男人没有迎合它的话语，他抓起猎枪，离开了不停重复着同一句话的机器人，穿过无数的睡袋与担架，再次向荒野进发。是的，所有人都指望他了。\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n",
 
 	"ITEM_EQUIPMENTMAGAZINE_NAME": "燃料电池",
@@ -142,9 +142,9 @@
 	"ITEM_EQUIPMENTMAGAZINE_DESC": "增加 <style=cStack>等同道具数量</style> 次数的额外装备充能存储，并减少 <style=cStack>15%×道具数</style> 装备冷却",
 	"ITEM_EQUIPMENTMAGAZINE_LORE" : "“随着人类开始进入太空深处冒险，高能量但低体积的燃料源对于星际旅行来说开始变得至关重要，稳定性位居其次。”\r\n——星际发展简史，第二章\r\n",
 
-	"ITEM_INFUSION_NAME": "注入",
-	"ITEM_INFUSION_PICKUP": "击杀敌人永久增加血量上限，直到增加100上限",
-	"ITEM_INFUSION_DESC": "击杀敌人将永久增加1点血量上限，直至增加 <style=cStack>100×道具数</style> 血量上限",
+	"ITEM_INFUSION_NAME": "输液",
+	"ITEM_INFUSION_PICKUP": "击杀敌人永久增加生命值上限，最高增加100",
+	"ITEM_INFUSION_DESC": "击杀敌人将永久增加1点血量上限，最高增加 <style=cStack>100×道具数</style> 血量上限",
 
 	"ITEM_SHOCKNEARBY_NAME": "不稳定的特斯拉电圈",
 	"ITEM_SHOCKNEARBY_PICKUP": "以10秒为间隔电击周围的敌人",
@@ -167,12 +167,12 @@
 	"ITEM_BANDOLIER_PICKUP": "有几率在击杀时掉落重置冷却时间的子弹袋",
 	"ITEM_BANDOLIER_DESC": "<style=cStack>100%-100%/(Cuberoot(道具数+1)×100%)（Cuberoot指立方根）</style>概率掉落能重置所有冷却时间的子弹袋",
 
-	"ITEM_STUNCHANCEONHIT_NAME": "震撼弹",
+	"ITEM_STUNCHANCEONHIT_NAME": "眩晕手雷",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "攻击敌人有几率使敌人眩晕",
 	"ITEM_STUNCHANCEONHIT_DESC": "<style=cStack>100%-100%/(5%×伤害系数×(道具数+1))</style> 概率眩晕敌人2秒\r\n\r\n来自汉化者的私货：\r\n\r\n幸存者技能伤害系数（仅系数非1的技能）：\r\nMUL-T\r\n全自动钉枪 0.3\r\n震撼爆桶 第二段 0.3\r\n\r\n发明家\r\n纳米球 爆炸前 0.4\r\n\r\n猎人\r\n回旋镖 0.8\r\n流星雨 0.2\r\n\r\n道具伤害系数（没提到的是没测，不确定是多少）\r\n肉钩 0.33\r\n电圈 0.3\r\n烟花 0.2\r\nN'kuhana 0.2\r\n仪式小刀 1\r\n粘性炸弹 0\r\n\r\n装备伤害系数（没提到的是没测，不确定是多少）\r\n地狱火 0\r\n众筹者 0.2\r\n发电 1\r\n前子 0.1\r\n陨石 1\r\n导弹 1",
 
-	"ITEM_LUNARDAGGER_NAME": "被重塑过的玻璃刀",
-	"ITEM_LUNARDAGGER_PICKUP": "双倍伤害……<color=#FF7F7F>但是血量减半</color>\n",
+	"ITEM_LUNARDAGGER_NAME": "异形玻璃",
+	"ITEM_LUNARDAGGER_PICKUP": "造成双倍伤害……<color=#FF7F7F>但是血量减半</color>\n",
 	"ITEM_LUNARDAGGER_DESC": "增加 <style=cStack>100%×道具数</style> 伤害，减少最大生命值 50%<style=cStack>（每再获得一件此道具最大生命值在现有基础上再减50%）</style>.",
 	"ITEM_LUNARDAGGER_LORE" : "<style=cMono>\n========================================\n====   MyBabel 机 器 语 言 翻 译 程 序   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <50912157 轮循环>\n暂 停 中…\n目 前 只 能 显 示 部 分 结 果，确 认 吗 ？Y/N\nY\n================================</style>\n成对\n\n这是来自[月球]内核处的，没有具体结构的玻璃，在以飘渺的声音鸣叫了三回之后停了下来。\n\n我们将时间混到它的材质中，两段时间，我们与<他>的时间，这是<他>唯一想要让我们支付的代价，<他>用着神明才会知道的设计，将玻璃折叠与重塑。\n\n<他>用那些不知有多少数量的巨大的手当中的一只手拿着它，我们注入到其中的时间在<他>那紧握的手中展开，快速爆发，肌肉以2倍速度收缩。以2倍的目的性，用2倍有序但复杂的手法，将一切折叠起来，在[?]上成对回环。随着时间耗尽，<他>停了下来。\n\n<他> 将一栋建筑割裂成了千万份。\n\n但时间对任何人都是平等的，微小的碎片开始成对散开，肌肉开始重新舒展，全都以2倍速度运作，这是压缩时间的代价，但<他>有无穷无尽的时间。\n\n<style=cMono>\n================================\n继 续 尝 试 翻 译 ？ Y/N\nY</style>\n",
 
