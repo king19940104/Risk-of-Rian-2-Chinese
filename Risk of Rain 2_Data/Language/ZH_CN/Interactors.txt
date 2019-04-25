@@ -30,14 +30,14 @@
 	"CHEST2_NAME": "大箱子",
 	"CHEST2_CONTEXT": "打开大箱子",
 
-	"GOLDCHEST_NAME": "黄金箱子",
-	"GOLDCHEST_CONTEXT": "打开黄金箱子",
+	"GOLDCHEST_NAME": "传奇宝箱",
+	"GOLDCHEST_CONTEXT": "打开传奇宝箱",
 
 	"TIMEDCHEST_NAME": "限时保险箱",
 	"TIMEDCHEST_CONTEXT": "打开限时保险箱",
 
-	"RADIOTOWER_NAME" : "雷达扫描器",
-	"RADIOTOWER_CONTEXT" : "获取地图数据",
+	"RADIOTOWER_NAME" : "声波扫描器",
+	"RADIOTOWER_CONTEXT" : "获取环境地图数据",
 
 	"MULTISHOP_TERMINAL_NAME": "多重商店终端",
 	"MULTISHOP_TERMINAL_CONTEXT": "使用终端",
@@ -81,40 +81,40 @@
 	//[SHRINES],
 	"SHRINE_HEALING_NAME": "森之神龛",
 	"SHRINE_HEALING_CONTEXT": "向森之神龛献上贡品",
-	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>你发现身边笼罩着令人安心的治愈之力，这使你充满了决心</color>",
-	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} 召来了森林的治愈之力</color>",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>你发现身边笼罩着令人安心的治愈之力，这使你充满了决心</color>。",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} 召来了森林的治愈之力</color>。",
 	
 	"SHRINE_BLOOD_NAME": "血之神龛",
 	"SHRINE_BLOOD_CONTEXT": "向血之神龛献上贡品",
-	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>你感到体内一阵灼痛，你获得了${1}</color>",
-	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} 向血之神龛献上鲜血，获得了${1}</color>",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>你感到体内一阵灼痛，你获得了${1}</color>。",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} 向血之神龛献上鲜血，获得了${1}</color>。",
 
 	"SHRINE_CHANCE_NAME": "机遇神龛",
 	"SHRINE_CHANCE_CONTEXT": "向机遇神龛献上贡品",
-	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>机遇神龛回应了你的请求</color>",
-	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>机遇神龛回应了 {0} 的请求！</color>",
-	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>你献上了贡品，然而什么都没有发生</color>",
-	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} 向机遇神龛献上贡品，然而什么都没有得到</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>机遇神龛回应了你的请求</color>。",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>机遇神龛回应了 {0} 的请求！</color>。",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>你献上了贡品，然而什么都没有发生</color>。",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} 向机遇神龛献上贡品，然而什么都没有得到</color>。",
 
 	"SHRINE_BOSS_NAME": "山岳神龛",
 	"SHRINE_BOSS_CONTEXT": "向山岳神龛祈祷",
-	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>你已受邀进入山之挑战</color>",
-	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} 引领你们进入山之挑战</color>",
-	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>现在，让山之挑战开始吧！</style>",
-	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>你已证明你的勇气，这是给予你们的奖励！</style>",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>你已受邀进入山之挑战</color>。",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} 引领你们进入山之挑战</color>。",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>现在，让山之挑战开始吧！</style>。",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>你已证明你的勇气，这是给予你们的奖励！</style>。",
 
 	"SHRINE_RESTACK_NAME": "秩序神龛",
 	"SHRINE_RESTACK_CONTEXT": "向秩序神龛献上贡品",
-	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>世界的秩序已重写你的命运</color>",
-	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} 接受了秩序的修正</color>",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>世界的秩序已重写你的命运</color>。",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} 接受了秩序的修正</color>。",
 
 	"SHRINE_GOLDSHORES_NAME": "黄金祭坛",
-	"SHRINE_GOLDSHORES_CONTEXT": "向黄金祭坛献上祭品",
+	"SHRINE_GOLDSHORES_CONTEXT": "向黄金祭坛献上祭品。",
 
 	"SHRINE_COMBAT_NAME": "战斗神龛",
 	"SHRINE_COMBAT_CONTEXT": "向战斗祭坛祈祷",
-	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>你召唤了一大堆{1}</color>",
-	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} 向战斗神龛祈祷，召唤了一大堆{1}</color>",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>你召唤了一大堆{1}</color>。",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} 向战斗神龛祈祷，召唤了一大堆{1}</color>。",
 
 	"GOLDTOTEM_NAME": "Halycon信标",
 	"GOLDTOTEM_CONTEXT": "重建Halycon信标",
@@ -127,20 +127,20 @@
 	"LOCKEDMAGE_CONTEXT" : "解救幸存者",
 
 	//[DRONES],
-	"DRONE_GUNNER_INTERACTABLE_NAME": "坏掉的机枪无人机",
+	"DRONE_GUNNER_INTERACTABLE_NAME": "损坏的机枪无人机",
 	"DRONE_GUNNER_CONTEXT": "修复机枪无人机",
 
 	"DRONE_MEGA_INTERACTABLE_NAME": "坏掉的 TC-280",
 	"DRONE_MEGA_CONTEXT": "修复 ???",
 
-	"DRONE_HEALING_INTERACTABLE_NAME": "坏掉的医疗无人机",
+	"DRONE_HEALING_INTERACTABLE_NAME": "损坏的医疗无人机",
 	"DRONE_HEALING_CONTEXT": "修复医疗无人机",
 
-	"DRONE_MISSILE_INTERACTABLE_NAME": "坏掉的导弹无人机",
+	"DRONE_MISSILE_INTERACTABLE_NAME": "损坏的导弹无人机",
 	"DRONE_MISSILE_CONTEXT": "修复导弹无人机",
 
 	//[TURRETS],
-	"TURRET1_INTERACTABLE_NAME": "坏掉的固定机枪炮塔",
+	"TURRET1_INTERACTABLE_NAME": "损坏的固定机枪炮塔",
 	"TURRET1_CONTEXT": "修复固定机枪炮塔",
 
 	"PORTAL_GENERIC_CONTEXT": "进入传送门",

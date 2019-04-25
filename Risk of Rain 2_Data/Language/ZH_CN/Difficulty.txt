@@ -1,7 +1,7 @@
 ﻿{
 	strings:
 	{
-	"DIFFICULTY_BAR_0": "非常简单",
+	"DIFFICULTY_BAR_0": "极其简单",
 	"DIFFICULTY_BAR_1": "简单",
 	"DIFFICULTY_BAR_2": "中等",
 	"DIFFICULTY_BAR_3": "困难",
