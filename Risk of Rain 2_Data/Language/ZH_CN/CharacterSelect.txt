@@ -1,7 +1,7 @@
 {
 	"strings":
 	{
-		"CHARACTER_SELECT_TITLE": "选择幸存者",
+		"CHARACTER_SELECT_TITLE": "选择角色",
 		"SURVIVOR_OVERVIEW": "概览",
 		"SURVIVOR_SKILLS": "技能",
 		"CHARACTER_SELECT_READY": "准备",
