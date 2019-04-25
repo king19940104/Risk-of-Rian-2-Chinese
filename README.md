@@ -1,13 +1,11 @@
-Risk-of-Rian-2-Chinese
-==
-#该汉化由雨中冒险2吧大佬@_喵Plus_ 提供，最终解释权归该大佬所有
+# Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
-由于@_喵Plus_ 学业繁忙，无暇继续进行后续的更新，故由本人上传到github，由社区的大家一起来为雨中冒险2的汉化添砖加瓦，谢谢大家！
+该汉化由雨中冒险2吧大佬 @_喵Plus_ 提供，最终解释权归该大佬所有
+
+由于 @_喵Plus_ 学业繁忙，无暇继续进行后续的更新，故由@king19940104 上传到github，由社区的大家一起来为雨中冒险2的汉化添砖加瓦，谢谢大家！
 
 
-汉化文本 By _喵Plus_
-字库附加MOD By _喵Plus_
-UCS2字符集字库 By _喵Plus_
+汉化文本 By _喵Plus_ ; 字库附加MOD By _喵Plus_ ; UCS2字符集字库 By _喵Plus_
 
 
 
