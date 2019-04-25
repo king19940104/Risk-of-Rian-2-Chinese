@@ -11,11 +11,6 @@ UCS2字符集字库 By _喵Plus_
 
 
 
-下载
---
-[百度网盘下载](https://pan.baidu.com/s/1L7oOm6jMKz9s8_1_h1CNMA) 提取码：uaxi
-
-
 
 安装方式：
 --
