@@ -2,7 +2,7 @@
 	strings:
 	{
 	//[NULL]
-	"NULL_SUBTITLE": "一 大 波",
+	"NULL_SUBTITLE": " 一 大 波 ",
 
 	"ELITE_MODIFIER_FIRE": "烈焰{0}",
 	"ELITE_MODIFIER_LIGHTNING": "过载{0}",
@@ -18,7 +18,7 @@
 	"COMMANDO_UTILITY_DESCRIPTION" : "<style=cIsUtility>翻滚</style>一小段距离。",
 	"COMMANDO_SPECIAL_NAME": "火力压制",
 	"COMMANDO_SPECIAL_DESCRIPTION" : "高速射击, <style=cIsDamage>击晕</style>怪物并造成 <style=cIsDamage>6x100% 伤害。</style>",
-	"COMMANDO_DESCRIPTION": "突击步兵几乎是万能的，在任何情况下都是个不错的选择<style=cSub>\r\n\r\n< ! > 双枪在对付任何距离的怪物都很强力，不仅射速快而且很容易触发各种道具效果\r\n\r\n< ! > 合理使用他的战术翻滚是躲避大量攻击的关键\r\n\r\n< ! > 火力压制可以不停地眩晕一只或多只怪物\r\n\r\n< ! > 相位螺旋是可以穿墙的，好好利用这一有利特性！\r\n<\/style>\r\n",
+	"COMMANDO_DESCRIPTION": "突击步兵是个万金油，在任何情况下都是个不错的选择<style=cSub>\r\n\r\n< ! > 双枪在对付任何距离的怪物都很强力，不仅射速快而且很容易触发各种道具效果\r\n\r\n< ! > 合理使用他的战术翻滚是躲避大量攻击的关键\r\n\r\n< ! > 火力压制可以不停地眩晕一只或多只怪物\r\n\r\n< ! > 相位螺旋是可以穿墙的，好好利用这一有利特性！\r\n<\/style>\r\n",
 
 	"MERC_BODY_NAME": "雇佣兵",
 	"MERC_PRIMARY_NAME": "光剑斩击",

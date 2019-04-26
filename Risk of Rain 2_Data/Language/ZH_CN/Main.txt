@@ -20,38 +20,38 @@
 
 		"MORE_MUSIC" : "音乐",
 		"MORE_MUSIC_DESC" : "大家好！我是克里斯，本游戏原声带的作曲者！有些人可能在之前的雨中冒险一代就已经认识我了，至于其他人，我很高兴在本游戏EA测试阶段认识你们！\r\n\r\n现在我还有很多的音乐要写，我希望你能喜欢至今为止你所听到的这些音乐！如果你想更多的了解我的音乐，你可以关注我的Twitter或Instagram（两个都是@AstronautDown）并订阅我们的Discord服务！",
-		"MORE_MUSIC_BUTTON" : "TAKE ME!",
+		"MORE_MUSIC_BUTTON" : "带走我!",
 		"MORE_CONTACT" : "联系我们",
 		"MORE_CONTACT_DESC" : "在社交娱乐网站上关注我们以获得更多关于《雨中冒险2》的最新消息！",
 
 		"MORE_LICENSE" : "版权信息",
 		"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2019 Hopoo Games, LLC. All rights reserved. \r\n\r\nMade with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved. \r\n\r\nPowered by Wwise (C) 2006 - 2019 Audiokinetic Inc. All rights reserved.\r\n\r\nAll other trademarks and registered trademarks are property of their respective owners.",
 
-		"DESC_MULTIPLAYER_QUICKPLAY": "寻找玩家并自动组队进行游戏",
-		"DESC_MULTIPLAYER_HOST": "以主机身份建立联机游戏并同时允许局域网与已组队玩家加入，支持1-4名玩家",
-		"DESC_MULTIPLAYER_JOIN": "使用剪切板中存储的队伍ID加入特定队伍",
-		"DESC_MULTIPLAYER_INVITE": "邀请玩家加入队伍",
+		"DESC_MULTIPLAYER_QUICKPLAY": "寻找玩家并自动组队进行游戏。",
+		"DESC_MULTIPLAYER_HOST": "以主机身份建立联机游戏并同时允许局域网与已组队玩家加入，支持1-4名玩家。",
+		"DESC_MULTIPLAYER_JOIN": "使用剪切板中存储的队伍ID加入特定队伍。",
+		"DESC_MULTIPLAYER_INVITE": "从你的Steam好友列表中邀请玩家加入队伍。",
 
 		"TITLE_WEEKLY" : "棱镜挑战",
 		"TITLE_WEEKLY_START" : "开始棱镜挑战",
-		"WEEKLY_RUN_NO_ENTRY" : "您必须完成棱镜挑战才能查看其他用户的成绩",
+		"WEEKLY_RUN_NO_ENTRY" : "您必须完成棱镜挑战才能查看其他用户的成绩。",
 		"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "棱镜挑战 - 下一个挑战将在 {0:00}:{1:00}:{2:00} 之后到来",
-		"WEEKLY_RUN_DESCRIPTION" :	"“棱镜挑战”允许玩家们挑战某一固定关卡的最快记录\n\n纪录<style=cWorldEvent>前10%</style>的玩家目前暂时不会获得任何奖励",
+		"WEEKLY_RUN_DESCRIPTION" :	"“棱镜挑战”允许玩家们挑战某一固定关卡的最快记录\n\n纪录<style=cWorldEvent>前10%</style>的玩家目前暂时不会获得任何奖励。",
 
 		"CHARSELECT_RETURN": "返回",
 		"DIFFICULTY_EASY_NAME": "毛毛细雨",
-		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，让所有怪物像二哈一样友好",
+		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，哭泣和绝望都会被欢声笑语所取代。",
 
 		"DIFFICULTY_NORMAL_NAME": "倾盆大雨",
-		"DIFFICULTY_NORMAL_DESCRIPTION": "这才是这个游戏最应当被游玩的难度！面对这些强大的怪物，让我们看看你究竟有多大能耐吧！",
+		"DIFFICULTY_NORMAL_DESCRIPTION": "这才是这个游戏的正确游玩方式！面对这些强大的怪物，让我们看看你究竟有多大能耐吧！",
 
 		"DIFFICULTY_HARD_NAME": "暴风骤雨",
-		"DIFFICULTY_HARD_DESCRIPTION": "硬核玩家专属！感受这恶意满满的命运吧，我赌五毛你肯定死的很惨",
+		"DIFFICULTY_HARD_DESCRIPTION": "硬核玩家专属！这个星球充满了痛苦和绝望，你会死的很惨。",
 		
 		"USER_PROFILE_DELETE_HEADER": "删除档案",
-		"USER_PROFILE_DELETE_DESCRIPTION": "你确认你要删除档案 \"<color="orange">{0}</color>\" 吗? 此操作无法撤回, 并且档案内所有已解锁道具、游戏进度、设定配置都将<style=cDeath>永久消失</style>.",
+		"USER_PROFILE_DELETE_DESCRIPTION": "你确认你要删除档案 \"<color="orange">{0}</color>\" 吗? 此操作无法撤回, 并且档案内所有已解锁道具、游戏进度、设定配置都将<style=cDeath>永久消失</style>。",
 		"USER_PROFILE_DELETE_YES": "是的，我确定！",
-		"USER_PROFILE_DELETE_NO": "我手滑了……",
+		"USER_PROFILE_DELETE_NO": "我点错了……",
 		
 
 		"SUBMENU_BACK": "返回",
@@ -70,8 +70,8 @@
 		"NOTES_PREFIX_FORMAT" : "相关记录：\n<style=cSub><size=80%>{0}</size></style>",
 
 		"GENERIC_PREFIX_FOUND" : "找到<style=cEvent>{0}</style>个",
-		"GENERIC_PREFIX_WINPERCENTAGE" : "Win Percentage: <style=cEvent>{0}%</style>",
-		"BODY_HEALTH_FORMAT" : "最大生命值{0}",
+		"GENERIC_PREFIX_WINPERCENTAGE" : "获胜概率: <style=cEvent>{0}%</style>",
+		"BODY_HEALTH_FORMAT" : "最大生命值：{0}",
 		"BODY_DAMAGE_FORMAT" : "伤害：{0}",
 		"BODY_MOVESPEED_FORMAT" : "速度：{0} m/s",
 
@@ -100,14 +100,14 @@
 		"PLAYER_NAME_UNAVAILABLE" : "???",
 		
 		"DISCONNECTED" : "断开连接",
-		"KICK_REASON_UNSPECIFIED" : "未知原因",
-		"KICK_REASON_SERVERSHUTDOWN" : "服务器已关闭",
-		"KICK_REASON_TIMEOUT" : "连接超时",
-		"KICK_REASON_KICK" : "你已被服务器踢出",
-		"KICK_REASON_BAN" : "你已被服务器封禁",
-		"KICK_REASON_BADPASSWORD" : "密码错误",
-		"KICK_REASON_BADVERSION" : "游戏版本与服务器版本不同",
-		"KICK_REASON_SERVERFULL" : "服务器人数已满",
+		"KICK_REASON_UNSPECIFIED" : "未知原因。",
+		"KICK_REASON_SERVERSHUTDOWN" : "服务器已关闭。",
+		"KICK_REASON_TIMEOUT" : "连接超时。",
+		"KICK_REASON_KICK" : "你已被服务器踢出。",
+		"KICK_REASON_BAN" : "你已被服务器封禁。",
+		"KICK_REASON_BADPASSWORD" : "密码错误。",
+		"KICK_REASON_BADVERSION" : "游戏版本与服务器版本不同。",
+		"KICK_REASON_SERVERFULL" : "服务器人数已满。",
 
 		"LEADERBOARDS" : "排行榜",
 		"LEADERBOARDS_GLOBAL" : "全球",

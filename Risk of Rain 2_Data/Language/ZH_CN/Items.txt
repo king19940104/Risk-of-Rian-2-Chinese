@@ -80,11 +80,11 @@
 	"ITEM_ATTACKSPEEDONCRIT_DESC": "每次<style=cIsDamage>暴击</style>将会增加<style=cIsDamage>10%</style>的<style=cIsDamage>攻击速度</style>，最大不超<style=cIsDamage>30% <style=cStack>(+30% 每个道具)</style> 攻击速度</style>。",
 	"ITEM_ATTACKSPEEDONCRIT_LORE": "流言蜚语在恐慌的人群中快速传播着，人们都在讨论着他们下水道里那令人畏惧的蜥蜴人，虽然只是简单的传说，但却使这平原上的所有花草石木为之颤抖，恐惧在森林间、山谷中不断传播着\r\n\r\n一个恶魔，自天空坠落，其强大程度足以碾压Providence与他手下的那些菜鸟，虽然同样只有双手双脚，但却它有着22只永不闭拢的深红色的眼睛。\n",
 
-	"ITEM_BLEEDONHIT_NAME": "三角匕首",
+	"ITEM_BLEEDONHIT_NAME": "三尖匕首",
 	"ITEM_BLEEDONHIT_PICKUP": "击中敌人有几率使其流血。",
 	"ITEM_BLEEDONHIT_DESC": "<style=cIsDamage>15%</style> <style=cStack>(+15% 每个道具)</style> 概率给与敌人 <style=cIsDamage>240%</style> 伤害的<style=cIsDamage>流血</style>效果",
 
-	"ITEM_SPRINTOUTOFCOMBAT_NAME": "红鞭",
+	"ITEM_SPRINTOUTOFCOMBAT_NAME": "赤色长鞭",
 	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "脱离战斗后移动速度加快。",
 	"ITEM_SPRINTOUTOFCOMBAT_DESC": "脱离战斗后增加 <style=cIsUtility>30%</style> <style=cStack>(+30% 每个道具)</style> 的 <style=cIsUtility>移动速度</style>。",
 
