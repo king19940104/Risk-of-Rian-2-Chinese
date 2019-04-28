@@ -19,10 +19,10 @@
 		"TITLE_MULTIPLAYER_RETURN": "返回",
 
 		"MORE_MUSIC" : "音乐",
-		"MORE_MUSIC_DESC" : "大家好！我是克里斯，本游戏原声带的作曲者！有些人可能在之前的雨中冒险一代就已经认识我了，至于其他人，我很高兴在本游戏EA测试阶段认识你们！\r\n\r\n现在我还有很多的音乐要写，我希望你能喜欢至今为止你所听到的这些音乐！如果你想更多的了解我的音乐，你可以关注我的Twitter或Instagram（两个都是@AstronautDown）并订阅我们的Discord服务！",
+		"MORE_MUSIC_DESC" : "大家好！我是克里斯，本游戏原声带的作曲者！有些人可能在之前的雨中冒险一代就已经认识我了，至于其他人，我很高兴在本游戏的抢先测试阶段认识你们！\r\n\r\n现在我还有很多音乐要写，希望你能喜欢至今为止的这些音乐！如果你想更多地了解我的音乐，你可以关注我的Twitter或Instagram（都是@AstronautDown）并来我们的Discord服务器看看！",
 		"MORE_MUSIC_BUTTON" : "TAKE ME!",
 		"MORE_CONTACT" : "联系我们",
-		"MORE_CONTACT_DESC" : "在社交娱乐网站上关注我们以获得更多关于《雨中冒险2》的最新消息！",
+		"MORE_CONTACT_DESC" : "在社交网站上关注我们以获得更多关于《雨中冒险2》的最新消息！",
 
 		"MORE_LICENSE" : "版权信息",
 		"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2019 Hopoo Games, LLC. All rights reserved. \r\n\r\nMade with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved. \r\n\r\nPowered by Wwise (C) 2006 - 2019 Audiokinetic Inc. All rights reserved.\r\n\r\nAll other trademarks and registered trademarks are property of their respective owners.",
@@ -43,13 +43,13 @@
 		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，让所有怪物像二哈一样友好",
 
 		"DIFFICULTY_NORMAL_NAME": "倾盆大雨",
-		"DIFFICULTY_NORMAL_DESCRIPTION": "这才是这个游戏最应当被游玩的难度！面对这些强大的怪物，让我们看看你究竟有多大能耐吧！",
+		"DIFFICULTY_NORMAL_DESCRIPTION": "这是游玩这个游戏的最佳难度！面对这些可怕的怪物，让我们看看你究竟有多大能耐吧！",
 
 		"DIFFICULTY_HARD_NAME": "暴风骤雨",
 		"DIFFICULTY_HARD_DESCRIPTION": "硬核玩家专属！感受这恶意满满的命运吧，我赌五毛你肯定死的很惨",
 		
 		"USER_PROFILE_DELETE_HEADER": "删除档案",
-		"USER_PROFILE_DELETE_DESCRIPTION": "你确认你要删除档案 \"<color="orange">{0}</color>\" 吗? 此操作无法撤回, 并且档案内所有已解锁道具、游戏进度、设定配置都将<style=cDeath>永久消失</style>.",
+		"USER_PROFILE_DELETE_DESCRIPTION": "你确认你要删除档案 \"<color="orange">{0}</color>\" 吗? 此操作无法撤回, 并且档案内所有已解锁道具、游戏进度、控制设定都将<style=cDeath>永久消失</style>.",
 		"USER_PROFILE_DELETE_YES": "是的，我确定！",
 		"USER_PROFILE_DELETE_NO": "我手滑了……",
 		
@@ -84,7 +84,7 @@
 		
 		"STAGE_PREFIX_TOTALTIMESVISITED" : "到访次数：<style=cEvent>{0}</style>",
 		"STAGE_PREFIX_TOTALTIMESCLEARED" : "通关次数：<style=cEvent>{0}</style>",
-		"STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE" : "场景调查度：<style=cEvent>{0}%</style>",
+		"STAGE_PREFIX_STAGECOMPLETIONPERCENTAGE" : "场景完成度：<style=cEvent>{0}%</style>",
 
 		"SURVIVOR_PREFIX_LONGESTRUN" : "最长生存时间：<style=cEvent>{0}</style>",
 		"SURVIVOR_PREFIX_TIMESPICKED" : "游玩次数：<style=cEvent>{0}</style>",
@@ -106,7 +106,7 @@
 		"KICK_REASON_KICK" : "你已被服务器踢出",
 		"KICK_REASON_BAN" : "你已被服务器封禁",
 		"KICK_REASON_BADPASSWORD" : "密码错误",
-		"KICK_REASON_BADVERSION" : "游戏版本与服务器版本不同",
+		"KICK_REASON_BADVERSION" : "游戏版本与服务器版本不一致",
 		"KICK_REASON_SERVERFULL" : "服务器人数已满",
 
 		"LEADERBOARDS" : "排行榜",

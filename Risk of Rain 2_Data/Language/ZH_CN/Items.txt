@@ -7,7 +7,7 @@
 
 	"ITEM_CLOVER_NAME": "57叶草",
 	"ITEM_CLOVER_PICKUP": "运气站在你这边",
-	"ITEM_CLOVER_DESC": "每获得一个此道具，所有随机触发效果增加1次额外触发判断以提高成功触发概率", 
+	"ITEM_CLOVER_DESC": "每获得一个此道具，所有随机触发效果增加1次额外触发判断以提高触发几率", 
 
 	"ITEM_SYRINGE_NAME": "士兵的强心剂",
 	"ITEM_SYRINGE_PICKUP": "增加攻击速度",
@@ -15,7 +15,7 @@
 
 	"ITEM_BEAR_NAME": "艰苦时刻",
 	"ITEM_BEAR_PICKUP": "有几率抵挡一次伤害",
-	"ITEM_BEAR_DESC": "<style=cStack>100%-100%/(100%+15%×道具数)</style> 概率抵挡一次伤害，57叶草效果对此道具无效", 
+	"ITEM_BEAR_DESC": "<style=cStack>100%-100%/(100%+15%×道具数)</style> 几率抵挡一次伤害，57叶草对此道具无效", 
 	"ITEM_BEAR_LORE" : "<style=cMono>\r\n//-- 自 动 转 录 自 UES 4211B 室 [ 已 修 订 ]--//</style>\r\n\r\n“你为什么要来这里？”\r\n\r\nWyatt的语气充满着厌烦，找到触光号最后一个已知的坐标位置所花费的时间比他预期的稍微久了一点。\r\n\r\nMalik正在地上专注地清理着她的步枪，“主要是为了钱。”\r\n\r\n“就这些？”\r\n\r\n她咕哝一下表示肯定，然后继续清理着她的武器。\r\n\r\n“我来这里是为了找一个东西”他自顾自地说，“我几年前曾想把它运走过，但我认为那辆列车并没有在坏掉之前把它给运到目的地。我觉着它应该还在触光号上，所以我要去把它找回来。”\r\n\r\n她开始拧紧最后的几根螺丝，这是她今天的最后几件要做的事，她将目光移向Wyatt，“你认真的吗？”\r\n\r\n“当然！”\r\n\r\nMalik扬起她的眉毛，“触光号上有超过7000000个保险箱，你从这当中找到特定的那个箱子几乎是不可能的。”她用她的步枪撑起身体，舒展着她的双腿，“并且根据遇难信号，我们已经可以确认触光号在轨道上被摧毁掉了，你的货物现在或许就在太空里飘着不知道飘到哪里了，它没了，Wyatt。”\r\n\r\n他笑了一下，“我确信我能找到它。”\r\n\r\n“你的性格真差劲。”\r\n",
 	
 	"ITEM_BEHEMOTH_NAME": "卓越巨炮",
@@ -24,7 +24,7 @@
 
 	"ITEM_MISSILE_NAME": "空对地导弹 Mk. 1",
 	"ITEM_MISSILE_PICKUP": "有几率发射一枚导弹",
-	"ITEM_MISSILE_DESC": "击中敌人时有10%概率发射一枚导弹造成 <style=cStack>300%×道具数</style> 伤害", 
+	"ITEM_MISSILE_DESC": "击中敌人时有10%几率发射一枚导弹造成 <style=cStack>300%×道具数</style> 伤害", 
 
 	"ITEM_EXPLODEONDEATH_NAME": "鬼火",
 	"ITEM_EXPLODEONDEATH_PICKUP": "引爆击杀的敌人",
@@ -32,44 +32,44 @@
 
 	"ITEM_DAGGER_NAME": "仪式匕首",
 	"ITEM_DAGGER_PICKUP": "击杀敌人后释放自动追踪的匕首",
-	"ITEM_DAGGER_DESC": "击杀敌人后释放 <style=cStack>3×道具数</style> 把自动跟踪的匕首，每把造成 150% 基础伤害", 
+	"ITEM_DAGGER_DESC": "击杀敌人后释放 <style=cStack>3×道具数</style> 把自动追踪的匕首，每把造成 150% 基础伤害", 
 	"ITEM_DAGGER_LORE": "硫磺的味道弥漫在空气中。\r\n\r\n“哦天哪，它们离我们太近了，它们已经抓住Hitchcock了，哦我的老天。”\r\n\r\n“找到那个……那把匕首，就在我的背包里，快点”\r\n\r\n“我没看到……哦我找到了！这是什么鬼，这玩意不会有用的，Marion。我到底要怎么用这玩意去……？哦天哪！它们把他撕成了碎片……”\r\n\r\n“你必须……必须要杀掉我，啊！快杀掉我，用这个杀掉我！”\r\n\r\n“什么？你在说什么鬼东西？”\r\n\r\n“是的，这是唯一的方法了，快点！”\r\n\r\n“你在说什么鬼话？快停下来！”\r\n\r\n“这是拥有魔力的小刀，它会保护我们，她会保佑我们的。但在那之前你必须要用这把刀杀掉我。”\r\n\r\n“不，不要让我来做这件事，哦我的天哪。”\r\n\r\n“你……必须这么，我已经见过这个东西的效果了，这是唯一的方法——它们已经靠的很近了，你必须用它杀了我，快杀了我！”\r\n\r\n“对不起，Marion，我真的很抱歉，我不觉着……”\r\n\r\n“快点！现在就杀了我！现在马上杀掉我！快！杀！掉！我！杀……”",
 	
 	"ITEM_TOOTH_NAME": "怪物的牙齿",
 	"ITEM_TOOTH_PICKUP": "击杀敌人后掉落治疗球",
-	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个治疗球，每个恢复 <style=cStack>4×道具数</style> 生命值", 
+	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个治疗球，每个回复<style=cStack>4×道具数</style> 生命值", 
 
 	"ITEM_CRITGLASSES_NAME": "眼镜师的眼镜",
 	"ITEM_CRITGLASSES_PICKUP": "有几率触发“暴击”，造成双倍伤害",
-	"ITEM_CRITGLASSES_DESC": "增加 <style=cStack> 10%×道具数 </style> 概率触发“暴击”以造成双倍伤害", 
+	"ITEM_CRITGLASSES_DESC": "增加 <style=cStack> 10%×道具数 </style> 几率触发“暴击”以造成双倍伤害", 
 
 	"ITEM_HOOF_NAME": "Paul的羊腿",
 	"ITEM_HOOF_PICKUP": "移动得更快",
 	"ITEM_HOOF_DESC": "增加 <style=cStack>14%×道具数</style> 移动速度",
 
 	"ITEM_FEATHER_NAME": "Hopoo羽毛",
-	"ITEM_FEATHER_PICKUP": "获得一次额外的跳跃",
+	"ITEM_FEATHER_PICKUP": "获得一次额外的跳跃次数",
 	"ITEM_FEATHER_DESC": "提供 <style=cStack>与道具数量相等</style> 次数的额外跳跃次数", 
  
 	"ITEM_CHAINLIGHTNING_NAME": "尤克里里",
 	"ITEM_CHAINLIGHTNING_PICKUP": "……并且他的音乐带来了电闪雷鸣",
-	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有25%概率触发连锁闪电，对半径 <style=cStack>2×道具数+18</style> m范围内的 <style=cStack>2×道具数+1</style> 只敌人分别造成 80% 伤害",
+	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有25%几率触发连锁闪电，对半径 <style=cStack>2×道具数+18</style> m范围内的 <style=cStack>2×道具数+1</style> 只敌人分别造成 80% 伤害",
 
 	"ITEM_SEED_NAME": "吸血种子",
-	"ITEM_SEED_PICKUP": "攻击造成伤害时恢复生命值",
-	"ITEM_SEED_DESC": "对敌人造成伤害时恢复 <style=cStack>与道具数等量</style> 的生命值", 
+	"ITEM_SEED_PICKUP": "攻击造成伤害时回复生命值",
+	"ITEM_SEED_DESC": "对敌人造成伤害时回复 <style=cStack>与道具数等量</style> 的生命值", 
 
 	"ITEM_ICICLE_NAME": "寒霜圣物",
-	"ITEM_ICICLE_PICKUP": "击杀敌人时自己身边会生成冰柱",
+	"ITEM_ICICLE_PICKUP": "击杀敌人时在自己的身边生成冰柱",
 	"ITEM_ICICLE_DESC": "击杀敌人时身边生成3层分别能造成 33% 伤害的冰柱", 
 
 	"ITEM_GHOSTONKILL_NAME": "邪笑面具",
-	"ITEM_GHOSTONKILL_PICKUP": "杀死敌人时有概率生成幽灵",
-	"ITEM_GHOSTONKILL_DESC": "击杀敌人时有10%概率生成被击杀敌人的幽灵，幽灵继承原敌人属性并拥有 400% 攻击力，持续 <style=cStack>30×道具数</style> 秒", 
+	"ITEM_GHOSTONKILL_PICKUP": "杀死敌人时有几率生成幽灵",
+	"ITEM_GHOSTONKILL_DESC": "击杀敌人时有10%几率生成被击杀敌人的幽灵，幽灵继承原敌人属性并拥有 400% 攻击力，持续 <style=cStack>30×道具数</style> 秒", 
 
 	"ITEM_MUSHROOM_NAME": "菌菇爆发",
-	"ITEM_MUSHROOM_PICKUP": "保持固定位置2秒后为身边所有友军恢复生命值",
-	"ITEM_MUSHROOM_DESC": "保持固定位置2秒后，创建一个半径 <style=cStack> 1.5×道具数+1.5 </style> m的恢复区域，为其中的所有友军恢复 <style=cStack>2.25%×(道具数+1)</style> 最大生命值", 
+	"ITEM_MUSHROOM_PICKUP": "站定不动2秒后为身边所有友军回复生命值",
+	"ITEM_MUSHROOM_DESC": "站定不动2秒后，产生一个半径 <style=cStack> 1.5×道具数+1.5 </style> m的回复区域，为其中的所有友军回复 <style=cStack>2.25%×(道具数+1)</style> 最大生命值", 
 
 	"ITEM_CROWBAR_NAME": "撬棍",
 	"ITEM_CROWBAR_PICKUP": "对健康的敌人造成更高的伤害",
@@ -82,7 +82,7 @@
 
 	"ITEM_BLEEDONHIT_NAME": "倒刺小刀",
 	"ITEM_BLEEDONHIT_PICKUP": "攻击敌人有几率使敌人流血",
-	"ITEM_BLEEDONHIT_DESC": "<style=cStack>15%×道具数</style> 概率给与敌人 240% 伤害的流血效果",
+	"ITEM_BLEEDONHIT_DESC": "<style=cStack>15%×道具数</style> 几率给与敌人 240% 伤害的流血效果",
 
 	"ITEM_SPRINTOUTOFCOMBAT_NAME": "红鞭子",
 	"ITEM_SPRINTOUTOFCOMBAT_PICKUP": "脱离战斗后移动速度加快",
@@ -98,25 +98,25 @@
 	"ITEM_COOLDOWNONCRIT_DESC": "增加 5% 暴击率，暴击减少所有技能的冷却时间1秒",
 
 	"ITEM_WARDONLEVEL_NAME": "战争旗帜",
-	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落旗帜，为你提高能力",
+	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落旗帜，提高你的力量",
 	"ITEM_WARDONLEVEL_DESC": "当等级提升时会自动在地上插下旗帜，为 <style=cStack>8×(道具数+1)</style> m范围内所有友军提升30%攻击与移动速度",
 
-	"ITEM_WARCRYONMULTIKILL_NAME": "狂战士的肩甲",
+	"ITEM_WARCRYONMULTIKILL_NAME": "狂战士肩甲",
 	"ITEM_WARCRYONMULTIKILL_PICKUP": "在快速连续击杀3个敌人后进入狂暴状态",
 	"ITEM_WARCRYONMULTIKILL_DESC": "在1秒内击杀3只敌人将获得 <style=cStack>4×道具数+2</style> 秒的狂暴状态，增加50%移动速度与100%攻击速度",
 
-	"ITEM_PHASING_NAME": "破旧的战时隐形装置",
-	"ITEM_PHASING_PICKUP": "当受到过多伤害时自动隐身",
-	"ITEM_PHASING_DESC": "受到攻击时有概率提供 <style=cStack>1.5×(道具数+1)</style> 秒的40%移动速度加成与隐身Buff，受到的伤害越高概率越高",
+	"ITEM_PHASING_NAME": "老旧的战时隐形装置",
+	"ITEM_PHASING_PICKUP": "当受到严重伤害时自动隐身",
+	"ITEM_PHASING_DESC": "受到攻击时有几率提供 <style=cStack>1.5×(道具数+1)</style> 秒的40%移动速度加成与隐身Buff，受到的伤害越高几率越高",
 	"ITEM_PHASING_LORE": "送货订单：[杂物] 古战争文物 (47件)\r\n跟踪编码：01××××××\r\n预计送达日期：2056年8月13日\r\n送货优先级：优先派送\r\n送货地址：地球，新奥尔良，国家战争博物馆\r\n送货详情：\r\n\r\n我们已经尽力将当地的所有战争文物收集起来了，这里有好多有趣的东西：老式步枪、压缩饼干、密码册，我们甚至还发现了一个状态极佳的隐形装置原型，把它放在你的展览上一定能惊艳全场。\r\n\r\n不过我们这边出了点小问题，我们的货车撞到了坑里，然后火车把所有的货物都撒出去了，然后，它看起来确实是进入了隐形状态，我猜大概是遇到了一些奇怪的短路还是什么，总之我们现在没有办法确认这个隐形设备的具体位置了，它应该就在我邮给你的这其中一个盒子里面。\r\n希望我们的佣金里包含着这个玩意。\r\n",
 	
 	"ITEM_HEALONCRIT_NAME": "收割者镰刀",
 	"ITEM_HEALONCRIT_PICKUP": "“暴击”回复你的生命值",
-	"ITEM_HEALONCRIT_DESC": "增加5%暴击概率，暴击回复 <style=cStack>4×(道具数+1)</style> 生命",
+	"ITEM_HEALONCRIT_DESC": "增加5%暴击几率，暴击回复 <style=cStack>4×(道具数+1)</style> 生命",
 
 	"ITEM_HEALWHILESAFE_NAME": "谨慎的蛞蝓",
-	"ITEM_HEALWHILESAFE_PICKUP": "脱离战斗后快速回血",
-	"ITEM_HEALWHILESAFE_DESC": "脱离战斗后增加 <style=cStack>100%+150%×道具数</style> 的生命值回复量",
+	"ITEM_HEALWHILESAFE_PICKUP": "脱离战斗后快速恢复生命值",
+	"ITEM_HEALWHILESAFE_DESC": "脱离战斗后增加 <style=cStack>100%+150%×道具数</style> 的生命值恢复量",
 
 	"ITEM_JUMPBOOST_NAME": "蜡制鹌鹑",
 	"ITEM_JUMPBOOST_PICKUP": "冲刺时跳跃会自动前冲",
@@ -133,12 +133,12 @@
 	"ITEM_NOVAONHEAL_LORE" : "“让我们来聊一聊吧，\r\n\r\n你的信仰是什么？\r\n\r\n在很久以前，生命与时间是完美契合的，爱与恨，死亡与存在，它们是平等的，并且她常常守护着我们。\r\n\r\n但是！不平等情形突然出现了，它困扰着我们，以及我们的子孙后代。我们不再死去，但新生命却没有停止诞生。多少理应逝去的灵魂还在祸害着人间。我们野蛮而又傲慢，只是贪婪地壮大着我们的种族，毫无节制。\r\n\r\n现在，我们的世界已经失去了所有容许死亡存在的空间，因此她也无法再守护我们。但人活着只是在抵消死亡吗？只要排斥异己，我们不都是会死掉吗？是时候改变所谓的标准了，现在我们都非常接近于‘死亡’了。\r\n\r\n为了恢复世界的平衡，我们首先必须允许她的名字存在于世。让我们先废除一些多余的‘观念’，这样我们就能让世界这一水箱空出足够多的空间。作为她的门徒，我们要传播她的言论和意见。作为她的学生，我们要传播死亡。然后我们应当庆幸成为她所认同的听众。\r\n\r\nWeshan!”\r\n\r\n——《The N'tormat》第一章，第一节，第二段\r\n",
 	
 	"ITEM_MEDKIT_NAME": "医疗包",
-	"ITEM_MEDKIT_PICKUP": "受到伤害后过一段时间自动回复一次生命值",
+	"ITEM_MEDKIT_PICKUP": "受到伤害后过一段时间自动恢复一次生命值",
 	"ITEM_MEDKIT_DESC": "在受伤结束1.1秒后回复 <style=cStack>10×道具数</style> 生命值，1.1秒内再次受伤会重置计时",
 	"ITEM_MEDKIT_LORE": "<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\nMED-E，一种医疗机器人，无论什么时候都在工作。幸存者们非常庆幸他们的逃生舱掉落在医疗港的货物附近——如果没了它他们可能都挂掉了。\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n机器人对着一名高高的，稍微有些憔悴但很健壮的男人说，“我很想这么做，但我们的食物快没有了。”尽管他的神情隐藏在他的蓝色战斗头盔之下，但毫无疑问他已经累坏了，“并且其他人遭受了昨晚的攻击，他们还在恢复身体，如果没有那些强力战士，我们可能没办法……”\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n很明显MED-E只会说这一句话，然而，这个男人继续回答道：“我做不到，MED-E，他们可全指望我了。”\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n这一次，这个男人没有迎合它的话语，他抓起猎枪，离开了不停重复着同一句话的机器人，穿过无数的睡袋与担架，再次向荒野进发。是的，所有人都指望他了。\r\n\r\n<style=cMono>“ 我 建 议 您 呆 在 屋 里 好 好 休 息 。”</style>\r\n\r\n",
 
 	"ITEM_EQUIPMENTMAGAZINE_NAME": "燃料电池",
-	"ITEM_EQUIPMENTMAGAZINE_PICKUP": "增加1次装备使用机会，减少装备冷却时间",
+	"ITEM_EQUIPMENTMAGAZINE_PICKUP": "增加1次装备使用次数，减少装备冷却时间",
 	"ITEM_EQUIPMENTMAGAZINE_DESC": "增加 <style=cStack>等同道具数量</style> 次数的额外装备充能存储，并减少 <style=cStack>15%×道具数</style> 装备冷却",
 	"ITEM_EQUIPMENTMAGAZINE_LORE" : "“随着人类开始进入太空深处冒险，高能量但低体积的燃料源对于星际旅行来说开始变得至关重要，稳定性位居其次。”\r\n——星际发展简史，第二章\r\n",
 
@@ -147,7 +147,7 @@
 	"ITEM_INFUSION_DESC": "击杀敌人将永久增加1点生命值上限，最高增加 <style=cStack>100×道具数</style> 生命值上限",
 
 	"ITEM_SHOCKNEARBY_NAME": "不稳定的特斯拉电圈",
-	"ITEM_SHOCKNEARBY_PICKUP": "以10秒为间隔电击周围的敌人",
+	"ITEM_SHOCKNEARBY_PICKUP": "每10秒电击周围的敌人",
 	"ITEM_SHOCKNEARBY_DESC": "每隔0.5秒发射闪电命中 <style=cStack>3×道具数</style> 只敌人造成200%伤害，特斯拉电圈每隔10秒切换一次开关",
 
 	"ITEM_IGNITEONKILL_NAME": "汽油桶",
@@ -156,7 +156,7 @@
 
 	"ITEM_BOUNCENEARBY_NAME": "感知型肉钩",
 	"ITEM_BOUNCENEARBY_PICKUP": "有几率钩住附近所有敌人",
-	"ITEM_BOUNCENEARBY_DESC": "<style=cStack>100%-100%/(100%+20%×道具数)</style> 概率在命中敌人时从敌人身上发射自动跟踪的钩子，同时钩住最多 <style=cStack>5×(道具数+1)</style> 只敌人并造成 100% 伤害",
+	"ITEM_BOUNCENEARBY_DESC": "<style=cStack>100%-100%/(100%+20%×道具数)</style> 几率在命中敌人时从敌人身上发射自动追踪的钩子，同时钩住最多 <style=cStack>5×(道具数+1)</style> 只敌人并造成 100% 伤害",
 	"ITEM_BOUNCENEARBY_LORE": "“当人工智能变得越来越普遍时，许多公司都掀起了‘智能’热潮，其中包含了智能门、智能灯、智能咖啡机、智能剪草机、智能吸尘器、智能床上用品、智能厨刀还有其他的一些家居品。在经过一系列的骇人听闻的智能家电诉讼后，很多产品又重回了传统路线”\r\n\r\n——《为什么聪明一种愚蠢？》第七部\r\n",
 
 	"ITEM_FIREWORK_NAME": "一捆烟花",
@@ -165,11 +165,11 @@
 
 	"ITEM_BANDOLIER_NAME": "弹夹",
 	"ITEM_BANDOLIER_PICKUP": "有几率在击杀时掉落重置冷却时间的子弹袋",
-	"ITEM_BANDOLIER_DESC": "<style=cStack>100%-100%/(Cuberoot(道具数+1)×100%)（Cuberoot指立方根）</style>概率掉落能重置所有冷却时间的子弹袋",
+	"ITEM_BANDOLIER_DESC": "<style=cStack>100%-100%/(Cuberoot(道具数+1)×100%)（Cuberoot指立方根）</style>几率掉落能重置所有冷却时间的子弹袋",
 
 	"ITEM_STUNCHANCEONHIT_NAME": "眩晕手雷",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "攻击敌人有几率使敌人眩晕",
-	"ITEM_STUNCHANCEONHIT_DESC": "<style=cStack>100%-100%/(5%×伤害系数×(道具数+1))</style> 概率眩晕敌人2秒\r\n\r\n来自汉化者的私货：\r\n\r\n幸存者技能伤害系数（仅系数非1的技能）：\r\nMUL-T\r\n全自动钉枪 0.3\r\n震撼爆桶 第二段 0.3\r\n\r\n发明家\r\n纳米球 爆炸前 0.4\r\n\r\n猎人\r\n回旋镖 0.8\r\n流星雨 0.2\r\n\r\n道具伤害系数（没提到的是没测，不确定是多少）\r\n肉钩 0.33\r\n电圈 0.3\r\n烟花 0.2\r\nN'kuhana 0.2\r\n仪式小刀 1\r\n粘性炸弹 0\r\n\r\n装备伤害系数（没提到的是没测，不确定是多少）\r\n地狱火 0\r\n众筹者 0.2\r\n发电 1\r\n前子 0.1\r\n陨石 1\r\n导弹 1",
+	"ITEM_STUNCHANCEONHIT_DESC": "<style=cStack>100%-100%/(5%×伤害系数×(道具数+1))</style> 几率眩晕敌人2秒\r\n\r\n来自汉化者的私货：\r\n\r\n幸存者技能伤害系数（仅系数非1的技能）：\r\nMUL-T\r\n全自动钉枪 0.3\r\n震撼爆桶 第二段 0.3\r\n\r\n发明家\r\n纳米球 爆炸前 0.4\r\n\r\n猎人\r\n回旋镖 0.8\r\n流星雨 0.2\r\n\r\n道具伤害系数（没提到的是没测，不确定是多少）\r\n肉钩 0.33\r\n电圈 0.3\r\n烟花 0.2\r\nN'kuhana 0.2\r\n仪式小刀 1\r\n粘性炸弹 0\r\n\r\n装备伤害系数（没提到的是没测，不确定是多少）\r\n地狱火 0\r\n众筹者 0.2\r\n发电 1\r\n前子 0.1\r\n陨石 1\r\n导弹 1",
 
 	"ITEM_LUNARDAGGER_NAME": "异形玻璃",
 	"ITEM_LUNARDAGGER_PICKUP": "造成双倍伤害……<color=#FF7F7F>但是生命值减半</color>\n",
@@ -178,10 +178,10 @@
 
 	"ITEM_GOLDONHIT_NAME": "脆弱的王冠",
 	"ITEM_GOLDONHIT_PICKUP": "攻击敌人获得金钱……<color=#FF7F7F>但是受伤时会扣除金钱</color>\n",
-	"ITEM_GOLDONHIT_DESC": "30%×伤害系数（伤害系数请参考“震撼弹”） 概率在攻击敌人时获得 <style=cStack>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的生命值/最大生命值 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
+	"ITEM_GOLDONHIT_DESC": "30%×伤害系数（伤害系数请参考“震撼弹”） 几率在攻击敌人时获得 <style=cStack>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的生命值/最大生命值 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
 
 	"ITEM_SHIELDONLY_NAME": "超凡入圣",
-	"ITEM_SHIELDONLY_PICKUP": "增加最高生命值上限，并将生命值全部转换为护盾",
+	"ITEM_SHIELDONLY_PICKUP": "增加生命值上限，并将生命值全部转换为护盾",
 	"ITEM_SHIELDONLY_DESC": "保留1点生命值，其他生命值全部转换为充能护盾，增加 <style=cStack>25%×(道具数+1)</style> 最大生命值",
 	"ITEM_SHIELDONLY_LORE": "你一直在尽全力去生存，你认为你自己学的足够快，你总觉着自己足够幸运，你一直在体验似曾相识的情景，如果你理解了我说的话，不要继续读下去。\r\n你在控制着自己的信仰，你在陌生的环境里寻找熟悉感，你的直觉依赖于从未有过的经历，你在思考你过去的人生，如果你理解了我说的话，不要继续读下去。\r\n你发现你自己在寻找一些从未有过的东西，你失去了你从未拥有过的东西，你扮演着并非实际存在的角色，你一直在体验似曾相识的感觉，如果你理解了我说的话，不要继续读下去。\r\n你看穿了我的想法，因为你已经将这些信息消化掉了，很快[观察者们]将会把这些信息抹除掉。如果你读到了这里，我恐怕已经死去很久了，但从另一方面来说，你又把我释放了出来，我已不存在于我的世界，没有任何证据证明我曾存在过，但我现在存在于你的世界里了。我从我的苦难之中逃了出来，请保护我的安全，我希望你永远不要理解这些。\r\n",
 
@@ -192,15 +192,15 @@
 
 	"ITEM_TALISMAN_NAME": "噬魂催化剂",
 	"ITEM_TALISMAN_PICKUP": "击杀敌人以减少装备冷却时间",
-	"ITEM_TALISMAN_DESC": "击杀敌人减少装备冷却 <style=cStack>2×(道具数+1)</style> 秒",
+	"ITEM_TALISMAN_DESC": "击杀敌人减少装备冷却时间 <style=cStack>2×(道具数+1)</style> 秒",
 
-	"ITEM_KNURL_NAME": "泰坦之心",
-	"ITEM_KNURL_PICKUP": "增加最大生命值与恢复速度",
+	"ITEM_KNURL_NAME": "泰坦核心",
+	"ITEM_KNURL_PICKUP": "增加最大生命值与生命回复速度",
 	"ITEM_KNURL_DESC": "增加 <style=cStack>40×道具数</style> 最大生命值并提供每秒 <style=cStack>1.6×道具数</style> 的生命值回复",
 
 	"ITEM_BEETLEGLAND_NAME": "甲虫女王的信息素囊",
 	"ITEM_BEETLEGLAND_PICKUP": "招募一只甲虫护卫",
-	"ITEM_BEETLEGLAND_DESC": "每30秒尝试召唤一只拥有300%攻击力与100%生命值的甲虫护卫，同一时间场上只能有 <style=cStack>等同道具数量</style> 的甲虫护卫",
+	"ITEM_BEETLEGLAND_DESC": "每30秒尝试一只拥有300%攻击力与100%生命值的甲虫护卫，同一时间场上只能有 <style=cStack>等同道具数量</style> 的甲虫护卫",
 	"ITEM_BEETLEGLAND_LORE": "“嘿，嗯，Kaitlin？如果你听的到我说话就吱一声。”\r\n\r\n“我能听到，怎么了？”\r\n\r\n“我好像交到了一些朋友……？我不清楚。”\r\n\r\n“啥？”\r\n\r\n“我们之前杀掉的那只大虫子，嗯，它的尸体看起来吸引了一堆恶心的东西，我在去清理它们的时候突然发现它们好像是在……等我？嗯……我也说不太清楚，不管怎样，我走过去想要把它们赶走，但奇怪的是它们看起来并不是很主动。这些虫子昨天让我得了脑震荡，并且……”\r\n\r\n“啥？！你还好吗？”\r\n\r\n“嗯？啊，我很好，总之，自从我发现它们不那么……具有攻击性后我就开始觉着杀掉它们是件很糟糕的事了，所以我径直离开，然而它们就一直在跟着我，真是奇怪。总之，我觉着我是交到了一些朋友，我在想它们会吃……它们会吃东西么？毕竟它们没有嘴巴……”\r\n\r\n“停下，Rich！别让我回想起那次露营！”\r\n\r\n“哦好吧，嗯……我会的……Junior，停下！离你哥远点！”\r\n",
 
 	"ITEM_SPRINTBONUS_NAME": "能量饮料",
@@ -209,20 +209,20 @@
 	"ITEM_SPRINTBONUS_LORE" : "送货订单：NR-G 运动苏打饮料（400罐）\r\n跟踪编码：49××××××\r\n预计送达日期：2056年3月12日\r\n送货优先级：标准\r\n送货地址：金星，脊湖，威尼斯卫生公共服务中心\r\n送货详情：\r\n\r\n啊，这是嗯……几星期前在Majora Minora的灾难中，人们混合制作的能量饮料。\r\n\r\n对事件中的一些受害者进行的快速毒品检测显示嗯……里面包含各种各种的毒品，没开玩笑，美沙酮，苯环定，四氢大麻酚，各种阿片类，苯二氮卓类，巴比妥类，安非他命……这张单子根本列都列不完。\r\n\r\nRadical Drinks坚持认为这当中不存在他们生产的运动饮料，我觉着这完全不可能，也许他们真的很懂如何在Violet Heights开Party对吧？\r\n",
 	
 	"ITEM_SECONDARYSKILLMAGAZINE_NAME": "备用弹夹",
-	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "为备用技能增加一个额外充能存储",
+	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "为次要能增加一个额外充能存储",
 	"ITEM_SECONDARYSKILLMAGAZINE_DESC": "增加 <style=cStack>等同道具数量</style> 的备用技能额外充能存储",
 	
 	"ITEM_STICKYBOMB_NAME": "粘性炸弹",
-	"ITEM_STICKYBOMB_PICKUP": "有几率在攻击时将一枚炸弹粘在敌人上",
-	"ITEM_STICKYBOMB_DESC": "攻击敌人时有 <style=cStack>2.5%×(道具数+1)×伤害系数（伤害系数请参考“震撼弹”）</style> 概率将一枚炸弹粘在敌人身上, detonating for 250% damage <style=cStack>(+125% per stack)</style>.",
+	"ITEM_STICKYBOMB_PICKUP": "在攻击时有几率将一枚炸弹粘在敌人上",
+	"ITEM_STICKYBOMB_DESC": "攻击敌人时有 <style=cStack>2.5%×(道具数+1)×伤害系数（伤害系数请参考“震撼弹”）</style> 几率将一枚炸弹粘在敌人身上, detonating for 250% damage <style=cStack>(+125% per stack)</style>.",
 	
 	"ITEM_TREASURECACHE_NAME": "破损的钥匙",
 	"ITEM_TREASURECACHE_PICKUP": "找到上锁的破箱子，里面会有好东西！",
-	"ITEM_TREASURECACHE_DESC": "一个装有道具的上锁破箱子将会（从下一关开始）随机刷在任意位置，<style=cStack>全体玩家的钥匙数量越多，此箱子越容易出高品质装备（概率仅在进入新关卡时更新而非实时更新）</style>",
+	"ITEM_TREASURECACHE_DESC": "一个装有道具的上锁破箱子将会（从下一关开始）随机刷新在任意位置，<style=cStack>全体玩家拥有的钥匙数量越多，此箱子越容易开出高品质装备（几率仅在进入新关卡时更新而非实时更新）</style>",
 	"ITEM_TREASURECACHE_LORE" : "送货订单：钥匙\r\n跟踪编码：12××××××\r\n预计送达日期：2056年1月21日\r\n送货优先级：标准\r\n送货地址：地球，德鲁伊山社区，|||||||\r\n送货详情：\r\n\r\n我完全不相信UESC，他们的保险箱？那就是个辣鸡，到处都是数据溢出和后门，我有个表兄在他们工厂干活，他们的箱子老是发生各种奇奇怪怪的故障。我在拍卖会上见过很多他们的箱子，大多是别人不小心丢了还没人认领的，你只要愿意付钱，它就能当场自己打开，这不来搞笑的吗？\r\n\r\n不管怎样，我要给你的不过是我之前说的我要做的事，但它实在太重要以至于我不得不让它离UESC的那些破安保远一点，所以我把这个钥匙给了你，并把上锁的箱子给了Margaret，就像是双重认证那样，一旦你收到钥匙就回信给我。\r\n",
 	
 	"ITEM_BOSSDAMAGEBONUS_NAME": "穿甲弹",
-	"ITEM_BOSSDAMAGEBONUS_PICKUP": "攻击BOSS增加额外伤害",
+	"ITEM_BOSSDAMAGEBONUS_PICKUP": "对BOSS造成额外伤害",
 	"ITEM_BOSSDAMAGEBONUS_DESC": "BOSS受到的伤害增加 <style=cStack>10%×(道具数+1)</style>",
 	
 	"ITEM_SPRINTARMOR_NAME": "玫瑰之盾",
@@ -232,23 +232,23 @@
 	
 	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro与Runald的箍子",
 	"ITEM_ICERING_NAME" : "Runald的箍子",
-	"ITEM_ICERING_PICKUP" : "攻击敌人有概率对敌人产生冰冻爆炸",
-	"ITEM_ICERING_DESC" : "8%×伤害系数 概率在攻击敌人时产生冰冻爆炸，减少它们80%移动速度并造成 <style=cStack>125%×(道具数+1)</style> 伤害（伤害系数请参考“震撼弹”）",
+	"ITEM_ICERING_PICKUP" : "攻击敌人有几率对敌人造成冰冻爆炸",
+	"ITEM_ICERING_DESC" : "8%×伤害系数 几率在攻击敌人时产生冰冻爆炸，减少它们80%移动速度并造成 <style=cStack>125%×(道具数+1)</style> 伤害（伤害系数请参考“震撼弹”）",
 	"ITEM_ICERING_LORE": "“记忆是否会消逝，\r\n大海是否漫过云层，\r\n你能否为我带来炙热的爱？\r\n你能否与我共赴死亡？”\r\n\r\n——《Io与Europa的友谊》\r\n",
 
 	"ITEM_FIRERING_NAME" : "Kjaro的箍子",
-	"ITEM_FIRERING_PICKUP" : "攻击敌人有概率对敌人生成火焰旋风",
-	"ITEM_FIRERING_DESC" : "8%×伤害系数 概率在攻击敌人时生成火焰旋风, 造成 <style=cStack>250%×(道具数+1)</style> 伤害（伤害系数请参考“震撼弹”）",
+	"ITEM_FIRERING_PICKUP" : "攻击敌人有几率对敌人生成火焰旋风",
+	"ITEM_FIRERING_DESC" : "8%×伤害系数 几率在攻击敌人时生成火焰旋风, 造成 <style=cStack>250%×(道具数+1)</style> 伤害（伤害系数请参考“震撼弹”）",
 	"ITEM_FIRERING_LORE" : "“激情是否会消逝，\r\n飞蛾是否扑灭火烛，\r\n你能否为我带来永恒的爱？\r\n你能否与我共赴死亡？”\r\n\r\n——《Io与Europa的友谊》\r\n",
 	
 	"ITEM_SLOWONHIT_NAME": "计时玩具",
-	"ITEM_SLOWONHIT_PICKUP": "攻击敌人减缓敌人移速",
+	"ITEM_SLOWONHIT_PICKUP": "攻击时使敌人减速",
 	"ITEM_SLOWONHIT_DESC": "攻击敌人将给予敌人 <style=cStack>等同道具数量</style> 秒数的减少60%移速Buff",
 	"ITEM_SLOWONHIT_LORE": "送货订单：计时玩具\r\n跟踪编码：99××××××\r\n预计送达日期：2066年3月3日\r\n送货优先级：优先派送\r\n送货地点：水星，Yustik Plaza，9042 Pvt. Drive\r\n送货详情：\r\n\r\n你已经长大了吗？那个暑假仿佛是刚刚结束一般——但自那起已经过了10年了，不是吗？随着年龄的增长，时间仿佛变得越来越快，我很难有时间去记住更多的事，去巩固我自己的记忆。我都不知道我啥时候25岁的，我怎么会把整整一年给忘掉呢？\r\n\r\n总之，我在水星的一个饰品商店找到了这个，一个计时玩具，卖家说了一堆关于狭义相对论，总之就是质量关于速度畸变什么的balabalabala，反正我是没怎么听懂，哈哈。简单点说就是它可以把周围的时间变慢，嗯应该是这样。\r\n\r\n总之，我为我自己买了这个东西，10年后到货，一个我给我自己的礼物，提醒我自己要在有生之年放平心境，慢下来，多留下一些回忆。10年会过的很快的，但要把这10年的一切都记住喔！你必须为自己的人生做点什么！\r\n",
 
 	"ITEM_EXTRALIFE_NAME": "Dio最好的朋友",
 	"ITEM_EXTRALIFE_PICKUP": "假死一次",
-	"ITEM_EXTRALIFE_DESC": "死亡后，此道具将会失效，你会复活并获得3秒无敌",
+	"ITEM_EXTRALIFE_DESC": "死亡后，此道具失效，你会复活并获得3秒无敌时间",
 	
 	"ITEM_EXTRALIFECONSUMED_NAME": "Dio最好的朋友（已失效）",
 	"ITEM_EXTRALIFECONSUMED_PICKUP": "失去力量的宝物",
@@ -264,11 +264,11 @@
 	"ITEM_HEADHUNTER_DESC": "获取刚刚杀死的精英怪的能力 <style=cStack>5×道具数+3</style> 秒",
 	
 	"ITEM_KILLELITEFRENZY_NAME": "发芽的大脑",
-	"ITEM_KILLELITEFRENZY_PICKUP": "击杀精英怪后，技能在一段时间内无冷却时间",
+	"ITEM_KILLELITEFRENZY_PICKUP": "击杀精英怪后，在一段时间内技能无冷却时间",
 	"ITEM_KILLELITEFRENZY_DESC": "击杀精英怪之后获得 <style=cStack>2×道具数+1</style> 秒狂暴状态，状态内所有技能冷却时间降至最低",
 	
 	"ITEM_INCREASEHEALING_NAME": "健康之角",
-	"ITEM_INCREASEHEALING_PICKUP": "双倍生命值恢复量",
+	"ITEM_INCREASEHEALING_PICKUP": "双倍生命值回复量",
 	"ITEM_INCREASEHEALING_DESC": "增加 <style=cStack>100%×道具数 </style> 治疗量",
 
 	"ITEM_REPEATHEAL_NAME" : "曼珠沙华",

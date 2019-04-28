@@ -10,11 +10,11 @@
 	"EQUIPMENT_SAW_DESC": "Saw description.",
 
 	"EQUIPMENT_FRUIT_NAME": "外星水果",
-	"EQUIPMENT_FRUIT_PICKUP": "使用时恢复血量",
-	"EQUIPMENT_FRUIT_DESC": "直接恢复 <style=cIsHealing>50% 的最大血量</style>",
+	"EQUIPMENT_FRUIT_PICKUP": "使用时恢复生命值",
+	"EQUIPMENT_FRUIT_DESC": "恢复 <style=cIsHealing>50% 的最大生命值</style>",
 
 	"EQUIPMENT_METEOR_NAME": "闪闪发光的陨石",
-	"EQUIPMENT_METEOR_PICKUP": "下一场陨石雨，<color=#FF7F7F>对敌我双方进行无差别打击</color>",
+	"EQUIPMENT_METEOR_PICKUP": "陨石从天而降，<color=#FF7F7F>对敌我双方进行无差别打击</color>",
 	"EQUIPMENT_METEOR_DESC": "从天空落下陨石，给与所有人<style=cIsDamage>每次爆炸 600% 伤害</style>. 持续20秒",
 
 	"EQUIPMENT_SOULJAR_NAME": "灵魂罐",
@@ -23,28 +23,28 @@
 
 	"EQUIPMENT_BLACKHOLE_NAME": "起源方块",
 	"EQUIPMENT_BLACKHOLE_PICKUP": "发射一个黑洞将怪物聚集在一起",
-	"EQUIPMENT_BLACKHOLE_DESC": "发射一个黑洞将<style=cIsUtility>周围30m内的怪物吸入黑洞中心</style>，持续10秒",
+	"EQUIPMENT_BLACKHOLE_DESC": "发射一个黑洞将<style=cIsUtility>周围30m内的怪物拉向黑洞中心</style>，持续10秒",
 
 	"EQUIPMENT_GHOSTGUN_NAME": "死神的忏悔",
 	"EQUIPMENT_GHOSTGUN_PICKUP": "Summon a ghostly revolver that doubles damage on kill.",
 	"EQUIPMENT_GHOSTGUN_DESC": "Ghost Gun description.",
 
 	"EQUIPMENT_CRITONUSE_NAME": "弱点目镜",
-	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内保持100%会心攻击概率",
-	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage>增加 100% 会心攻击概率</style>，持续8秒",
+	"EQUIPMENT_CRITONUSE_PICKUP": "8秒内的攻击必定暴击",
+	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage>暴击率提升至100%</style>，持续8秒",
 
 	"EQUIPMENT_DRONEBACKUP_NAME": "紧急支援",
 	"EQUIPMENT_DRONEBACKUP_PICKUP": "呼叫无人机支援，持续25秒",
-	"EQUIPMENT_DRONEBACKUP_DESC": "叫来 <style=cIsDamage>4 架支援无人机</style> 作为友军战斗，持续25秒",
+	"EQUIPMENT_DRONEBACKUP_DESC": "呼叫 <style=cIsDamage>4 架支援无人机</style> 作为友军战斗，持续25秒",
 	"EQUIPMENT_DRONEBACKUP_LORE": "“当地执法机构将快速反应无人机中队纳入兵力标志着Plank叛乱事件的转折，在其获得平息叛乱以及在水星上的一些巨大成就之后，黑市也开始高度关注起地下无人机黑客了。”\r\n\r\n——《无人机科技发展总览》第2卷\r\n",
 
 	"EQUIPMENT_BFG_NAME": "前子储能枪",
-	"EQUIPMENT_BFG_PICKUP": "射出一个能量球，在爆炸前电极经过的怪物，而爆炸时……",
+	"EQUIPMENT_BFG_PICKUP": "发射一个能量球，在爆炸前电击经过的怪物，而爆炸时……",
 	"EQUIPMENT_BFG_DESC": "发射触须状前子球，以 <style=cIsDamage>600% 伤害/秒</style> 的伤害瞬间杀死35m内的怪物，当触碰到任意事物时，引发一个20m的大爆炸并造成 <style=cIsDamage>4000% 伤害</style>",
 
 	"EQUIPMENT_JETPACK_NAME": "乳白色蝶蛹",
     "EQUIPMENT_JETPACK_PICKUP": "使你暂时可以飞",
-    "EQUIPMENT_JETPACK_DESC": "Sprout wings and <style=cIsUtility>fly for 15 seconds</style>. Gain <style=cIsUtility>+20% movement speed</style> for the duration.",
+    "EQUIPMENT_JETPACK_DESC": "展开翅膀并开始 <style=cIsUtility>飞翔，持续15秒</style>. 增加 <style=cIsUtility> 20% 移动速度</style> ",
 
 	"EQUIPMENT_LIGHTNING_NAME": "皇家发电机",
     "EQUIPMENT_LIGHTNING_PICKUP": "对目标怪物降下雷罚",

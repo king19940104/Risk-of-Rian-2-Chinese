@@ -12,10 +12,10 @@
 	"LOGBOOK_CATEGORY_SURVIVOR" : "幸存者",
 	"LOGBOOK_CATEGORY_FRAGMENT" : "Fragment",
 
-	"LOGBOOK_UNLOCK_ITEM_LOG" : "<i>在游戏中找到此物品以解锁此项目</i>",
-	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "<i>捡到此怪物的相关日志以解锁此项目（击杀怪物概率掉落）</i>",
-	"LOGBOOK_UNLOCK_ITEM_STAGE" : "<i>在地图中找到并修复雷达来解锁此项目</i>",
-	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "<i>以此幸存者游玩游戏来解锁此项目</i>",
-	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "<i>隐藏的解锁项目，解锁条件未知……</i>",
+	"LOGBOOK_UNLOCK_ITEM_LOG" : "<i>在游戏中获得此物品以解锁此条目</i>",
+	"LOGBOOK_UNLOCK_ITEM_MONSTER" : "<i>在游戏中击杀此怪物以解锁此条目（概率掉落）</i>",
+	"LOGBOOK_UNLOCK_ITEM_STAGE" : "<i>在地图中发现并修复雷达以解锁此条目</i>",
+	"LOGBOOK_UNLOCK_ITEM_SURVIVOR" : "<i>以此幸存者游玩游戏以解锁此条目</i>",
+	"LOGBOOK_UNLOCK_ITEM_FRAGMENT" : "<i>此条目解锁条件未知……</i>",
 	}
 }
