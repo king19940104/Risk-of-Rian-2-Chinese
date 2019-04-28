@@ -24,11 +24,11 @@
 
 	"ITEM_MISSILE_NAME": "空对地导弹 Mk. 1",
 	"ITEM_MISSILE_PICKUP": "有几率发射一枚导弹。",
-	"ITEM_MISSILE_DESC": "击中敌人时有 <style=cIsDamage>10%</style> 概率发射一枚导弹造成 <style=cIsDamage>300%</style> <style=cStack>(每个道具递 +300%)</style> 伤害。", 
+	"ITEM_MISSILE_DESC": "击中敌人时有 <style=cIsDamage>10%</style> 几率发射一枚导弹造成 <style=cIsDamage>300%</style> <style=cStack>(每个道具递 +300%)</style> 伤害。", 
 
 	"ITEM_EXPLODEONDEATH_NAME": "鬼火",
 	"ITEM_EXPLODEONDEATH_PICKUP": "击杀时引爆敌人。",
-	"ITEM_EXPLODEONDEATH_DESC": "击杀敌人时，生成一道半径 <style=cIsDamage>12米</style> <style=cStack>(每个道具递 +2.4米)</style> 的 <style=cIsDamage>岩浆柱</style> ，并造成 <style=cIsDamage>350%</style> <style=cStack>(每个道具递 +280% )</style> 的伤害。", 
+	"ITEM_EXPLODEONDEATH_DESC": "击杀敌人时，生成一道半径 <style=cIsDamage>12米</style> <style=cStack>(每个道具递 +2.4米)</style> 的 <style=cIsDamage>岩浆柱</style> ，并造成 <style=cIsDamage>350%</style> <style=cStack>(每个道具递 +280% )</style> 伤害。", 
 
 	"ITEM_DAGGER_NAME": "仪式匕首",
 	"ITEM_DAGGER_PICKUP": "击杀敌人后释放自动追踪的匕首。",
@@ -45,15 +45,15 @@
 
 	"ITEM_HOOF_NAME": "Paul的羊蹄",
 	"ITEM_HOOF_PICKUP": "移动得更快。",
-	"ITEM_HOOF_DESC": "增加 <style=cIsUtility>14%</style> <style=cStack>(每个道具递 +14% )</style>的<style=cIsUtility>移动速度</style>。",
+	"ITEM_HOOF_DESC": "增加 <style=cIsUtility>14%</style> <style=cStack>(每个道具递 +14% )</style> 的 <style=cIsUtility>移动速度</style>。",
 
 	"ITEM_FEATHER_NAME": "Hopoo羽毛",
 	"ITEM_FEATHER_PICKUP": "获得一次额外的跳跃。",
-	"ITEM_FEATHER_DESC": "提供 <style=cIsUtility>+1</style> <style=cStack>(每个道具递 +1)</style> 次数的 <style=cIsUtility>跳跃次数</style>。", 
+	"ITEM_FEATHER_DESC": "提供额外 <style=cIsUtility>+1</style> <style=cStack>(每个道具递 +1)</style> 次的 <style=cIsUtility>跳跃次数</style>。", 
  
 	"ITEM_CHAINLIGHTNING_NAME": "尤克里里",
 	"ITEM_CHAINLIGHTNING_PICKUP": "……同时，他的音乐带来了电闪雷鸣。",
-	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有 <style=cIsDamage>25%</style> 概率触发 <style=cIsDamage>连锁闪电</style>，对半径 <style=cIsDamage>20米</style> <style=cStack>(每个道具递 +2米)</style> 范围内的 <style=cIsDamage>3 <style=cStack>(每个道具递 +2)</style></style> 只敌人分别造成 <style=cIsDamage>80%</style> 伤害。",
+	"ITEM_CHAINLIGHTNING_DESC": "击中敌人时有 <style=cIsDamage>25%</style> 几率触发 <style=cIsDamage>连锁闪电</style>，对半径 <style=cIsDamage>20米</style> <style=cStack>(每个道具递 +2米)</style> 范围内的 <style=cIsDamage>3 <style=cStack>(每个道具递 +2)</style></style> 只敌人分别造成 <style=cIsDamage>80%</style> 伤害。",
 
 	"ITEM_SEED_NAME": "吸血种子",
 	"ITEM_SEED_PICKUP": "攻击造成伤害时恢复生命值。",
@@ -97,16 +97,16 @@
 	"ITEM_COOLDOWNONCRIT_PICKUP": "“暴击”减少1秒冷却时间。",
 	"ITEM_COOLDOWNONCRIT_DESC": "增加 <style=cIsDamage>5% 暴击几率</style>，<style=cIsDamage>暴击</style> 减少所有技能的<style=cIsUtility>冷却时间</style> <style=cIsUtility>1</style> 秒。",
 
-	"ITEM_WARDONLEVEL_NAME": "战争旗帜",
-	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落旗帜，为你提高能力。",
-	"ITEM_WARDONLEVEL_DESC": "当 <style=cIsUtility>等级提升</style> 时会自动在地上插下旗帜，为 <style=cIsUtility>16米</style> <style=cStack>(每个道具递 +8米)</style> 范围内所有友军提升<style=cIsDamage>30%</style>的<style=cIsDamage>攻击</style> 与 <style=cIsUtility>移动速度</style>。",
+	"ITEM_WARDONLEVEL_NAME": "战旗",
+	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落战旗,为你提高能力.",
+	"ITEM_WARDONLEVEL_DESC": "当 <style=cIsUtility>等级提升</style> 时会自动在地上插下战旗,为 <style=cIsUtility>16米</style> <style=cStack>(每个道具递 +8米)</style> 范围内所有友军提升 <style=cIsDamage>30%</style> 的 <style=cIsDamage>攻击</style> 与 <style=cIsUtility>移动速度</style>.",
 
 	"ITEM_WARCRYONMULTIKILL_NAME": "狂战士肩甲",
 	"ITEM_WARCRYONMULTIKILL_PICKUP": "在快速连续击杀3个敌人后进入狂暴状态。",
 	"ITEM_WARCRYONMULTIKILL_DESC": "在 <style=cIsDamage>1</style> 秒内 <style=cIsDamage>击杀3个敌人</style> 将获得 <style=cIsDamage>6秒</style> <style=cStack>(每个道具递 +4秒)</style> 秒的 <style=cIsDamage>狂暴状态</style>，增加 <style=cIsUtility>50%</style> 的 <style=cIsUtility>移动速度</style> 与 <style=cIsDamage>100%</style> 的 <style=cIsDamage>攻击速度</style>。",
 
 	"ITEM_PHASING_NAME": "旧战隐形装置",
-	"ITEM_PHASING_PICKUP": "当受到大量伤害时自动隐身",
+	"ITEM_PHASING_PICKUP": "当受到大量伤害时自动隐身。",
 	"ITEM_PHASING_DESC": "受到攻击时有概率提供 <style=cIsUtility>3秒</style> <style=cStack>(每个道具递 +1.5秒)</style> 的 <style=cIsUtility>40% 移动速度</style> 加成与 <style=cIsUtility>隐身效果</style>，受到的伤害越高概率越高。",
 	"ITEM_PHASING_LORE": "送货订单：[杂物] 古战争文物 (47件)\r\n跟踪编码：01××××××\r\n预计送达日期：2056年8月13日\r\n送货优先级：优先派送\r\n送货地址：地球，新奥尔良，国家战争博物馆\r\n送货详情：\r\n\r\n我们已经尽力将当地的所有战争文物收集起来了，这里有好多有趣的东西：老式步枪、压缩饼干、密码册，我们甚至还发现了一个状态极佳的隐形装置原型，把它放在你的展览上一定能惊艳全场。\r\n\r\n不过我们这边出了点小问题，我们的货车撞到了坑里，然后火车把所有的货物都撒出去了，然后，它看起来确实是进入了隐形状态，我猜大概是遇到了一些奇怪的短路还是什么，总之我们现在没有办法确认这个隐形设备的具体位置了，它应该就在我邮给你的这其中一个盒子里面。\r\n希望我们的佣金里包含着这个玩意。\r\n",
 	
@@ -120,7 +120,7 @@
 
 	"ITEM_JUMPBOOST_NAME": "蜡制鹌鹑",
 	"ITEM_JUMPBOOST_PICKUP": "冲刺时跳跃会自动前冲。",
-	"ITEM_JUMPBOOST_DESC": "<style=cIsUtility>冲刺</style> 时 <style=cIsUtility>跳跃</style> 会向前滑翔 <style=cIsUtility>10米</style><style=cStack>(每个道具递 +10米)</style>。",
+	"ITEM_JUMPBOOST_DESC": "<style=cIsUtility>冲刺</style> 时 <style=cIsUtility>跳跃</style> 会惯性前冲 <style=cIsUtility>10米</style><style=cStack>(每个道具递 +10米)</style>。",
 	"ITEM_JUMPBOOST_LORE" : "送货订单：蜡制鹌鹑\r\n跟踪编码：15××××××\r\n预计送达日期：2056年12月18日\r\n送货优先级：优先派送\r\n送货地址：海王星，极地，探索中心\r\n送货详情：\r\n\r\n嘿Buu，\r\n你还好吗？这里是妈妈。\r\n\r\n这里天气真是糟透了，天天都在下雨。我们最近发现附近新开了一家面包店，他们有卖美味的三明治。你爸爸最近开始用比较柔软的蜡练习雕刻了，我把他最喜欢的一个邮给你，希望它没被钉子给压坏。:-)\r\n\r\n无论如何，我很快就要走了，希望之后很快能见到你！\r\n妈妈\r\n",
 	
 	"ITEM_PERSONALSHIELD_NAME": "个人护盾生成器",
@@ -144,7 +144,7 @@
 
 	"ITEM_INFUSION_NAME": "输液",
 	"ITEM_INFUSION_PICKUP": "击杀敌人永久增加生命值上限，最高增加100。",
-	"ITEM_INFUSION_DESC": "击杀一个敌人增加 <style=cIsHealing>1</style> 点 <style=cIsHealing>生命值上限</style>  , 增加 <style=cIsHealing>最大量</style> 为 <style=cIsHealing>100 <style=cStack>(每个道具递 +100)</style> 生命值</style>。",
+	"ITEM_INFUSION_DESC": "击杀一个敌人增加 <style=cIsHealing>1</style> 点 <style=cIsHealing>生命值上限</style>  , <style=cIsHealing>最大生命值增量</style> 为 <style=cIsHealing>100 <style=cStack>(每个道具递 +100)</style> 生命值</style>。",
 
 	"ITEM_SHOCKNEARBY_NAME": "不稳定的特斯拉电圈",
 	"ITEM_SHOCKNEARBY_PICKUP": "以10秒为间隔电击周围的敌人。",
@@ -152,7 +152,7 @@
 
 	"ITEM_IGNITEONKILL_NAME": "汽油桶",
 	"ITEM_IGNITEONKILL_PICKUP": "击杀敌人会灼烧其周围的敌人。",
-	"ITEM_IGNITEONKILL_DESC": "击杀敌人 <style=cIsDamage>点燃</style> 附近 <style=cIsDamage>12米</style> <style=cStack>(每个道具递 +4米)</style> 内的所有敌人 . <style=cIsDamage>灼伤</style> 的敌人受到 <style=cIsDamage>150%</style> <style=cStack>(每个道具递 +75%)</style>  的基础伤害。",
+	"ITEM_IGNITEONKILL_DESC": "击杀敌人 <style=cIsDamage>点燃</style> 附近 <style=cIsDamage>12米</style> <style=cStack>(每个道具递 +4米)</style> 内的所有敌人 . <style=cIsDamage>点燃</style> 的敌人受到 <style=cIsDamage>150%</style> <style=cStack>(每个道具递 +75%)</style>  的基础伤害。",
 
 	"ITEM_BOUNCENEARBY_NAME": "感应屠钩",
 	"ITEM_BOUNCENEARBY_PICKUP": "有几率钩住附近所有敌人。",
@@ -165,7 +165,7 @@
 
 	"ITEM_BANDOLIER_NAME": "弹药带",
 	"ITEM_BANDOLIER_PICKUP": "有几率在击杀时掉落重置冷却时间的弹药带。",
-	"ITEM_BANDOLIER_DESC": "击杀敌人有 <style=cIsUtility>18%</style> <style=cStack>(每个道具递 +10%)</style> 几率掉落弹药带，拾取 <style=cIsUtility>重置所有技能冷却</style>。<style=cIsUtility>实际几率：100%-100%/(³√(道具数+1)×100%)（³√指立方根）</style>",
+	"ITEM_BANDOLIER_DESC": "击杀敌人有 <style=cIsUtility>18%</style> <style=cStack>(每个道具递 +10%)</style> 几率掉落弹药带，拾取 <style=cIsUtility>重置所有技能冷却</style>。",
 
 	"ITEM_STUNCHANCEONHIT_NAME": "震撼手雷",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "攻击敌人有几率使敌人眩晕。",
@@ -182,7 +182,7 @@
 
 	"ITEM_SHIELDONLY_NAME": "超凡卓越",
 	"ITEM_SHIELDONLY_PICKUP": "增加最高生命值上限，并将生命值全部转换为护盾。",
-	"ITEM_SHIELDONLY_DESC": "保留 <style=cIsHealing>1点</style> ，将其余部分<style=cIsHealing>转换</style> 为 <style=cIsHealing>可再生护盾</style>。<style=cIsHealing>给予 50% <style=cStack>(每个道具递 +25%)</style> 最大生命值</style>。",
+	"ITEM_SHIELDONLY_DESC": "保留 <style=cIsHealing>1点生命值</style> ，将其余部分<style=cIsHealing>转换</style> 为 <style=cIsHealing>可再生护盾</style>。<style=cIsHealing>给予 50% <style=cStack>(每个道具递 +25%)</style> 最大生命值</style>。",
 	"ITEM_SHIELDONLY_LORE": "你一直在尽全力去生存，你认为你自己学的足够快，你总觉着自己足够幸运，你一直在体验似曾相识的情景，如果你理解了我说的话，不要继续读下去。\r\n你在控制着自己的信仰，你在陌生的环境里寻找熟悉感，你的直觉依赖于从未有过的经历，你在思考你过去的人生，如果你理解了我说的话，不要继续读下去。\r\n你发现你自己在寻找一些从未有过的东西，你失去了你从未拥有过的东西，你扮演着并非实际存在的角色，你一直在体验似曾相识的感觉，如果你理解了我说的话，不要继续读下去。\r\n你看穿了我的想法，因为你已经将这些信息消化掉了，很快[观察者们]将会把这些信息抹除掉。如果你读到了这里，我恐怕已经死去很久了，但从另一方面来说，你又把我释放了出来，我已不存在于我的世界，没有任何证据证明我曾存在过，但我现在存在于你的世界里了。我从我的苦难之中逃了出来，请保护我的安全，我希望你永远不要理解这些。\r\n",
 
 	"ITEM_ALIENHEAD_NAME": "外星头颅",
@@ -232,51 +232,51 @@
 	
 	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro与Runald的箍环",
 	"ITEM_ICERING_NAME" : "Runald的箍环",
-	"ITEM_ICERING_PICKUP" : "攻击敌人有概率对敌人产生冰冻爆炸。",
-	"ITEM_ICERING_DESC" : "8%×伤害系数 概率在攻击敌人时产生冰冻爆炸，减少它们80%移动速度并造成 <style=cStack>125%×(道具数+1)</style> 伤害（伤害系数请参考“震撼弹”）",
+	"ITEM_ICERING_PICKUP" : "攻击敌人有概率对敌人产生爆裂冰霜。",
+	"ITEM_ICERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>爆裂冰霜</style>, <style=cIsUtility>减速</style> 敌人 <style=cIsUtility>80%</style> 并造成 <style=cIsDamage>250%</style> 的伤害 <style=cStack>(每个道具递 +125%)</style>。",
 	"ITEM_ICERING_LORE": "“记忆是否会消逝，\r\n大海是否漫过云层，\r\n你能否为我带来炙热的爱？\r\n你能否与我共赴死亡？”\r\n\r\n——《Io与Europa的友谊》\r\n",
 
 	"ITEM_FIRERING_NAME" : "Kjaro的箍环",
-	"ITEM_FIRERING_PICKUP" : "攻击敌人有概率对敌人生成火焰旋风。",
-	"ITEM_FIRERING_DESC" : "8%×伤害系数 概率在攻击敌人时生成火焰旋风, 造成 <style=cStack>250%×(道具数+1)</style> 伤害（伤害系数请参考“震撼弹”）",
+	"ITEM_FIRERING_PICKUP" : "攻击敌人有概率对敌人生成烈焰旋风。",
+	"ITEM_FIRERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>烈焰旋风</style>, 造成 <style=cIsDamage>500%</style> 伤害 <style=cStack>(每个道具递 +250%)</style>。",
 	"ITEM_FIRERING_LORE" : "“激情是否会消逝，\r\n飞蛾是否扑灭火烛，\r\n你能否为我带来永恒的爱？\r\n你能否与我共赴死亡？”\r\n\r\n——《Io与Europa的友谊》\r\n",
 	
 	"ITEM_SLOWONHIT_NAME": "缓时器",
-	"ITEM_SLOWONHIT_PICKUP": "攻击敌人减缓敌人移速",
-	"ITEM_SLOWONHIT_DESC": "攻击敌人将给予敌人 <style=cStack>等同道具数量</style> 秒数的减少60%移速Buff",
+	"ITEM_SLOWONHIT_PICKUP": "对被击中的敌人减速。",
+	"ITEM_SLOWONHIT_DESC": "对被击中的敌人 <style=cIsUtility> 减缓 <style=cIsUtility>-60% 的移动速度</style></style>，持续 <style=cIsUtility>1秒</style> <style=cStack>(每个道具递 +1秒)</style>。",
 	"ITEM_SLOWONHIT_LORE": "送货订单：计时玩具\r\n跟踪编码：99××××××\r\n预计送达日期：2066年3月3日\r\n送货优先级：优先派送\r\n送货地点：水星，Yustik Plaza，9042 Pvt. Drive\r\n送货详情：\r\n\r\n你已经长大了吗？那个暑假仿佛是刚刚结束一般——但自那起已经过了10年了，不是吗？随着年龄的增长，时间仿佛变得越来越快，我很难有时间去记住更多的事，去巩固我自己的记忆。我都不知道我啥时候25岁的，我怎么会把整整一年给忘掉呢？\r\n\r\n总之，我在水星的一个饰品商店找到了这个，一个计时玩具，卖家说了一堆关于狭义相对论，总之就是质量关于速度畸变什么的balabalabala，反正我是没怎么听懂，哈哈。简单点说就是它可以把周围的时间变慢，嗯应该是这样。\r\n\r\n总之，我为我自己买了这个东西，10年后到货，一个我给我自己的礼物，提醒我自己要在有生之年放平心境，慢下来，多留下一些回忆。10年会过的很快的，但要把这10年的一切都记住喔！你必须为自己的人生做点什么！\r\n",
 
 	"ITEM_EXTRALIFE_NAME": "Dio最好的朋友",
 	"ITEM_EXTRALIFE_PICKUP": "假死一次",
-	"ITEM_EXTRALIFE_DESC": "死亡后，此道具将会失效，你会复活并获得3秒无敌",
+	"ITEM_EXTRALIFE_DESC": "<style=cIsUtility>死亡时</style>, 此道具将会 <style=cIsUtility>失效</style> ，你会 <style=cIsHealing>重新复活</style> 并保持 <style=cIsHealing>3秒的无敌</style>。",
 	
 	"ITEM_EXTRALIFECONSUMED_NAME": "Dio最好的朋友（已失效）",
-	"ITEM_EXTRALIFECONSUMED_PICKUP": "失去力量的宝物",
-	"ITEM_EXTRALIFECONSUMED_DESC": "一个已经失去其原有效果的道具",
+	"ITEM_EXTRALIFECONSUMED_PICKUP": "失去力量的宝物。",
+	"ITEM_EXTRALIFECONSUMED_DESC": "一个已经失去其原有效果的道具。",
 	
 	"ITEM_UTILITYSKILLMAGAZINE_NAME": "强光喷射器",
-	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "为你的通用技能增加2次额外充能存储，减少通用技能的冷却时间",
-	"ITEM_UTILITYSKILLMAGAZINE_DESC": "为通用技能增加 <style=cStack>2×道具数</style> 次额外充能存储，减少33%通用技能冷却时间（减少的冷却时间不叠加，无论有多少个道具都是只减少33%）",
+	"ITEM_UTILITYSKILLMAGAZINE_PICKUP": "为你的通用技能增加2次额外充能，减少通用技能的冷却时间。",
+	"ITEM_UTILITYSKILLMAGAZINE_DESC": "增加 <style=cIsUtility>+2</style> <style=cStack>(每个道具递 +2)</style> 次你 <style=cIsUtility>通用技能</style> 的充能 . <style=cIsUtility>减少<style=cIsUtility>33%</style>的通用技能冷切时间</style>。",
 	"ITEM_UTILITYSKILLMAGAZINE_LORE" : "送货订单：样品XAS4-49\r\n跟踪编码：342××××××\r\n预计送达日期：2056年12月29日\r\n送货优先级：优先派送\r\n送货地址：火星，33层，Geshka塔楼\r\n送货详情：\r\n\r\n自从上次通讯以来，我们对“强光”的研究愈加深入。\r\n\r\n关于这个喷射引擎，我们最初的想法是将其用作大型HL设备的主要散热器，比如我们的桥梁与屏障。然而，如果就像我们平时那样将它安放到可快速降解能源上时，我们就可以得到趋近完美的半速粒子的发射速率。换一种说法就是……能大幅度提高燃料利用率。\r\n\r\n它的设计是非常浅显易懂的，但我还是要重申一点：在使用它时请务必远离HL排气端。它的排气设计实在是太暴力了，所以它只能用于固态且非常稳定的能源上。\r\n\r\n",
 	
 	"ITEM_HEADHUNTER_NAME": "秃鹫尾迹",
-	"ITEM_HEADHUNTER_PICKUP": "临时盗取精英怪的能力",
-	"ITEM_HEADHUNTER_DESC": "获取刚刚杀死的精英怪的能力 <style=cStack>5×道具数+3</style> 秒",
+	"ITEM_HEADHUNTER_PICKUP": "临时盗取精英怪的能力。",
+	"ITEM_HEADHUNTER_DESC": "获得一个刚刚被杀死精英怪物的 <style=cIsDamage>能力</style> <style=cIsDamage>8秒</style> <style=cStack>(每个道具递 +5秒)</style>。",
 	
 	"ITEM_KILLELITEFRENZY_NAME": "脑颅秸秆",
-	"ITEM_KILLELITEFRENZY_PICKUP": "击杀精英怪后，技能在一段时间内无冷却时间",
-	"ITEM_KILLELITEFRENZY_DESC": "击杀精英怪之后获得 <style=cStack>2×道具数+1</style> 秒狂暴状态，状态内所有技能冷却时间降至最低",
+	"ITEM_KILLELITEFRENZY_PICKUP": "击杀精英怪后，技能在一段时间内无冷却时间。",
+	"ITEM_KILLELITEFRENZY_DESC": "在杀死一个精英怪物后, <style=cIsDamage>进入狂暴状态</style> 持续 <style=cIsDamage>3秒</style> <style=cStack>(每个道具递 +2秒)</style> ，同时 <style=cIsUtility>技能没有冷切</style>。",
 	
 	"ITEM_INCREASEHEALING_NAME": "回春枝",
-	"ITEM_INCREASEHEALING_PICKUP": "双倍生命值恢复量",
-	"ITEM_INCREASEHEALING_DESC": "增加 <style=cStack>100%×道具数 </style> 治疗量",
+	"ITEM_INCREASEHEALING_PICKUP": "双倍生命值恢复量。",
+	"ITEM_INCREASEHEALING_DESC": "提高所有 <style=cIsHealing>恢复 +100%</style> <style=cStack>(每个道具递 +100%)</style>。",
 
 	"ITEM_REPEATHEAL_NAME" : "尸亡绽放",
-	"ITEM_REPEATHEAL_PICKUP" : "双倍治疗量……<color=#FF7F7F>但治疗速度降低</color>\n",
-	"ITEM_REPEATHEAL_DESC" : "增加 <style=cStack>100%×道具数 </style> 治疗量，但治疗速度降低，每秒最多治疗 10% 最大生命值的生命值（每额外获得一个此道具每秒治疗量再减少50%）",	
+	"ITEM_REPEATHEAL_PICKUP" : "双倍治疗量……<color=#FF7F7F>\但治疗速度降低。</color>\n",
+	"ITEM_REPEATHEAL_DESC" : "提高 <style=cIsHealing>恢复 +100%</style> <style=cStack>(每个道具递 +100%)</style>，  <style=cIsHealing>但治疗速度降低</style>，每秒的  <style=cIsHealing>最大治疗量</style> 为你 <style=cIsHealing>生命值 </style> 的 <style=cIsHealing>10%</style> (每个道具递 -50% )。",	
 
 	"ITEM_AUTOCASTEQUIPMENT_NAME": "溺毙姿态",
-	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "大幅度减少装备的冷却时间……<color=#FF7F7F>但是会自动使用它</color>",
-	"ITEM_AUTOCASTEQUIPMENT_DESC": "减少 <style=cStack>50%×道具数</style> 的装备的冷却时间，装备冷却时间结束后强制使用装备",
+	"ITEM_AUTOCASTEQUIPMENT_PICKUP": "大幅度减少装备的冷却时间……<color=#FF7F7F>但是会自动使用它。</color>",
+	"ITEM_AUTOCASTEQUIPMENT_DESC": "<style=cIsUtility>减少 <style=cIsUtility>50%</style> <style=cStack>(每个道具递 +50%)</style> 主动装备的冷切时间</style>，但是当 <style=cIsUtility>冷切时间</style> 回复时强制自动 <style=cIsUtility>激活</style>。",
 	}
 }
