@@ -169,7 +169,7 @@
 
 	"ITEM_STUNCHANCEONHIT_NAME": "震撼手雷",
 	"ITEM_STUNCHANCEONHIT_PICKUP": "攻击敌人有几率使敌人眩晕。",
-	"ITEM_STUNCHANCEONHIT_DESC": "<style=cIsUtility>5%</style> <style=cStack>(每个道具递 +5%)</style> 几率的攻击 <style=cIsUtility>晕眩</style> 敌人 <style=cIsUtility>2 秒</style>。\n\n：<style=cStack>内部数据实际几率：100%-100%/(5%×伤害系数×(道具数+1))</style> \r\n\r\n来自汉化者的私货：\r\n\r\n幸存者技能伤害系数（仅系数非1的技能）：\r\nMUL-T\r\n全自动钉枪 0.3\r\n震撼爆桶 第二段 0.3\r\n\r\n发明家\r\n纳米球 爆炸前 0.4\r\n\r\n猎人\r\n回旋镖 0.8\r\n流星雨 0.2\r\n\r\n道具伤害系数（没提到的是没测，不确定是多少）\r\n肉钩 0.33\r\n电圈 0.3\r\n烟花 0.2\r\nN'kuhana 0.2\r\n仪式小刀 1\r\n粘性炸弹 0\r\n\r\n装备伤害系数（没提到的是没测，不确定是多少）\r\n地狱火 0\r\n众筹者 0.2\r\n发电 1\r\n前子 0.1\r\n陨石 1\r\n导弹 1",
+	"ITEM_STUNCHANCEONHIT_DESC": "<style=cIsUtility>5%</style> <style=cStack>(每个道具递 +5%)</style> 几率的攻击 <style=cIsUtility>晕眩</style> 敌人 <style=cIsUtility>2 秒</style>。\n\n<style=cStack>内部数据实际几率：100%-100%/(5%×伤害系数×(道具数+1))</style> \r\n\r\n来自汉化者的私货：\r\n\r\n幸存者技能伤害系数（仅系数非1的技能）：\r\nMUL-T\r\n全自动钉枪 0.3\r\n震撼爆桶 第二段 0.3\r\n\r\n发明家\r\n纳米球 爆炸前 0.4\r\n\r\n猎人\r\n回旋镖 0.8\r\n流星雨 0.2\r\n\r\n道具伤害系数（没提到的是没测，不确定是多少）\r\n肉钩 0.33\r\n电圈 0.3\r\n烟花 0.2\r\nN'kuhana 0.2\r\n仪式小刀 1\r\n粘性炸弹 0\r\n\r\n装备伤害系数（没提到的是没测，不确定是多少）\r\n地狱火 0\r\n众筹者 0.2\r\n发电 1\r\n前子 0.1\r\n陨石 1\r\n导弹 1",
 
 	"ITEM_LUNARDAGGER_NAME": "异形玻璃",
 	"ITEM_LUNARDAGGER_PICKUP": "造成双倍伤害……<color=#FF7F7F>但是生命值减半</color>。\n",
@@ -178,7 +178,7 @@
 
 	"ITEM_GOLDONHIT_NAME": "易碎王冠",
 	"ITEM_GOLDONHIT_PICKUP": "击中敌人获得金钱……<color=#FF7F7F>但是被击中时会损失金钱</color>。\n",
-	"ITEM_GOLDONHIT_DESC": "<style=cIsUtility>30%</style>×伤害系数（伤害系数请参考‘震撼弹’） 几率在攻击敌人时获得 <style=cIsUtility>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的生命值/最大生命值 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
+	"ITEM_GOLDONHIT_DESC": "<style=cIsUtility>30%</style>×伤害系数（伤害系数请参考‘震撼手雷’） 几率在攻击敌人时获得 <style=cIsUtility>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的生命值/最大生命值 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
 
 	"ITEM_SHIELDONLY_NAME": "超凡卓越",
 	"ITEM_SHIELDONLY_PICKUP": "增加最高生命值上限，并将生命值全部转换为护盾。",
@@ -233,12 +233,12 @@
 	"ITEM_ELEMENTALRINGS_NAME" : "Kjaro与Runald的箍环",
 	"ITEM_ICERING_NAME" : "Runald的箍环",
 	"ITEM_ICERING_PICKUP" : "攻击敌人有几率对敌人产生爆裂冰霜。",
-	"ITEM_ICERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>爆裂冰霜</style>, <style=cIsUtility>减速</style> 敌人 <style=cIsUtility>80%</style> 并造成 <style=cIsDamage>250%</style> 的伤害 <style=cStack>(每个道具递 +125%)</style>。\n\n<style=cStack>实际几率：8% ×伤害系数</style>\n\r\n\r 伤害系数请参考“震撼弹”",
+	"ITEM_ICERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>爆裂冰霜</style>, <style=cIsUtility>减速</style> 敌人 <style=cIsUtility>80%</style> 并造成 <style=cIsDamage>250%</style> 的伤害 <style=cStack>(每个道具递 +125%)</style>。\n\n<style=cStack>实际几率：8% ×伤害系数</style>\n\r\n\r 伤害系数请参考“震撼手雷”",
 	"ITEM_ICERING_LORE": "‘记忆是否会消逝，\r\n大海是否漫过云层，\r\n你能否为我带来炙热的爱？\r\n你能否与我共赴死亡？’\r\n\r\n——《Io与Europa的友谊》\r\n",
 
 	"ITEM_FIRERING_NAME" : "Kjaro的箍环",
 	"ITEM_FIRERING_PICKUP" : "攻击敌人有几率对敌人生成烈焰旋风。",
-	"ITEM_FIRERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>烈焰旋风</style>, 造成 <style=cIsDamage>500%</style> 伤害 <style=cStack>(每个道具递 +250%)</style>。\n\n<style=cStack>实际几率：8% ×伤害系数</style>\n\r\n\r 伤害系数请参考“震撼弹”",
+	"ITEM_FIRERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>烈焰旋风</style>, 造成 <style=cIsDamage>500%</style> 伤害 <style=cStack>(每个道具递 +250%)</style>。\n\n<style=cStack>实际几率：8% ×伤害系数</style>\n\r\n\r 伤害系数请参考“震撼手雷”",
 	"ITEM_FIRERING_LORE" : "‘激情是否会消逝，\r\n飞蛾是否扑灭火烛，\r\n你能否为我带来永恒的爱？\r\n你能否与我共赴死亡？’\r\n\r\n——《Io与Europa的友谊》\r\n",
 	
 	"ITEM_SLOWONHIT_NAME": "缓时器",
