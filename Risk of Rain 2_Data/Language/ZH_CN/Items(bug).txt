@@ -7,15 +7,15 @@
 
 	"ITEM_CLOVER_NAME": "57叶幸运草",
 	"ITEM_CLOVER_PICKUP": "运气站在你这边。",
-	"ITEM_CLOVER_DESC": "所有随机触发效果增加 <style=cIsUtility>+1 <style=cStack>(每个道具递 +1)</style> 次额外触发判断以提高成功触发概率<style=cIsUtility>。", 
+	"ITEM_CLOVER_DESC": "所有随机触发效果增加 <style=cIsUtility>+1 <style=cStack>(每个道具递 +1)</style> 次额外触发判断以提高成功触发概率</style>。", 
 
 	"ITEM_SYRINGE_NAME": "士兵强心剂",
 	"ITEM_SYRINGE_PICKUP": "增加攻击速度。",
-	"ITEM_SYRINGE_DESC": "增加 <style=cIsDamage>15% <style=cStack>(每个道具递 +15%)</style> 的 <style=cIsDamage>攻击速度</style>。",
+	"ITEM_SYRINGE_DESC": "增加 <style=cIsDamage>15% <style=cStack>(每个道具递 +15%)</style></style> 的 <style=cIsDamage>攻击速度</style>。",
 
 	"ITEM_BEAR_NAME": "艰苦时刻",
 	"ITEM_BEAR_PICKUP": "有几率抵挡即将到来的伤害。",
-	"ITEM_BEAR_DESC": "<style=cIsHealing>15%</style> <style=cStack>(每个道具递 +15%)</style> 的几率来 <style=cIsHealing>抵挡</style> 一次即将受到的伤害，<style=cIsUtility>不受运气影响。实际几率为：100%-100%/(100%+15%×道具数)</style>。", 
+	"ITEM_BEAR_DESC": "<style=cIsHealing>15%</style> <style=cStack>(每个道具递 +15%)</style> 的几率来 <style=cIsHealing>抵挡</style> 一次即将受到的伤害，<style=cIsUtility>不受运气影响</style>。<style=cStack>实际几率为：100%-100%/(100%+15%×道具数)</style>。", 
 	"ITEM_BEAR_LORE" : "<style=cMono>\r\n//-- 自 动 转 录 自 UES 4211B 室 [ 已 修 订 ]--//</style>\r\n\r\n“你为什么要来这里？”\r\n\r\nWyatt的语气充满着厌烦，找到触光号最后一个已知的坐标位置所花费的时间比他预期的稍微久了一点。\r\n\r\nMalik正在地上专注地清理着她的步枪，“主要是为了钱。”\r\n\r\n“就这些？”\r\n\r\n她咕哝一下表示肯定，然后继续清理着她的武器。\r\n\r\n“我来这里是为了找一个东西”他自顾自地说，“我几年前曾想把它运走过，但我认为那辆列车并没有在坏掉之前把它给运到目的地。我觉着它应该还在触光号上，所以我要去把它找回来。”\r\n\r\n她开始拧紧最后的几根螺丝，这是她今天的最后几件要做的事，她将目光移向Wyatt，“你认真的吗？”\r\n\r\n“当然！”\r\n\r\nMalik扬起她的眉毛，“触光号上有超过7000000个保险箱，你从这当中找到特定的那个箱子几乎是不可能的。”她用她的步枪撑起身体，舒展着她的双腿，“并且根据遇难信号，我们已经可以确认触光号在轨道上被摧毁掉了，你的货物现在或许就在太空里飘着不知道飘到哪里了，它没了，Wyatt。”\r\n\r\n他笑了一下，“我确信我能找到它。”\r\n\r\n“你的性格真差劲。”\r\n",
 	
 	"ITEM_BEHEMOTH_NAME": "卓越巨兽",
