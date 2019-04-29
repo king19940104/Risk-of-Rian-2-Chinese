@@ -91,7 +91,7 @@
 		"OPTION_ANISOTROPIC_FILTERING_DESCRIPTION": "提高以各种角度观看游戏贴图的清晰度，降低此选项以提升GPU性能。",
 
 		"OPTION_VFX_BIAS": "视觉特效剔除系数：",
-		"OPTION_VFX_BIAS_DESCRIPTION": "提升在特效过于密集时删除部分特效的概率，降低此选项可以显著提升CPU与GPU性能，但可能导致特效不再显示。",
+		"OPTION_VFX_BIAS_DESCRIPTION": "提升在特效过于密集时删除部分特效的几率，降低此选项可以显著提升CPU与GPU性能，但可能导致特效不再显示。",
 
 		"OPTION_LOD_BIAS": "多细节层级切换系数：",
 		"OPTION_LOD_BIAS_DESCRIPTION": "决定了模型在什么距离切换为低细节模型，降低此选项以提升性能，但可能导致模型显示问题。",

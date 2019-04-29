@@ -40,7 +40,7 @@
 
 		"CHARSELECT_RETURN": "返回",
 		"DIFFICULTY_EASY_NAME": "毛毛细雨",
-		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，哭泣和绝望都会被欢声笑语所取代。",
+		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，没有哭泣和绝望，这里只有欢声笑语。",
 
 		"DIFFICULTY_NORMAL_NAME": "倾盆大雨",
 		"DIFFICULTY_NORMAL_DESCRIPTION": "这才是这个游戏的正确游玩方式！面对这些强大的怪物，让我们看看你究竟有多大能耐吧！",
@@ -70,7 +70,7 @@
 		"NOTES_PREFIX_FORMAT" : "相关记录：\n<style=cSub><size=80%>{0}</size></style>",
 
 		"GENERIC_PREFIX_FOUND" : "找到<style=cEvent>{0}</style>个",
-		"GENERIC_PREFIX_WINPERCENTAGE" : "获胜概率: <style=cEvent>{0}%</style>",
+		"GENERIC_PREFIX_WINPERCENTAGE" : "获胜几率: <style=cEvent>{0}%</style>",
 		"BODY_HEALTH_FORMAT" : "最大生命值：{0}",
 		"BODY_DAMAGE_FORMAT" : "伤害：{0}",
 		"BODY_MOVESPEED_FORMAT" : "速度：{0} m/s",

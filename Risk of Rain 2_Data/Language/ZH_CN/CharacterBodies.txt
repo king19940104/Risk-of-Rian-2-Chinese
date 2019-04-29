@@ -5,7 +5,7 @@
 	"NULL_SUBTITLE": " 一 大 波 ",
 
 	"ELITE_MODIFIER_FIRE": "烈焰{0}",
-	"ELITE_MODIFIER_LIGHTNING": "过载{0}",
+	"ELITE_MODIFIER_LIGHTNING": "超负荷{0}",
 	"ELITE_MODIFIER_ICE": "冰霜{0}",
 
 	//[CHARACTER]
@@ -18,7 +18,7 @@
 	"COMMANDO_UTILITY_DESCRIPTION" : "<style=cIsUtility>翻滚</style>一小段距离。",
 	"COMMANDO_SPECIAL_NAME": "火力压制",
 	"COMMANDO_SPECIAL_DESCRIPTION" : "高速射击, <style=cIsDamage>击晕</style>怪物并造成 <style=cIsDamage>6x100% 伤害。</style>",
-	"COMMANDO_DESCRIPTION": "突击步兵是个万金油，在任何情况下都是个不错的选择<style=cSub>\r\n\r\n< ! > 双枪在对付任何距离的怪物都很强力，不仅射速快而且很容易触发各种道具效果\r\n\r\n< ! > 合理使用他的战术翻滚是躲避大量攻击的关键\r\n\r\n< ! > 火力压制可以不停地眩晕一只或多只怪物\r\n\r\n< ! > 相位螺旋是可以穿墙的，好好利用这一有利特性！\r\n<\/style>\r\n",
+	"COMMANDO_DESCRIPTION": "突击步兵算是个万金油，在任何情况下都是个不错的选择<style=cSub>\r\n\r\n< ! > 双枪在对付任何距离的怪物都很强力，不仅射速快而且很容易触发各种道具效果\r\n\r\n< ! > 合理使用他的战术翻滚是躲避大量攻击的关键\r\n\r\n< ! > 火力压制可以不停地眩晕一只或多只怪物\r\n\r\n< ! > 相位螺旋是可以穿墙的，好好利用这一有利特性！\r\n<\/style>\r\n",
 
 	"MERC_BODY_NAME": "雇佣兵",
 	"MERC_PRIMARY_NAME": "光剑斩击",
@@ -29,7 +29,7 @@
 	"MERC_UTILITY_DESCRIPTION" : "以超光速向前发动位移斩击，<style=cIsUtility>眩晕</style>途径的怪物并造成 <style=cIsDamage>200% 伤害</style>，如果你攻击一只怪物你可以<style=cIsDamage>立即发动下次夺目破空斩</style>，最多可以连续使用<style=cIsDamage>3</style>次。",
 	"MERC_SPECIAL_NAME": "次元归零斩",
 	"MERC_SPECIAL_DESCRIPTION" : "瞬移至最近的怪物体内对其进行超高速连续斩击，每次斩击造成 <style=cIsDamage>110% 伤害</style>，<style=cIsUtility>在此期间你不会被击中。</style>",
-	"MERC_DESCRIPTION" : "冷血佣兵是一名对技术需求较高的近战幸存者，他的绝大多数技能都带有位移，这使得他可以快速往返于战场内外<style=cSub>\r\n\r\n< ! > 空中旋风斩在某些时候可以被当作一次额外的二段跳\r\n\r\n< ! > 夺目破空斩的快速冷却特性是提升伤害量与生存能力的关键，然而，过度依赖这一特性无脑闪闪闪只会让你死得更快\r\n\r\n< ! > 不要忘记次元归零斩也是一大躲避大量伤害的利器\r\n\r\n< ! > 光剑斩杀可以在大范围内对怪物造成成吨的伤害，这一基础攻击在任何幸存者中都是独一无二的。\r\n<\/style>\r\n",
+	"MERC_DESCRIPTION" : "雇佣兵是一名对技术需求较高的近战幸存者，他的绝大多数技能都带有位移，这使得他可以快速往返于战场内外<style=cSub>\r\n\r\n< ! > 空中旋风斩在某些时候可以被当作一次额外的二段跳\r\n\r\n< ! > 夺目破空斩的快速冷却特性是提升伤害量与生存能力的关键，然而，过度依赖这一特性无脑闪闪闪只会让你死得更快\r\n\r\n< ! > 不要忘记次元归零斩也是一大躲避大量伤害的利器\r\n\r\n< ! > 光剑斩杀可以在大范围内对怪物造成成吨的伤害，这一基础攻击在任何幸存者中都是独一无二的。\r\n<\/style>\r\n",
 	"MERC_PASSIVE_NAME" : "界限突破",
 	"MERC_PASSIVE_DESCRIPTION" : "雇佣兵从游戏开始就可以<style=cIsUtility>二段跳。</style>",
 
@@ -50,7 +50,7 @@
 	"HUNTRESS_SECONDARY_NAME": "激光回旋镖",
 	"HUNTRESS_SECONDARY_DESCRIPTION" : "扔出一枚自动跟踪回旋镖，它会在怪物间来回弹跳最多 <style=cIsDamage>6</style> 次，基础伤害为 <style=cIsDamage>250% 伤害</style>，每次弹跳会增加 <style=cIsDamage>10% 伤害。</style>",
 	"HUNTRESS_UTILITY_NAME": "闪烁",
-	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>瞬间消失</style>然后在前方不远处<style=cIsUtility>出现。</style>",
+	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>瞬间消失</style>然后向前方位移一段距离后<style=cIsUtility>现身。</style>",
 	"HUNTRESS_SPECIAL_NAME": "流星箭雨",
 	"HUNTRESS_SPECIAL_DESCRIPTION" : "跳至空中，对目标区域降下箭雨，<style=cIsUtility>减速</style>其中所有怪物的移速并对其造成<style=cIsDamage>每秒 225% 伤害。</style>",
 	"HUNTRESS_DESCRIPTION": "女猎手是一名高移速高伤害但非常脆弱的远距离攻击型幸存者<style=cSub>\r\n\r\n< ! > 请记住猛烈射击是唯一可以在冲刺时使用的技能，这使得你可以一边保持高速移动一边把你的猎物全部干翻\r\n\r\n< ! > 闪烁和流星箭雨是非常有用的位移技能，可以用于主动接近猎物，也可以从密集的攻击中逃脱\r\n\r\n< ! > 激光回旋镖可以很快地同时解决多只猎物\r\n\r\n< ! > 流星箭雨是超高伤害的群控技能，用的好可以有效牵制住那些又快又肉的猎物。<\/style>\r\n",
