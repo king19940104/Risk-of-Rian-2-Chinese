@@ -23,7 +23,7 @@
 
 	"EQUIPMENT_BLACKHOLE_NAME": "起源方块",
 	"EQUIPMENT_BLACKHOLE_PICKUP": "发射一个黑洞将怪物聚集在一起",
-	"EQUIPMENT_BLACKHOLE_DESC": "发射一个黑洞将<style=cIsUtility>周围30m内的怪物拉向黑洞中心</style>，持续10秒",
+	"EQUIPMENT_BLACKHOLE_DESC": "发射一个黑洞将<style=cIsUtility>周围30m内的敌人吸入黑洞中心</style>，持续10秒",
 
 	"EQUIPMENT_GHOSTGUN_NAME": "死神的忏悔",
 	"EQUIPMENT_GHOSTGUN_PICKUP": "Summon a ghostly revolver that doubles damage on kill.",

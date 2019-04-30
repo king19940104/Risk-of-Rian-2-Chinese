@@ -19,7 +19,7 @@
 		"TITLE_MULTIPLAYER_RETURN": "返回",
 
 		"MORE_MUSIC" : "音乐",
-		"MORE_MUSIC_DESC" : "大家好！我是克里斯，本游戏原声带的作曲者！有些人可能在之前的雨中冒险一代就已经认识我了，至于其他人，我很高兴在本游戏的抢先测试阶段认识你们！\r\n\r\n现在我还有很多音乐要写，希望你能喜欢至今为止的这些音乐！如果你想更多地了解我的音乐，你可以关注我的Twitter或Instagram（都是@AstronautDown）并来我们的Discord服务器看看！",
+		"MORE_MUSIC_DESC" : "大家好！我是克里斯，本游戏原声带的作曲者！有些人可能在之前的雨中冒险一代就已经认识我了，至于其他人，我很高兴在本游戏的抢先测试阶段认识你们！\r\n\r\n现在我还有很多音乐要写，我希望你能喜欢至今为止你所听到的这些音乐！如果你想更多地了解我的音乐，你可以关注我的Twitter或Instagram（都是@AstronautDown）并来我们的Discord服务器看看！",
 		"MORE_MUSIC_BUTTON" : "TAKE ME!",
 		"MORE_CONTACT" : "联系我们",
 		"MORE_CONTACT_DESC" : "在社交网站上关注我们以获得更多关于《雨中冒险2》的最新消息！",
