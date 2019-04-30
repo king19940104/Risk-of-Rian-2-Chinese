@@ -1,8 +1,15 @@
 {
 	strings:
 	{
-	"EARLY_ACCESS_DISCLAIMER": "感谢游玩雨中冒险2! \r\n\r\n请不要忘记即使在EA测试阶段，雨中冒险2的开发仍在活跃进行中！您可能遇到一些未完成的功能特性 <sprite name=\"WIP\">\r\n\r\n请将游玩意见或Bug发送至 contact@hopoogames.com。您也可以通过游戏菜单的“关于我们”加入我们的官方Discord频道\r\n\r\n地表见！\r\n\r\n<i>- Hopoo Games<\/i>",
-	"EARLY_ACCESS_LORE" : "<style=cMono>\r\n欢 迎 使 用 DataScraper数 据 采 集 服 务（v3.1.53 \u2013 beta branch)\r\n$ 正 在 收 集 内 存 信 息……完 成\r\n$ 正 在 解 析……完 成\r\n$ 正 在 整 理 已 有 情 报……完 成\r\n数 据 报 告 生 成 成 功！\r\n正 在 播 放 本 地 音 频 数 据……\r\n<\/style>\r\n\r\n<sprite name=\"WIP\"> 数据尚未接收完毕，感谢您的等待  <sprite name=\"WIP\">\r\n",
+	"EARLY_ACCESS_DISCLAIMER": "感谢游玩雨中冒险2! \r\n\r\n请不要忘记雨中冒险2仍处于抢先体验阶段，开发仍在活跃进行中！您可能遇到一些未完成的功能特性 <sprite name=\"WIP\">\r\n\r\n请将游玩意见或Bug报告发送至 contact@hopoogames.com。您也可以通过游戏菜单的“关于我们”加入我们的官方Discord频道\r\n\r\n地表见！\r\n\r\n<i>- Hopoo Games<\/i>",
+	"EARLY_ACCESS_LORE" : "<style=cMono>\r\n
+	欢 迎 使 用 数 据 抓 取 器 (v3.1.53 \u2013 beta branch)\r\n
+	$ 抓 取 内 存 中…… 错 误\r\n
+	$ 重 新 解 析 中…… 错 误\r\n
+	$ 整 理 数 据 中……\r\n
+	错 误！\r\n
+	正 在 输 出 错 误 日 志……\r\n<\/style>\r\n
+	\r\n
+	<sprite name=\"WIP\"> 数 据 仍 在 传 输 中，感 谢 您 的 耐 心 等 候  <sprite name=\"WIP\">\r\n",
 	}
 }
-
