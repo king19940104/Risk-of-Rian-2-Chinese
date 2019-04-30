@@ -1,21 +1,15 @@
-Risk-of-Rian-2-Chinese
-==
-#该汉化由雨中冒险2吧大佬@_喵Plus_ 提供，最终解释权归该大佬所有
+# Risk of Rian 2 - Chinese Localization 雨中冒险2 - 中文本地化
 
-由于@_喵Plus_ 学业繁忙，无暇继续进行后续的更新，故由本人上传到github，由社区的大家一起来为雨中冒险2的汉化添砖加瓦，谢谢大家！
+该汉化由雨中冒险2吧大佬 @_喵Plus_ 提供，最终解释权归该大佬所有
+
+由于 @_喵Plus_ 学业繁忙，无暇继续进行后续的更新，故由@king19940104 上传到github，由社区的大家一起来为雨中冒险2的汉化添砖加瓦，谢谢大家！
 
 
 汉化文本 By _喵Plus_
+
 字库附加MOD By _喵Plus_
+
 UCS2字符集字库 By _喵Plus_
-
-
-
-下载
---
-[百度网盘下载](https://pan.baidu.com/s/1L7oOm6jMKz9s8_1_h1CNMA) 提取码：uaxi
-
-
 
 安装方式：
 --
@@ -32,7 +26,6 @@ UCS2字符集字库 By _喵Plus_
 完全卸载汉化
 --
 首先按上面的方法切换至英文版打开一次游戏，然后校验文件完整性，删除Risk of Rain 2_Data目录下的Font与Font.manifest，删除Risk of Rain 2_Data\Config下的autoexec.cfg，删除Risk of Rain 2_Data\Language里面的ZN_CN文件夹，卸载完成
-
 
 
 注意事项

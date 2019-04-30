@@ -30,14 +30,14 @@
 	"CHEST2_NAME": "大箱子",
 	"CHEST2_CONTEXT": "打开大箱子",
 
-	"GOLDCHEST_NAME": "黄金箱子",
-	"GOLDCHEST_CONTEXT": "打开黄金箱子",
+	"GOLDCHEST_NAME": "传奇宝箱",
+	"GOLDCHEST_CONTEXT": "打开传奇宝箱",
 
 	"TIMEDCHEST_NAME": "限时保险箱",
 	"TIMEDCHEST_CONTEXT": "打开限时保险箱",
 
-	"RADIOTOWER_NAME" : "雷达扫描器",
-	"RADIOTOWER_CONTEXT" : "获取地图数据",
+	"RADIOTOWER_NAME" : "声波扫描器",
+	"RADIOTOWER_CONTEXT" : "获取环境地图数据",
 
 	"MULTISHOP_TERMINAL_NAME": "多重商店终端",
 	"MULTISHOP_TERMINAL_CONTEXT": "使用终端",
@@ -109,7 +109,7 @@
 	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} 接受了秩序的修正</color>",
 
 	"SHRINE_GOLDSHORES_NAME": "黄金祭坛",
-	"SHRINE_GOLDSHORES_CONTEXT": "向黄金祭坛献上祭品",
+	"SHRINE_GOLDSHORES_CONTEXT": "向黄金祭坛献上祭品。",
 
 	"SHRINE_COMBAT_NAME": "战斗祭坛",
 	"SHRINE_COMBAT_CONTEXT": "向战斗祭坛祈祷",
@@ -127,20 +127,20 @@
 	"LOCKEDMAGE_CONTEXT" : "解救幸存者",
 
 	//[DRONES],
-	"DRONE_GUNNER_INTERACTABLE_NAME": "坏掉的机枪无人机",
+	"DRONE_GUNNER_INTERACTABLE_NAME": "损坏的机枪无人机",
 	"DRONE_GUNNER_CONTEXT": "修复机枪无人机",
 
 	"DRONE_MEGA_INTERACTABLE_NAME": "坏掉的 TC-280",
 	"DRONE_MEGA_CONTEXT": "修复 ???",
 
-	"DRONE_HEALING_INTERACTABLE_NAME": "坏掉的医疗无人机",
+	"DRONE_HEALING_INTERACTABLE_NAME": "损坏的医疗无人机",
 	"DRONE_HEALING_CONTEXT": "修复医疗无人机",
 
-	"DRONE_MISSILE_INTERACTABLE_NAME": "坏掉的导弹无人机",
+	"DRONE_MISSILE_INTERACTABLE_NAME": "损坏的导弹无人机",
 	"DRONE_MISSILE_CONTEXT": "修复导弹无人机",
 
 	//[TURRETS],
-	"TURRET1_INTERACTABLE_NAME": "坏掉的固定机枪炮塔",
+	"TURRET1_INTERACTABLE_NAME": "损坏的固定机枪炮塔",
 	"TURRET1_CONTEXT": "修复固定机枪炮塔",
 
 	"PORTAL_GENERIC_CONTEXT": "进入传送门",

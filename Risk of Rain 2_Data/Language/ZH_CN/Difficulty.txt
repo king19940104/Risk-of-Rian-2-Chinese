@@ -1,12 +1,12 @@
 ﻿{
 	strings:
 	{
-	"DIFFICULTY_BAR_0": "超简单",
+	"DIFFICULTY_BAR_0": "极其简单",
 	"DIFFICULTY_BAR_1": "简单",
 	"DIFFICULTY_BAR_2": "中等",
 	"DIFFICULTY_BAR_3": "困难",
 	"DIFFICULTY_BAR_4": "非常困难",
-	"DIFFICULTY_BAR_5": "疯狂难度",
+	"DIFFICULTY_BAR_5": "令人发狂",
 	"DIFFICULTY_BAR_6": "无人生还",
 	"DIFFICULTY_BAR_7": "我看到你了",
 	"DIFFICULTY_BAR_8": "我来找你了",
