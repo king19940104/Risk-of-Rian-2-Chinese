@@ -40,8 +40,8 @@
 	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个 <style=cIsHealing>治疗球</style> ，可以恢复 <style=cIsHealing>4 <style=cStack>(每个道具递 +4)</style> 生命值</style>。", 
 
 	"ITEM_CRITGLASSES_NAME": "制镜师的眼镜",
-	"ITEM_CRITGLASSES_PICKUP": "有几率触发‘暴击’，造成双倍伤害。",
-	"ITEM_CRITGLASSES_DESC": "你的攻击有 <style=cIsDamage>10%</style> <style=cStack>(每个道具递 +10%)</style> 几率触发 ‘<style=cIsDamage>暴击</style>’ 以造成 <style=cIsDamage>双倍伤害</style>。", 
+	"ITEM_CRITGLASSES_PICKUP": "有几率触发'暴击'，造成双倍伤害。",
+	"ITEM_CRITGLASSES_DESC": "你的攻击有 <style=cIsDamage>10%</style> <style=cStack>(每个道具递 +10%)</style> 几率触发 <style=cIsDamage>'暴击'/style> 以造成 <style=cIsDamage>双倍伤害</style>。", 
 
 	"ITEM_HOOF_NAME": "Paul的羊蹄",
 	"ITEM_HOOF_PICKUP": "移动得更快。",
@@ -76,8 +76,8 @@
 	"ITEM_CROWBAR_DESC": "对生命值 <style=cIsDamage>高于90%</style> 的敌人攻击会造成 <style=cIsDamage>150%</style> <style=cStack>(每个道具递 +30%)</style> 的伤害。",   
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "狩猎天性",
-	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "‘暴击’将会提升攻击速度，累计3次。",
-	"ITEM_ATTACKSPEEDONCRIT_DESC": "每次 <style=cIsDamage>暴击</style> 将会提升 <style=cIsDamage>10%</style> 的 <style=cIsDamage>攻击速度</style>，最大不超过 <style=cIsDamage>30% <style=cStack>(每个道具递 +30%)</style> 攻击速度</style>。",
+	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "'暴击'将会提升攻击速度，累计3次。",
+	"ITEM_ATTACKSPEEDONCRIT_DESC": "每次 <style=cIsDamage>'暴击'</style> 将会提升 <style=cIsDamage>10%</style> 的 <style=cIsDamage>攻击速度</style>，最大不超过 <style=cIsDamage>30% <style=cStack>(每个道具递 +30%)</style> 攻击速度</style>。",
 	"ITEM_ATTACKSPEEDONCRIT_LORE": "流言蜚语在恐慌的人群中快速传播着，人们都在讨论着他们下水道里那令人畏惧的蜥蜴人，虽然只是简单的传说，但却使这平原上的所有花草石木为之颤抖，恐惧在森林间、山谷中不断传播着\r\n\r\n一个恶魔，自天空坠落，其强大程度足以碾压Providence与他手下的那些菜鸟，虽然同样只有双手双脚，但却它有着22只永不闭拢的深红色的眼睛。\n",
 
 	"ITEM_BLEEDONHIT_NAME": "三尖匕首",
@@ -94,8 +94,8 @@
 	"ITEM_FALLBOOTS_LORE": "‘从历史角度来说，在低重力星球上的居民，比如水星，如果移居到其他星球上会有很多问题。骨密度较低的水星人（左图）在其他重力较高的星球居住通常会在一周内摔断骨头。小型行星舰队与殖民船只上的人在从太空返回居住星球时一般也有类似的问题。\r\n\r\n动能转化环（上图）这一发明通过将多余的重力转化为声光热来减少此类问题，借助此发明，水星的居民得以安全地移居其他星球。’\r\n\r\n——水星历史博物馆。",
 
 	"ITEM_COOLDOWNONCRIT_NAME": "邪恶指环",
-	"ITEM_COOLDOWNONCRIT_PICKUP": "‘暴击’减少1秒冷却时间。",
-	"ITEM_COOLDOWNONCRIT_DESC": "提高 <style=cIsDamage>5% 暴击几率</style>。 <style=cIsDamage>暴击</style> 减少 <style=cIsUtility>1</style> 秒所有的 <style=cIsUtility>冷却时间</style>。",
+	"ITEM_COOLDOWNONCRIT_PICKUP": "'暴击'减少1秒冷却时间。",
+	"ITEM_COOLDOWNONCRIT_DESC": "提高 <style=cIsDamage>5% '暴击'几率</style>。 <style=cIsDamage>'暴击'</style> 减少 <style=cIsUtility>1</style> 秒所有的 <style=cIsUtility>冷却时间</style>。",
 
 	"ITEM_WARDONLEVEL_NAME": "战旗",
 	"ITEM_WARDONLEVEL_PICKUP": "在升级时掉落战旗,为你提高能力。",
@@ -111,8 +111,8 @@
 	"ITEM_PHASING_LORE": "送货订单：[杂物] 古战争文物 (47件)\r\n跟踪编码：01××××××\r\n预计送达日期：2056年8月13日\r\n送货优先级：优先派送\r\n送货地址：地球，新奥尔良，国家战争博物馆\r\n送货详情：\r\n\r\n我们已经尽力将当地的所有战争文物收集起来了，这里有好多有趣的东西：老式步枪、压缩饼干、密码册，我们甚至还发现了一个状态极佳的隐形装置原型，把它放在你的展览上一定能惊艳全场。\r\n\r\n不过我们这边出了点小问题，我们的货车撞到了坑里，然后火车把所有的货物都撒出去了，然后，它看起来确实是进入了隐形状态，我猜大概是遇到了一些奇怪的短路还是什么，总之我们现在没有办法确认这个隐形设备的具体位置了，它应该就在我邮给你的这其中一个盒子里面。\r\n希望我们的佣金里包含着这个玩意。\r\n",
 	
 	"ITEM_HEALONCRIT_NAME": "收割者镰刀",
-	"ITEM_HEALONCRIT_PICKUP": "‘暴击’回复你的生命值",
-	"ITEM_HEALONCRIT_DESC": "增加 <style=cIsDamage>5% 暴击几率</style>，<style=cIsDamage>暴击</style> <style=cIsHealing>恢复</style> <style=cIsHealing>8</style> <style=cStack>(每个道具递 +4)</style> 点 <style=cIsHealing> 生命值</style>。",
+	"ITEM_HEALONCRIT_PICKUP": "'暴击'回复你的生命值",
+	"ITEM_HEALONCRIT_DESC": "增加 <style=cIsDamage>5% '暴击'几率</style>，<style=cIsDamage>'暴击'</style> <style=cIsHealing>恢复</style> <style=cIsHealing>8</style> <style=cStack>(每个道具递 +4)</style> 点 <style=cIsHealing> 生命值</style>。",
 
 	"ITEM_HEALWHILESAFE_NAME": "谨慎的蛞蝓",
 	"ITEM_HEALWHILESAFE_PICKUP": "脱离战斗后快速回血。",

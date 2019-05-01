@@ -30,8 +30,8 @@
 	"EQUIPMENT_GHOSTGUN_DESC": "幽灵枪描述。",
 
 	"EQUIPMENT_CRITONUSE_NAME": "弱点目镜",
-	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内增加100%暴击几率。",
-	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage>增加 100% 暴击几率</style>，持续8秒。",
+	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内提升100% 的'暴击'几率。",
+	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage> 提升100% 的'暴击'几率</style>，持续8秒。",
 
 	"EQUIPMENT_DRONEBACKUP_NAME": "紧急支援",
 	"EQUIPMENT_DRONEBACKUP_PICKUP": "呼叫无人机支援，持续25秒。",
