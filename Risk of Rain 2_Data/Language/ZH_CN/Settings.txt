@@ -1,9 +1,9 @@
-{
+﻿{
 	"strings":
 	{
 		"OPTION_HEADER_GAMEPLAY": "游戏",
 		"OPTION_HEADER_KEYBINDING": "键盘+鼠标",
-		"OPTION_HEADER_CONTROLLER": "手柄",
+		"OPTION_HEADER_CONTROLLER": "控制器",
 		"OPTION_HEADER_AUDIO": "音频",
 		"OPTION_HEADER_VIDEO": "显示",
 		"OPTION_HEADER_GRAPHICS": "画质",
@@ -81,8 +81,8 @@
 		"OPTION_SHADOW_DISTANCE_DESCRIPTION": "决定了阴影会渲染多远距离，降低此选项以提升性能。",
 
 		"OPTION_TEXTURE_RESOLUTION": "贴图分辨率：",
-		"OPTION_TEXTURE_RESOLUTION_DESCRIPTION": "决定了游戏内各种元素的贴图分辨率与质量，高质量的贴图拥有更多细节，降低此选项以提升性能。",
-		"OPTION_TEXTURE_RESOLUTION_FULL": "完整",
+		"OPTION_TEXTURE_RESOLUTION_DESCRIPTION": "决定了游戏内各种元素的贴图分辨率与质量，高质量的贴图拥有更多细节，降低此选项以提升性能",
+		"OPTION_TEXTURE_RESOLUTION_FULL": "全部",
 		"OPTION_TEXTURE_RESOLUTION_HALF": "1/2",
 		"OPTION_TEXTURE_RESOLUTION_QUARTER": "1/4",
 		"OPTION_TEXTURE_RESOLUTION_EIGHTH": "1/8",
@@ -105,8 +105,8 @@
 		"OPTION_FOLIAGEWIND": "植被特效：",
 		"OPTION_FOLIAGEWIND_DESCRIPTION": "启用使树叶随风飘动的特效，降低以提升GPU与CPU性能。",
 		
-		"OPTION_BLOOM": "泛光：",
-		"OPTION_BLOOM_DESCRIPTION": "为过于明亮的像素增加辉光效果，降低以提升GPU性能。",
+		"OPTION_BLOOM": "光晕：",
+		"OPTION_BLOOM_DESCRIPTION": "为过于明亮的像素增加辉光效果，降低以提升GPU性能",
 
 		"OPTION_AO": "SSAO屏幕空间环境光遮罩:",
 		"OPTION_AO_DESCRIPTION": "模拟全局光被物体遮挡导致的变暗效果，降低以显著提升GPU性能。",

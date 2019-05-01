@@ -16,7 +16,7 @@
 		"UNLOCKABLE_LOG_CLAYBOSS": "怪物日志：沙陶诡虫",
 		"UNLOCKABLE_LOG_GOLEM": "怪物日志：石巨人",
 		"UNLOCKABLE_LOG_TITAN": "怪物日志：巨石泰坦",
-		"UNLOCKABLE_LOG_TITANGOLD": "怪物日志：矿金奥雷利",
+		"UNLOCKABLE_LOG_TITANGOLD": "怪物日志： 黄金石王",
 		"UNLOCKABLE_LOG_IMP": "怪物日志：小恶魔",
 		"UNLOCKABLE_LOG_JELLYFISH": "怪物日志：水母",
 		"UNLOCKABLE_LOG_VAGRANT": "怪物日志：游荡水母",
