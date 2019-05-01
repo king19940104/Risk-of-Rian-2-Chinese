@@ -108,9 +108,9 @@
 	"CLAYBOSS_BODY_SUBTITLE": "贪婪的共生有机体",
 	"TITAN_BODY_NAME": "巨石泰坦",
 	"TITAN_BODY_SUBTITLE": "万恶之源",
-	"TITANGOLD_BODY_NAME": "黄金石王"",
-	"TITANGOLD_BODY_SUBTITLE": "喜欢淘金的巨人！",
-	"VAGRANT_BODY_NAME": "流浪水母",
+	"TITANGOLD_BODY_NAME": "矿金奥雷利",
+	"TITANGOLD_BODY_SUBTITLE": "喜欢淘金的泰坦巨人",
+	"VAGRANT_BODY_NAME": "游荡水母",
 	"VAGRANT_BODY_SUBTITLE": "温柔的守护者，至少看起来是",
 	"MAGMAWORM_BODY_NAME": "熔岩巨虫",
 	"MAGMAWORM_BODY_SUBTITLE": "传说中可以在熔岩中游泳的蠕虫",
@@ -121,9 +121,9 @@
 	//[DRONE]
 	"DRONE_GUNNER_BODY_NAME": "机枪无人机",
 	"DRONE_HEALING_BODY_NAME": "医疗无人机",
-	"DRONE_BACKUP_BODY_NAME": "强击无人机",
+	"DRONE_BACKUP_BODY_NAME": "支援无人机",
 	"DRONE_MISSILE_BODY_NAME": "导弹无人机",
-	"DRONE_MEGA_BODY_NAME": "TC-280 原型机",
+	"DRONE_MEGA_BODY_NAME": "TC-280 初号机",
 
 	//[INTERACTORS/BODY]
 	"TURRET1_BODY_NAME": "固定机枪炮塔",
@@ -131,7 +131,7 @@
 	//[MISC]
 	"ENGITURRET_BODY_NAME": "TR12 自动炮台",
 	"POT2_BODY_NAME": "罐子",
-	"SQUIDTURRET_BODY_NAME": "乌贼炮台,
+	"SQUIDTURRET_BODY_NAME": "Squid Turret",
 	"POTMOBILE_BODY_NAME": "Potmobile",
 	"SHOPKEEPER_BODY_NAME": "蝾螈",
 	}

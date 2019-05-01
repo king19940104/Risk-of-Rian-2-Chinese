@@ -1,4 +1,4 @@
-﻿{
+{
 	"strings":
 	{
 		"OPTION_HEADER_GAMEPLAY": "游戏",
