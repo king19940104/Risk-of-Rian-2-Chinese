@@ -32,6 +32,7 @@
 	"MERC_DESCRIPTION" : "The Mercenary is a high skill melee survivor that uses his many dodges to weave in and out of combat.<style=cSub>\r\n\r\n< ! > Whirlwind's air variation can be used like an extra jump in a pinch.\r\n\r\n< ! > Getting repeated resets on Blinding Assault is key to increasing both survivability and damage output. However, you do not always need to try for resets \u2013 it may result in your death.\r\n\r\n< ! > Remember that Eviscerate is an extremely powerful defensive tool to dodge telegraphed attacks.\r\n\r\n< ! > Laser Sword deals a ton of damage in a wide area, which is unique for a basic attack.\r\n<\/style>\r\n",
 	"MERC_PASSIVE_NAME" : "Cybernetic Enhancements",
 	"MERC_PASSIVE_DESCRIPTION" : "The Mercenary can <style=cIsUtility>jump twice.</style>",
+	
 	"ENGI_BODY_NAME": "Engineer",
 	"ENGI_PRIMARY_NAME": "Bouncing Grenades",
 	"ENGI_PRIMARY_DESCRIPTION" : "Charge up to <style=cIsDamage>8</style> grenades that deal <style=cIsDamage>100% damage</style> each.",

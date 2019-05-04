@@ -10,6 +10,6 @@
 	"DIFFICULTY_BAR_6": "无人生还",
 	"DIFFICULTY_BAR_7": "我看到你了",
 	"DIFFICULTY_BAR_8": "我来找你了",
-	"DIFFICULTY_BAR_9": "哈哈哈哈哈哈哈哈",
+	"DIFFICULTY_BAR_9": "哈哈哈哈哈哈",
 	}
 }

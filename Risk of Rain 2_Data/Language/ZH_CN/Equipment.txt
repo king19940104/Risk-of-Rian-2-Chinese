@@ -9,12 +9,12 @@
 	"EQUIPMENT_SAW_PICKUP": "Saw 拾取文本。",
 	"EQUIPMENT_SAW_DESC": "Saw 描述。",
 
-	"EQUIPMENT_FRUIT_NAME": "外星水果",
+	"EQUIPMENT_FRUIT_NAME": "异界水果",
 	"EQUIPMENT_FRUIT_PICKUP": "使用时恢复生命值。",
-	"EQUIPMENT_FRUIT_DESC": "立即恢复 <style=cIsHealing>50% 的最大生命</style>。",
+	"EQUIPMENT_FRUIT_DESC": "立即恢复 <style=cIsHealing>50% 的最大生命值</style>。",
 
-	"EQUIPMENT_METEOR_NAME": "闪闪发光的陨石",
-	"EQUIPMENT_METEOR_PICKUP": "召唤一场陨石雨，<color=#FF7F7F>对敌我双方均造成伤害。</color>",
+	"EQUIPMENT_METEOR_NAME": "发光的陨石",
+	"EQUIPMENT_METEOR_PICKUP": "召唤一场陨石雨，<color=#FF7F7F>对敌我双方均造成伤害</color> ",
 	"EQUIPMENT_METEOR_DESC": "从天空落下陨石，对所有人造成 <style=cIsDamage>每次爆炸 600% 的伤害</style>，持续20秒。",
 
 	"EQUIPMENT_SOULJAR_NAME": "灵魂罐",
@@ -30,8 +30,8 @@
 	"EQUIPMENT_GHOSTGUN_DESC": "幽灵枪描述。",
 
 	"EQUIPMENT_CRITONUSE_NAME": "弱点目镜",
-	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内提升100% 的'暴击'几率。",
-	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage> 提升100% 的'暴击'几率</style>，持续8秒。",
+	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内提升100% 的'致命一击'几率。",
+	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage> 提升100% 的'致命一击'几率</style>，持续8秒。",
 
 	"EQUIPMENT_DRONEBACKUP_NAME": "紧急支援",
 	"EQUIPMENT_DRONEBACKUP_PICKUP": "呼叫无人机支援，持续25秒。",
@@ -52,31 +52,31 @@
 
 	"EQUIPMENT_GOLDGAT_NAME": "众筹者机关枪",
   	"EQUIPMENT_GOLDGAT_PICKUP": "切换开火状态，但子弹消耗金币。",
-   	"EQUIPMENT_GOLDGAT_DESC": "连续开火对怪物造成 <style=cIsDamage>每发子弹 100% 的伤害</style>，每发子弹消耗1金币，消耗随持续时间增加。",
+   	"EQUIPMENT_GOLDGAT_DESC": "连续开火对怪物造成 <style=cIsDamage>每发子弹 100% 的伤害</style>，每发子弹消耗 <style=cIsDamage>1金币害</style>，消耗随持续时间增加。",
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "朽木精灵",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"获得持续治疗，激活以跟随一位友军。",
 	"EQUIPMENT_PASSIVEHEALING_DESC":"生成一只朽木精灵并跟随你，给予你 <style=cIsHealing>每秒 1.5% 最大生命值</style> 的治疗，可以将其给予队友为其恢复 <style=cIsHealing>10% 最大生命值</style>。",
 
-	"EQUIPMENT_AFFIXRED_NAME": "伊夫利特之卓越",
+	"EQUIPMENT_AFFIXRED_NAME": "卓越之烈火",
    	"EQUIPMENT_AFFIXRED_PICKUP": "化身烈焰之躯！",
 	"EQUIPMENT_AFFIXRED_DESC": "化身 <style=cIsDamage>烈焰之躯</style>！移动时留下火焰痕迹，<style=cIsDamage>点燃</style> 接触到的敌人。所有攻击也会 <style=cIsDamage>点燃</style> 敌人。",
 
 	"EQUIPMENT_AFFIXBLUE_NAME": "寂静之雷袭",
-	"EQUIPMENT_AFFIXBLUE_PICKUP": "化身雷电子躯！",
+	"EQUIPMENT_AFFIXBLUE_PICKUP": "化身雷电之躯！",
 	"EQUIPMENT_AFFIXBLUE_DESC": "化身 <style=cIsDamage>雷电之躯</style>！将 <style=cIsHealing>生命值的50%</style> 转化为 <style=cIsHealing>护盾</style>,击中敌人时附加 <style=cIsDamage>闪电炸弹</style>。",
 
-	"EQUIPMENT_AFFIXGOLD_NAME": "贪婪之集结",
+	"EQUIPMENT_AFFIXGOLD_NAME": "集结之贪婪",
 	"EQUIPMENT_AFFIXGOLD_PICKUP": "化身幸运之躯！",
 	"EQUIPMENT_AFFIXGOLD_DESC": "化身幸运之躯！",
 
-	"EQUIPMENT_AFFIXWHITE_NAME": "凛冽之怀抱",
-	 "EQUIPMENT_AFFIXWHITE_PICKUP": "化身冰霜之躯",
-	 "EQUIPMENT_AFFIXWHITE_DESC": "化身 <style=cIsDamage>冰霜之躯</style>！<style=cIsUtility>减速</style> 攻击到的敌人。",
+	"EQUIPMENT_AFFIXWHITE_NAME": "拥怀之凛冽",
+	"EQUIPMENT_AFFIXWHITE_PICKUP": "化身冰霜之躯",
+	"EQUIPMENT_AFFIXWHITE_DESC": "化身 <style=cIsDamage>冰霜之躯</style>！<style=cIsUtility>减速</style> 攻击到的敌人。",
 
 	"EQUIPMENT_BURNNEARBY_NAME" : "地狱火酊剂",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "灼伤周围的一切……<color=#FF7F7F>包括你和你的队友</color>。\n",
-	"EQUIPMENT_BURNNEARBY_DESC" : "灼伤8米内的所有敌我单位. 对其造成 <style=cIsDamage>每秒 5% 的最大生命值的灼伤伤害</style>，队友受到 <style=cIsDamage>0.5倍</style> 的伤害, 敌方受到 <style=cIsDamage>24倍</style> 。",
+	"EQUIPMENT_BURNNEARBY_DESC" : "灼伤8米内的所有敌我单位. 对其造成 <style=cIsDamage>每秒 5% 的最大生命值的灼伤伤害</style>，队友受到 <style=cIsDamage>0.5 倍</style> 的伤害, 敌方受到 <style=cIsDamage>24 倍</style> 。",
 	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel 机 器 语 言 翻 译 程 序   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <1453461 轮循环>\n翻 译 完 成！\n显 示 结 果 吗？Y/N\nY\n================================</style>\n点燃 [Grix]，让我们测一下时间 \n.....\n.....\n.....\n...\n..\n.\n\n太分散了，我从底部刮下混合物，它们应该只是一些沉淀\n点燃 [Ouju]，让我们测一下时间\n....\n...\n...\n..\n.\n\n太平缓了，比率也许可以再提高一些。我将混合物平铺开来。黑色腐烂的 [Ouju] 开始在我脚下流动\n点燃 [Rhisko]，我来测一下时间\n...\n.\n\n我这次提高了Tetrafoil的比率。我将混合物调制饱和，腐臭味在室内弥漫，灰烬飘舞\n...\n点燃我，让<他>来测量我的时间\n...\n...\n...\n..\n..\n..\n.\n\n<真完美>\n<style=cMono>\n================================\n",
 
 	"EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
@@ -85,10 +85,10 @@
 
 	"EQUIPMENT_SCANNER_NAME": "雷达扫描仪",
 	"EQUIPMENT_SCANNER_PICKUP": "揭示周围所有可交互物体。",
-	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>扫描</style>500米内所有可交互物品，持续 <style=cIsUtility>10 秒</style>。",
+	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>揭示</style> 500米内所有可交互物品，持续 <style=cIsUtility>10 秒</style>。",
 	
 	"EQUIPMENT_CRIPPLEWARD_NAME" : "悲痛的雕像",
 	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "扔下一个使周围所有人陷入虚弱的雕像……可以再次拾取。",
-	"EQUIPMENT_CRIPPLEWARD_DESC" :  "所有范围内人物将被<style=cIsUtility>减速 50% </style> 并且 <style=cIsDamage> 减少 20 护甲</style>。",
+	"EQUIPMENT_CRIPPLEWARD_DESC" :  "所有范围内人物将被 <style=cIsUtility>减速 50%</style> 并且 <style=cIsDamage>减少 20护甲</style>。",
 	}
 }

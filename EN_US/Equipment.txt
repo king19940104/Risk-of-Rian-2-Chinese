@@ -43,36 +43,36 @@
 	"EQUIPMENT_BFG_DESC": "Fires preon tendrils, zapping enemies within 35m for up to <style=cIsDamage>600% damage/second.</style> On contact, detonate in an enormous 20m explosion for <style=cIsDamage>4000% damage.</style>",
 
 	"EQUIPMENT_JETPACK_NAME": "Milky Chrysalis",
-    "EQUIPMENT_JETPACK_PICKUP": "Gain temporary flight.",
-    "EQUIPMENT_JETPACK_DESC": "Sprout wings and <style=cIsUtility>fly for 15 seconds</style>. Gain <style=cIsUtility>+20% movement speed</style> for the duration.",
+	"EQUIPMENT_JETPACK_PICKUP": "Gain temporary flight.",
+	"EQUIPMENT_JETPACK_DESC": "Sprout wings and <style=cIsUtility>fly for 15 seconds</style>. Gain <style=cIsUtility>+20% movement speed</style> for the duration.",
 
 	"EQUIPMENT_LIGHTNING_NAME": "Royal Capacitor",
-    "EQUIPMENT_LIGHTNING_PICKUP": "Call down a lightning strike on a targeted monster.",
-    "EQUIPMENT_LIGHTNING_DESC": "Call down a lightning strike on a targeted monster, dealing <style=cIsDamage>3000% damage</style> and <style=cIsDamage>stunning</style> nearby monsters.",
+	"EQUIPMENT_LIGHTNING_PICKUP": "Call down a lightning strike on a targeted monster.",
+	"EQUIPMENT_LIGHTNING_DESC": "Call down a lightning strike on a targeted monster, dealing <style=cIsDamage>3000% damage</style> and <style=cIsDamage>stunning</style> nearby monsters.",
 
 	"EQUIPMENT_GOLDGAT_NAME": "The Crowdfunder",
-    "EQUIPMENT_GOLDGAT_PICKUP": "Toggle to fire. Costs gold per bullet.",
-    "EQUIPMENT_GOLDGAT_DESC": "Fires a continuous barrage that deals <style=cIsDamage>100% damage per bullet</style>. Costs $1 per bullet. Cost increases over time.",
+	"EQUIPMENT_GOLDGAT_PICKUP": "Toggle to fire. Costs gold per bullet.",
+	"EQUIPMENT_GOLDGAT_DESC": "Fires a continuous barrage that deals <style=cIsDamage>100% damage per bullet</style>. Costs $1 per bullet. Cost increases over time.",
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "Gnarled Woodsprite",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"Heal over time. Activate to send to an ally.",
 	"EQUIPMENT_PASSIVEHEALING_DESC":"Gain a Woodsprite follower that heals for <style=cIsHealing>1.5% of your maximum health/second</style>. Can be sent to an ally to heal them for <style=cIsHealing>10% of their maximum health.</style>",
 
 	"EQUIPMENT_AFFIXRED_NAME": "Ifrit's Distinction",
-    "EQUIPMENT_AFFIXRED_PICKUP": "Become an aspect of fire.",
-    "EQUIPMENT_AFFIXRED_DESC": "",
+	"EQUIPMENT_AFFIXRED_PICKUP": "Become an aspect of fire.",
+	"EQUIPMENT_AFFIXRED_DESC": "Become an aspect of fire. Leaves trail of fire igniting enemies on contact. All attacks will also ignite enemies.",
 
 	"EQUIPMENT_AFFIXBLUE_NAME": "Silence Between Two Strikes",
-    "EQUIPMENT_AFFIXBLUE_PICKUP": "Become an aspect of lightning.",
-    "EQUIPMENT_AFFIXBLUE_DESC": "",
+	"EQUIPMENT_AFFIXBLUE_PICKUP": "Become an aspect of lightning.",
+	"EQUIPMENT_AFFIXBLUE_DESC": "Become an aspect of lightning. Converts 50% of total health into shields. Lightning bombs attach to enemies on hit.",
 
 	"EQUIPMENT_AFFIXGOLD_NAME": "Coven of Gold",
-    "EQUIPMENT_AFFIXGOLD_PICKUP": "Become an aspect of fortune.",
-    "EQUIPMENT_AFFIXGOLD_DESC": "",
+	"EQUIPMENT_AFFIXGOLD_PICKUP": "Become an aspect of fortune.",
+	"EQUIPMENT_AFFIXGOLD_DESC": "Become an aspect of ice. Slow enemies on hit.",
 
 	"EQUIPMENT_AFFIXWHITE_NAME": "Her Biting Embrace",
-    "EQUIPMENT_AFFIXWHITE_PICKUP": "Become an aspect of ice.",
-    "EQUIPMENT_AFFIXWHITE_DESC": "",
+	"EQUIPMENT_AFFIXWHITE_PICKUP": "Become an aspect of ice.",
+	"EQUIPMENT_AFFIXWHITE_DESC": "",
 
 	"EQUIPMENT_BURNNEARBY_NAME" : "Helfire Tincture",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "Burn everything nearby... <color=#FF7F7F>including you and allies.</color>\n",

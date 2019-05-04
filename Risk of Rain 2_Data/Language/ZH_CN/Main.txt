@@ -11,18 +11,18 @@
 		"TITLE_UNLOCKABLES": "成就挑战",
 		"TITLE_MORE": "关于我们",
 		"TITLE_EXIT": "退出游戏",
-		"TITLE_MULTIPLAYER_QUICKPLAY_START": "快速游戏",
-		"TITLE_MULTIPLAYER_QUICKPLAY_STOP": "离开快速游戏大厅",
+		"TITLE_MULTIPLAYER_QUICKPLAY_START": "开始快速游戏",
+		"TITLE_MULTIPLAYER_QUICKPLAY_STOP": "离开快速游戏",
 		"TITLE_MULTIPLAYER_HOST": "开始私人游戏",
-		"TITLE_MULTIPLAYER_JOIN": "加入房间",
+		"TITLE_MULTIPLAYER_JOIN": "加入ID大厅",
 		"TITLE_MULTIPLAYER_INVITE": "邀请好友",
 		"TITLE_MULTIPLAYER_RETURN": "返回",
 
 		"MORE_MUSIC" : "音乐",
-		"MORE_MUSIC_DESC" : "大家好！我是克里斯，本游戏原声带的作曲者！有些人可能在之前的雨中冒险一代就已经认识我了，至于其他人，我很高兴在本游戏EA测试阶段认识你们！\r\n\r\n现在我还有很多的音乐要写，我希望你能喜欢至今为止你所听到的这些音乐！如果你想更多的了解我的音乐，你可以关注我的Twitter或Instagram（两个都是@AstronautDown）并订阅我们的Discord服务！",
+		"MORE_MUSIC_DESC" : "大家好！我是Chris，本游戏原声带的作曲者！有些人可能在之前的雨中冒险一代就已经认识我了，至于其他人，我很高兴在本游戏EA测试阶段认识你们！\r\n\r\n现在我还有很多的音乐要写，我希望你能喜欢至今为止你所听到的这些音乐！如果你想更多的了解我的音乐，你可以关注我的Twitter或Instagram（两个都是@AstronautDown）并订阅我们的Discord服务！",
 		"MORE_MUSIC_BUTTON" : "带走我!",
 		"MORE_CONTACT" : "联系我们",
-		"MORE_CONTACT_DESC" : "在社交娱乐网站上关注我们以获得更多关于《雨中冒险2》的最新消息！",
+		"MORE_CONTACT_DESC" : "在社交媒体网站上关注我们以获得更多关于《雨中冒险2》的最新消息！",
 
 		"MORE_LICENSE" : "版权信息",
 		"MORE_LICENSE_DESC" : "Copyright (C) 2012 - 2019 Hopoo Games, LLC. All rights reserved. \r\n\r\nMade with Unity. Unity is a trademark or registered trademark of Unity Technologies or its affiliates in the U.S. and elsewhere. All rights reserved. \r\n\r\nPowered by Wwise (C) 2006 - 2019 Audiokinetic Inc. All rights reserved.\r\n\r\nAll other trademarks and registered trademarks are property of their respective owners.",
@@ -40,7 +40,7 @@
 
 		"CHARSELECT_RETURN": "返回",
 		"DIFFICULTY_EASY_NAME": "毛毛细雨",
-		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，没有哭泣和绝望，这里只有欢声笑语。",
+		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，没有哭泣和悲伤，只有欢声笑语。",
 
 		"DIFFICULTY_NORMAL_NAME": "倾盆大雨",
 		"DIFFICULTY_NORMAL_DESCRIPTION": "这才是这个游戏的正确游玩方式！面对这些强大的怪物，让我们看看你究竟有多大能耐吧！",
@@ -58,28 +58,28 @@
 		"ACHIEVEMENTS_SCREEN_TITLE": "成就挑战",
 		"ACHIEVEMENT_CARD_REWARD_FORMAT": "奖励：{0}",
 		"ACHIEVEMENT_CARD_PREREQ_FORMAT" : "需要解锁成就：{0}",
-		"CHAT_KEYBIND_TIP": "按 Enter 键开始聊天",
+		"CHAT_KEYBIND_TIP": "按 Enter 键开始聊天。",
 
 		"GAME_RESULT_LOST": "死掉了!",
 		"GAME_RESULT_WON": "你胜利了!",
-		"GAME_RESULT_UNKNOWN": "成功了……吗？",
+		"GAME_RESULT_UNKNOWN": "未知的命运..",
 		
 		"UNIDENTIFIED" : "???",
 		
 		"DESCRIPTION_PREFIX_FORMAT" : "详情：\n{0}",
 		"NOTES_PREFIX_FORMAT" : "相关记录：\n<style=cSub><size=80%>{0}</size></style>",
 
-		"GENERIC_PREFIX_FOUND" : "找到<style=cEvent>{0}</style>个",
+		"GENERIC_PREFIX_FOUND" : "找到：<style=cEvent>{0}</style> 个",
 		"GENERIC_PREFIX_WINPERCENTAGE" : "获胜几率: <style=cEvent>{0}%</style>",
 		"BODY_HEALTH_FORMAT" : "最大生命值：{0}",
 		"BODY_DAMAGE_FORMAT" : "伤害：{0}",
-		"BODY_MOVESPEED_FORMAT" : "速度：{0} m/s",
+		"BODY_MOVESPEED_FORMAT" : "速度：{0} 米/秒",
 
 		"ITEM_PREFIX_STACKCOUNT" : "单次游戏最大堆叠数量：<style=cEvent>x{0}</style>",
 		"EQUIPMENT_PREFIX_USECOUNT" : "总计使用次数: <style=cEvent>{0}</style>",
 		"EQUIPMENT_PREFIX_TOTALTIMEHELD" : "总计携带时间: <style=cEvent>{0}</style>",
 		"MONSTER_PREFIX_KILLED" : "击杀数: <style=cEvent>{0}</style>",
-		"MONSTER_PREFIX_ELITESKILLED" : "击杀的精英数: <style=cEvent>{0}</style>",
+		"MONSTER_PREFIX_ELITESKILLED" : "击杀的精英数：<style=cEvent>{0}</style>",
 		"MONSTER_PREFIX_DEATH" : "你被此怪物击杀的次数：<style=cEvent>{0}</style>",
 		
 		"STAGE_PREFIX_TOTALTIMESVISITED" : "到访次数：<style=cEvent>{0}</style>",
