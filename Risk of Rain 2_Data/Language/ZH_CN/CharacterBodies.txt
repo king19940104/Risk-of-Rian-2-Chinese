@@ -2,7 +2,7 @@
 	strings:
 	{
 	//[NULL]
-	"NULL_SUBTITLE": "倾巢而出",
+	"NULL_SUBTITLE": "成群结队",
 
 	"ELITE_MODIFIER_FIRE": "烈焰{0}",
 	"ELITE_MODIFIER_LIGHTNING": "超负荷{0}",
@@ -46,13 +46,13 @@
 	
 	"HUNTRESS_BODY_NAME": "女猎手",
 	"HUNTRESS_PRIMARY_NAME": "猛烈射击",
-	"HUNTRESS_PRIMARY_DESCRIPTION" : "发射一根自动追踪箭，对怪物造成 150% 伤害，<i>可以在冲刺时使用。</i>",
+	"HUNTRESS_PRIMARY_DESCRIPTION" : "发射一根自动追踪箭，对怪物造成 <style=cIsDamage>150% 伤害</style>，<i>可以在冲刺时使用。</i>",
 	"HUNTRESS_SECONDARY_NAME": "激光回旋镖",
 	"HUNTRESS_SECONDARY_DESCRIPTION" : "扔出一枚自动跟踪回旋镖，它会在怪物间来回弹跳最多 <style=cIsDamage>6</style> 次，基础伤害为 <style=cIsDamage>250% 伤害</style>，每次弹跳会增加 <style=cIsDamage>10% 伤害</style>。",
 	"HUNTRESS_UTILITY_NAME": "闪烁",
 	"HUNTRESS_UTILITY_DESCRIPTION" : "<style=cIsUtility>瞬间消失</style> 然后向前方位移一段距离后 <style=cIsUtility>现身</style>。",
 	"HUNTRESS_SPECIAL_NAME": "流星箭雨",
-	"HUNTRESS_SPECIAL_DESCRIPTION" : "闪至空中，对目标区域发射箭雨，<style=cIsUtility>减速</style> 其中所有敌人的移速并对其造成 <style=cIsDamage>每秒 225% 的伤害</style>。",
+	"HUNTRESS_SPECIAL_DESCRIPTION" : "闪至空中，对目标区域发射箭雨，对其中所有敌人造成 <style=cIsDamage>每秒 225% 的伤害</style> 并 <style=cIsUtility>减速</style> 。",
 	"HUNTRESS_DESCRIPTION": "女猎手是一名高移速高伤害但非常脆弱的远距离攻击型幸存者<style=cSub>\r\n\r\n< ! > 请记住猛烈射击是唯一可以在冲刺时使用的技能，这使得你可以一边保持高速移动一边把你的猎物全部遛翻\r\n\r\n< ! > 闪烁和流星箭雨是非常有用的位移技能，可以用于主动接近猎物，也可以从密集的攻击中逃脱\r\n\r\n< ! > 激光回旋镖可以很快地同时解决多只猎物\r\n\r\n< ! > 流星箭雨是超高伤害的群控技能，用的好可以有效牵制住那些又快又肉的猎物。<\/style>\r\n",
 
 	"MAGE_BODY_NAME": "炼化技师",
@@ -76,7 +76,7 @@
 	"TOOLBOT_SECONDARY_NAME": "震撼爆桶",
 	"TOOLBOT_SECONDARY_DESCRIPTION" : "投掷一个 <style=cIsDamage>震撼桶</style> 造成 <style=cIsDamage>220% 伤害</style> 并分裂出 <style=cIsDamage>震撼弹</style> 造成 <style=cIsDamage>5x44% 伤害</style>。",
 	"TOOLBOT_UTILITY_NAME": "攻城模式",
-	"TOOLBOT_UTILITY_DESCRIPTION" : "给 予<style=cIsUtility>护甲</style> 并 <style=cIsUtility>加速</style> 前冲，对撞到的怪物造成 <style=cIsDamage>250% 基础伤害</style>，速度越快伤害越高。",
+	"TOOLBOT_UTILITY_DESCRIPTION" : "给予<style=cIsUtility>护甲</style> 并 <style=cIsUtility>加速</style> 前冲，对撞到的怪物造成 <style=cIsDamage>250% 基础伤害</style>，速度越快伤害越高。",
 	"TOOLBOT_SPECIAL_NAME": "模式切换",
 	"TOOLBOT_SPECIAL_DESCRIPTION" : "在 <style=cIsDamage>全自动钉枪</style> 与 <style=cIsDamage>钢筋电磁炮</style> 中切换主要火力。",
 	"TOOLBOT_DESCRIPTION": "MUL-T是极具破坏力的幸存者，它拥有各种工具来应对各种局面<style=cSub>\r\n\r\n< ! > 全自动钉枪拥有极高的输出，但射程极短，是个风险与利益并存的武器\r\n\r\n< ! > 攻城模式既可以用来从怪物群中逃走，也可以对大型怪物造成有效输出\r\n\r\n< ! > 爆破震撼弹可以将很大一群怪物控制很久，可以帮你的队伍制造更多输出机会\r\n\r\n< ! > 合理利用模式切换技能，使用射速低的穿孔炮对付残血的怪物，同时使用全自动钉枪保持超高输出。<\/style>\r\n",
@@ -108,10 +108,10 @@
 	"CLAYBOSS_BODY_SUBTITLE": "贪婪的共生有机体",
 	"TITAN_BODY_NAME": "巨石泰坦",
 	"TITAN_BODY_SUBTITLE": "万恶领军",
-	"TITANGOLD_BODY_NAME": "钛坦骑士",
+	"TITANGOLD_BODY_NAME": "钛金骑士",
 	"TITANGOLD_BODY_SUBTITLE": "热爱淘金的泰坦巨人",
 	"VAGRANT_BODY_NAME": "游荡水母",
-	"VAGRANT_BODY_SUBTITLE": "温柔的守护者，至少看起来是",
+	"VAGRANT_BODY_SUBTITLE": "温柔的守护者",
 	"MAGMAWORM_BODY_NAME": "熔岩蠕虫",
 	"MAGMAWORM_BODY_SUBTITLE": "传说中生活在岩浆里的巨虫",
 	"ELECTRICWORM_BODY_NAME": "超负荷蠕虫",
@@ -121,7 +121,7 @@
 	//[DRONE]
 	"DRONE_GUNNER_BODY_NAME": "机枪无人机",
 	"DRONE_HEALING_BODY_NAME": "医疗无人机",
-	"DRONE_BACKUP_BODY_NAME": "支援无人机",
+	"DRONE_BACKUP_BODY_NAME": "强袭无人机",
 	"DRONE_MISSILE_BODY_NAME": "导弹无人机",
 	"DRONE_MEGA_BODY_NAME": "TC-280 初号机",
 

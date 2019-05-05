@@ -12,7 +12,7 @@
 		"ACTION_INTERACT" : "互动",
 		"ACTION_EQUIPMENT" : "使用装备",
 		"ACTION_PRIMARY_SKILL" : "主要技能",
-		"ACTION_SECONDARY_SKILL" : "备用技能",
+		"ACTION_SECONDARY_SKILL" : "次要技能",
 		"ACTION_UTILITY_SKILL" : "通用技能",
 		"ACTION_SPECIAL_SKILL" : "特殊技能",
 		"ACTION_INFO" : "玩家信息",

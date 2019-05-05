@@ -31,7 +31,7 @@
 	"ITEM_EXPLODEONDEATH_DESC": "击杀敌人时，生成一道半径 <style=cIsDamage>12米</style> <style=cStack>(每个道具递 +2.4米)</style> 的 <style=cIsDamage>岩浆柱</style> ，并造成 <style=cIsDamage>350%</style> <style=cStack>(每个道具递 +280% )</style> 伤害。", 
 
 	"ITEM_DAGGER_NAME": "仪式匕首",
-	"ITEM_DAGGER_PICKUP": "击杀敌人后释放<style=cIsDamage>自动追踪的匕首</style>。",
+	"ITEM_DAGGER_PICKUP": "击杀敌人后释放<color=#ff429f>自动追踪的匕首</color>。",
 	"ITEM_DAGGER_DESC": "击杀敌人后释放 <style=cIsDamage>3</style> <style=cStack>(每个道具递 +3)</style> 把 <style=cIsDamage>自动跟踪的匕首</style> ，每把造成 <style=cIsDamage>150%</style> 基础伤害。", 
 	"ITEM_DAGGER_LORE": "硫磺的味道弥漫在空气中。\r\n\r\n‘哦，天哪，它们离我们太近了，它们已经抓住Hitchcock了，哦我的老天。’\r\n\r\n‘找到那个……那把匕首，就在我的背包里，快点’\r\n\r\n‘我没看到……哦我找到了！这是什么鬼，这玩意不会有用的，Marion。我到底要怎么用这玩意去……？哦天哪！它们把他撕成了碎片……’\r\n\r\n‘你必须……必须要杀掉我，啊！快杀掉我，用这个杀掉我！’\r\n\r\n‘什么？你在说什么鬼东西？’\r\n\r\n‘是的，这是唯一的方法了，快点！’\r\n\r\n‘你在说什么鬼话？快停下来！’\r\n\r\n‘这是拥有魔力的小刀，它会保护我们，她会保佑我们的。但在那之前你必须要用这把刀杀掉我。’\r\n\r\n‘不，不要让我来做这件事，哦我的天哪。’\r\n\r\n‘你……必须这么，我已经见过这个东西的效果了，这是唯一的方法——它们已经靠的很近了，你必须用它杀了我，快杀了我！’\r\n\r\n‘对不起，Marion，我真的很抱歉，我不觉着……’\r\n\r\n‘快点！现在就杀了我！现在马上杀掉我！快！杀！掉！我！杀……’",
 	
@@ -41,7 +41,7 @@
 
 	"ITEM_CRITGLASSES_NAME": "制镜师的眼镜",
 	"ITEM_CRITGLASSES_PICKUP": "有几率造成'致命一击'，造成双倍伤害。",
-	"ITEM_CRITGLASSES_DESC": "你的攻击有 <style=cIsDamage>10%</style> <style=cStack>(每个道具递 +10%)</style> 几率触发 <style=cIsDamage>'致命一击'/style> 以造成 <style=cIsDamage>双倍伤害</style>。", 
+	"ITEM_CRITGLASSES_DESC": "你的攻击有 <style=cIsDamage>10%</style> <style=cStack>(每个道具递 +10%)</style> 几率触发 <style=cIsDamage>'致命一击'</style> 以造成 <style=cIsDamage>双倍伤害</style>。", 
 
 	"ITEM_HOOF_NAME": "保罗的山羊蹄",
 	"ITEM_HOOF_PICKUP": "移动得更快。",
@@ -164,7 +164,7 @@
 	"ITEM_FIREWORK_DESC": "打开箱子时 <style=cIsDamage>发射 8 <style=cStack>(每个道具递 +4)</style> 束烟火</style>，造成 <style=cIsDamage>300%</style> 基础伤害。",
 
 	"ITEM_BANDOLIER_NAME": "弹药带",
-	"ITEM_BANDOLIER_PICKUP": "击杀时有几率掉落弹药包，拾取重置技能冷却时间。",
+	"ITEM_BANDOLIER_PICKUP": "击杀时有几率掉落弹药包，拾取重置所有技能冷却时间。",
 	"ITEM_BANDOLIER_DESC": "击杀敌人有 <style=cIsUtility>18%</style> <style=cStack>(每个道具递 +10%)</style> 几率掉落弹药包，拾取 <style=cIsUtility>重置所有技能冷却</style>。\n\n<style=cStack>内部数据实际几率：100%-100%/(³√(道具数+1)×100%)</style>",
 
 	"ITEM_STUNCHANCEONHIT_NAME": "震撼手榴弹",

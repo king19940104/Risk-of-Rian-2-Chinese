@@ -98,8 +98,8 @@
 
 	"SHRINE_BOSS_NAME": "山岳神龛",
 	"SHRINE_BOSS_CONTEXT": "向山岳神龛祈祷",
-	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>你已受邀进入山之挑战</color>。",
-	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} 引领你们进入山之挑战</color>。",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>你已受邀开启山之挑战</color>。",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} 引领你们开启山之挑战</color>。",
 	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>现在，让山之挑战开始吧！</style>。",
 	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>你已证明你的勇气，这是给予你们的奖励！</style>。",
 
@@ -113,8 +113,8 @@
 
 	"SHRINE_COMBAT_NAME": "战斗神龛",
 	"SHRINE_COMBAT_CONTEXT": "向战斗祭坛祈祷",
-	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>你召唤了一大堆{1}</color>。",
-	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} 向战斗神龛祈祷，召唤了一大堆{1}</color>。",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>你召唤了一大群{1}</color>。",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} 向战斗神龛祈祷，召唤了一大群{1}</color>。",
 
 	"GOLDTOTEM_NAME": "Halycon信标",
 	"GOLDTOTEM_CONTEXT": "重建Halycon信标",

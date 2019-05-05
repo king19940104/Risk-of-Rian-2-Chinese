@@ -9,13 +9,13 @@
 	"EQUIPMENT_SAW_PICKUP": "Saw 拾取文本。",
 	"EQUIPMENT_SAW_DESC": "Saw 描述。",
 
-	"EQUIPMENT_FRUIT_NAME": "异界水果",
+	"EQUIPMENT_FRUIT_NAME": "异界果实",
 	"EQUIPMENT_FRUIT_PICKUP": "使用时恢复生命值。",
 	"EQUIPMENT_FRUIT_DESC": "立即恢复 <style=cIsHealing>50% 的最大生命值</style>。",
 
-	"EQUIPMENT_METEOR_NAME": "发光的陨石",
+	"EQUIPMENT_METEOR_NAME": "璀璨的陨石",
 	"EQUIPMENT_METEOR_PICKUP": "召唤一场陨石雨，<color=#FF7F7F>对敌我双方均造成伤害</color> ",
-	"EQUIPMENT_METEOR_DESC": "从天空落下陨石，对所有人造成 <style=cIsDamage>每次爆炸 600% 的伤害</style>，持续20秒。",
+	"EQUIPMENT_METEOR_DESC": "召唤从天而降的陨石，对所有单位造成 <style=cIsDamage>每次爆炸 600% 的伤害</style>，持续20秒。",
 
 	"EQUIPMENT_SOULJAR_NAME": "灵魂罐",
 	"EQUIPMENT_SOULJAR_PICKUP": "为眼前的每一个怪物召唤一个幽灵。",
@@ -52,7 +52,7 @@
 
 	"EQUIPMENT_GOLDGAT_NAME": "众筹者机关枪",
   	"EQUIPMENT_GOLDGAT_PICKUP": "切换开火状态，但子弹消耗金币。",
-   	"EQUIPMENT_GOLDGAT_DESC": "连续开火对怪物造成 <style=cIsDamage>每发子弹 100% 的伤害</style>，每发子弹消耗 <style=cIsDamage>1金币害</style>，消耗随持续时间增加。",
+   	"EQUIPMENT_GOLDGAT_DESC": "连续开火对怪物造成 <style=cIsDamage>每发子弹 100% 的伤害</style>，每发子弹消耗 <color=#fcff00>1金币</color>，消耗随持续时间增加。",
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "朽木精灵",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"获得持续治疗，激活以跟随一位友军。",
@@ -60,19 +60,19 @@
 
 	"EQUIPMENT_AFFIXRED_NAME": "卓越之烈火",
    	"EQUIPMENT_AFFIXRED_PICKUP": "化身烈焰之躯！",
-	"EQUIPMENT_AFFIXRED_DESC": "化身 <style=cIsDamage>烈焰之躯</style>！移动时留下火焰痕迹，<style=cIsDamage>点燃</style> 接触到的敌人。所有攻击也会 <style=cIsDamage>点燃</style> 敌人。",
+	"EQUIPMENT_AFFIXRED_DESC": "化身 <color=#FF0000>烈焰之躯</color>！移动时留下火焰痕迹，<style=cIsDamage>点燃</style> 接触到的敌人。所有攻击也会 <style=cIsDamage>点燃</style> 敌人。",
 
 	"EQUIPMENT_AFFIXBLUE_NAME": "寂静之雷袭",
 	"EQUIPMENT_AFFIXBLUE_PICKUP": "化身雷电之躯！",
-	"EQUIPMENT_AFFIXBLUE_DESC": "化身 <style=cIsDamage>雷电之躯</style>！将 <style=cIsHealing>生命值的50%</style> 转化为 <style=cIsHealing>护盾</style>,击中敌人时附加 <style=cIsDamage>闪电炸弹</style>。",
+	"EQUIPMENT_AFFIXBLUE_DESC": "化身 <color=#0096FF>雷电之躯</color>！将 <style=cIsHealing>生命值的50%</style> 转化为 <style=cIsHealing>护盾</style>,击中敌人时附加 <style=cIsDamage>闪电炸弹</style>。",
 
 	"EQUIPMENT_AFFIXGOLD_NAME": "集结之贪婪",
 	"EQUIPMENT_AFFIXGOLD_PICKUP": "化身幸运之躯！",
-	"EQUIPMENT_AFFIXGOLD_DESC": "化身幸运之躯！",
+	"EQUIPMENT_AFFIXGOLD_DESC": "化身 <color=#FCFF00>幸运之躯</color>！",
 
 	"EQUIPMENT_AFFIXWHITE_NAME": "拥怀之凛冽",
 	"EQUIPMENT_AFFIXWHITE_PICKUP": "化身冰霜之躯",
-	"EQUIPMENT_AFFIXWHITE_DESC": "化身 <style=cIsDamage>冰霜之躯</style>！<style=cIsUtility>减速</style> 攻击到的敌人。",
+	"EQUIPMENT_AFFIXWHITE_DESC": "化身 <color=#C2F3FF>冰霜之躯</color>！<style=cIsDamage>减速</style> 攻击到的敌人。",
 
 	"EQUIPMENT_BURNNEARBY_NAME" : "地狱火酊剂",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "灼伤周围的一切……<color=#FF7F7F>包括你和你的队友</color>。\n",

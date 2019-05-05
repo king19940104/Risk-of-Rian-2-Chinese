@@ -40,7 +40,7 @@
 
 		"CHARSELECT_RETURN": "返回",
 		"DIFFICULTY_EASY_NAME": "毛毛细雨",
-		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，没有哭泣和悲伤，只有欢声笑语。",
+		"DIFFICULTY_EASY_DESCRIPTION": "为新手准备的难度，没有悲伤和哭泣，这里只有欢声笑语。",
 
 		"DIFFICULTY_NORMAL_NAME": "倾盆大雨",
 		"DIFFICULTY_NORMAL_DESCRIPTION": "这才是这个游戏的正确游玩方式！面对这些强大的怪物，让我们看看你究竟有多大能耐吧！",
