@@ -68,7 +68,7 @@
 	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "永久升级无人机商店",
 
 	"BAZAAR_CAULDRON_NAME" : "坩埚",
-	"BAZAAR_CAULDRON_CONTEXT" : "重铸",
+	"BAZAAR_CAULDRON_CONTEXT" : "合成重铸",
 
 	"NEWT_STATUE_NAME" : "蝾螈祭坛",
 	"NEWT_STATUE_CONTEXT" : "向蝾螈祭坛捐赠",

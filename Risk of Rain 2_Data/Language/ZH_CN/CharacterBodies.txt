@@ -2,7 +2,7 @@
 	strings:
 	{
 	//[NULL]
-	"NULL_SUBTITLE": "成群结队",
+	"NULL_SUBTITLE": "倾巢而出",
 
 	"ELITE_MODIFIER_FIRE": "烈焰{0}",
 	"ELITE_MODIFIER_LIGHTNING": "超负荷{0}",
@@ -57,7 +57,7 @@
 
 	"MAGE_BODY_NAME": "炼化技师",
 	"MAGE_PRIMARY_NAME" : "火焰螺旋弹",
-	"MAGE_PRIMARY_DESCRIPTION" : "射出火焰飞弹造成 <style=cIsDamage>200% 伤害</style> 并 <style=cIsDamage>引燃</style>敌人，可以存储4个。",
+	"MAGE_PRIMARY_DESCRIPTION" : "射出火焰飞弹造成 <style=cIsDamage>200% 伤害</style> 并 <style=cIsDamage>引燃</style> 敌人，可以存储4个。",
 	"MAGE_SECONDARY_LIGHTNING_NAME": "纳米充能弹",
 	"MAGE_SECONDARY_LIGHTNING_DESCRIPTION" : "充能发射一枚纳米炸弹造成 <style=cIsDamage>400%-1200%</style> 伤害并 <style=cIsDamage>眩晕</style> 全部怪物。",
 	"MAGE_UTILITY_ICE_NAME": "绝对零度",
@@ -115,13 +115,13 @@
 	"MAGMAWORM_BODY_NAME": "熔岩蠕虫",
 	"MAGMAWORM_BODY_SUBTITLE": "传说中生活在岩浆里的巨虫",
 	"ELECTRICWORM_BODY_NAME": "超负荷蠕虫",
-	"ELECTRICWORM_BODY_SUBTITLE": "你会记住它的",
+	"ELECTRICWORM_BODY_SUBTITLE": "雷电会让你你记住它的",
 	"IMPBOSS_BODY_NAME": "魔君鬼王",
 	"IMPBOSS_BODY_SUBTITLE": "这片红色土地上的君王",
 	//[DRONE]
 	"DRONE_GUNNER_BODY_NAME": "机枪无人机",
 	"DRONE_HEALING_BODY_NAME": "医疗无人机",
-	"DRONE_BACKUP_BODY_NAME": "强袭无人机",
+	"DRONE_BACKUP_BODY_NAME": "支援无人机",
 	"DRONE_MISSILE_BODY_NAME": "导弹无人机",
 	"DRONE_MEGA_BODY_NAME": "TC-280 初号机",
 
@@ -131,7 +131,7 @@
 	//[MISC]
 	"ENGITURRET_BODY_NAME": "TR12 自动炮台",
 	"POT2_BODY_NAME": "罐子",
-	"SQUIDTURRET_BODY_NAME": "Squid Turret",
+	"SQUIDTURRET_BODY_NAME": "乌贼炮台",
 	"POTMOBILE_BODY_NAME": "Potmobile",
 	"SHOPKEEPER_BODY_NAME": "蝾螈",
 	}

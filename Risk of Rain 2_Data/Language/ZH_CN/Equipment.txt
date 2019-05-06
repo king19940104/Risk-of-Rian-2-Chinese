@@ -3,7 +3,7 @@
 	{
 	"EQUIPMENT_COMMANDMISSILE_NAME": "半自动导弹发射器",
 	"EQUIPMENT_COMMANDMISSILE_PICKUP": "发射一大堆导弹。",
-	"EQUIPMENT_COMMANDMISSILE_DESC": "发射12枚导弹造成 <style=cIsDamage>12x300% 伤害</style>。",
+	"EQUIPMENT_COMMANDMISSILE_DESC": "发射12枚导弹造成 <style=cIsDamage>12 × 300% 伤害</style>。",
 
 	"EQUIPMENT_SAW_NAME": "Saw",
 	"EQUIPMENT_SAW_PICKUP": "Saw 拾取文本。",
@@ -14,24 +14,24 @@
 	"EQUIPMENT_FRUIT_DESC": "立即恢复 <style=cIsHealing>50% 的最大生命值</style>。",
 
 	"EQUIPMENT_METEOR_NAME": "璀璨的陨石",
-	"EQUIPMENT_METEOR_PICKUP": "召唤一场陨石雨，<color=#FF7F7F>对敌我双方均造成伤害</color> ",
+	"EQUIPMENT_METEOR_PICKUP": "召唤一场陨石雨，<color=#FF7F7F>对敌我双方均造成伤害</color>。 ",
 	"EQUIPMENT_METEOR_DESC": "召唤从天而降的陨石，对所有单位造成 <style=cIsDamage>每次爆炸 600% 的伤害</style>，持续20秒。",
 
 	"EQUIPMENT_SOULJAR_NAME": "灵魂罐",
 	"EQUIPMENT_SOULJAR_PICKUP": "为眼前的每一个怪物召唤一个幽灵。",
 	"EQUIPMENT_SOULJAR_DESC": "将所有怪物复制一个幽灵出来并作为友军战斗，持续15秒。",
 
-	"EQUIPMENT_BLACKHOLE_NAME": "原始魔方",
+	"EQUIPMENT_BLACKHOLE_NAME": "原初魔方",
 	"EQUIPMENT_BLACKHOLE_PICKUP": "发射一个黑洞将怪物聚集在一起。",
-	"EQUIPMENT_BLACKHOLE_DESC": "发射一个黑洞将 <style=cIsUtility>周围30米内的怪物吸入黑洞中心</style>，持续10秒。",
+	"EQUIPMENT_BLACKHOLE_DESC": "发射一个黑洞将 <style=cIsUtility>周围30米内的敌人吸入黑洞中心</style>，持续10秒。",
 
 	"EQUIPMENT_GHOSTGUN_NAME": "收割者悔恨",
 	"EQUIPMENT_GHOSTGUN_PICKUP": "召唤一个幽灵左轮，击杀后造成双倍伤害。",
 	"EQUIPMENT_GHOSTGUN_DESC": "幽灵枪描述。",
 
 	"EQUIPMENT_CRITONUSE_NAME": "弱点目镜",
-	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内提升100% 的'致命一击'几率。",
-	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage> 提升100% 的'致命一击'几率</style>，持续8秒。",
+	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内提升100%的‘致命一击’几率。",
+	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage> 提升100% 的‘致命一击’几率</style>，持续8秒。",
 
 	"EQUIPMENT_DRONEBACKUP_NAME": "紧急支援",
 	"EQUIPMENT_DRONEBACKUP_PICKUP": "呼叫无人机支援，持续25秒。",
@@ -43,7 +43,7 @@
 	"EQUIPMENT_BFG_DESC": "发射触须状前子球，以 <style=cIsDamage>600% 伤害每秒</style> 的电击35米内的敌人，当触碰到任意物体时，引发一个20米的大爆炸并造成 <style=cIsDamage>4000% 伤害。</style>",
 
 	"EQUIPMENT_JETPACK_NAME": "乳白蝶蛹",
-    	"EQUIPMENT_JETPACK_PICKUP": "使你暂时可以飞行。",
+	"EQUIPMENT_JETPACK_PICKUP": "使你暂时可以飞行。",
    	"EQUIPMENT_JETPACK_DESC": "张开翅膀以 <style=cIsUtility>飞行15秒</style>。 效果持续时间内给予 <style=cIsUtility>+20% 移动速度</style>。 ",
 
 	"EQUIPMENT_LIGHTNING_NAME": "皇家电容器",
@@ -52,26 +52,26 @@
 
 	"EQUIPMENT_GOLDGAT_NAME": "众筹者机关枪",
   	"EQUIPMENT_GOLDGAT_PICKUP": "切换开火状态，但子弹消耗金币。",
-   	"EQUIPMENT_GOLDGAT_DESC": "连续开火对怪物造成 <style=cIsDamage>每发子弹 100% 的伤害</style>，每发子弹消耗 <color=#fcff00>1金币</color>，消耗随持续时间增加。",
+   	"EQUIPMENT_GOLDGAT_DESC": "连续开火对怪物造成 <style=cIsDamage>每发子弹 100% 的伤害</style>，每发子弹消耗 <color=#fcff00>1 金币</color>，消耗随持续时间增加。",
 	
 	"EQUIPMENT_PASSIVEHEALING_NAME": "朽木精灵",
 	"EQUIPMENT_PASSIVEHEALING_PICKUP":"获得持续治疗，激活以跟随一位友军。",
 	"EQUIPMENT_PASSIVEHEALING_DESC":"生成一只朽木精灵并跟随你，给予你 <style=cIsHealing>每秒 1.5% 最大生命值</style> 的治疗，可以将其给予队友为其恢复 <style=cIsHealing>10% 最大生命值</style>。",
 
 	"EQUIPMENT_AFFIXRED_NAME": "卓越之烈火",
-   	"EQUIPMENT_AFFIXRED_PICKUP": "化身烈焰之躯！",
+   	"EQUIPMENT_AFFIXRED_PICKUP": "化身 <color=#FF0000>烈焰之躯</color>！",
 	"EQUIPMENT_AFFIXRED_DESC": "化身 <color=#FF0000>烈焰之躯</color>！移动时留下火焰痕迹，<style=cIsDamage>点燃</style> 接触到的敌人。所有攻击也会 <style=cIsDamage>点燃</style> 敌人。",
 
 	"EQUIPMENT_AFFIXBLUE_NAME": "寂静之雷袭",
-	"EQUIPMENT_AFFIXBLUE_PICKUP": "化身雷电之躯！",
+	"EQUIPMENT_AFFIXBLUE_PICKUP": "化身 <color=#0096FF>雷电之躯</color>！",
 	"EQUIPMENT_AFFIXBLUE_DESC": "化身 <color=#0096FF>雷电之躯</color>！将 <style=cIsHealing>生命值的50%</style> 转化为 <style=cIsHealing>护盾</style>,击中敌人时附加 <style=cIsDamage>闪电炸弹</style>。",
 
 	"EQUIPMENT_AFFIXGOLD_NAME": "集结之贪婪",
-	"EQUIPMENT_AFFIXGOLD_PICKUP": "化身幸运之躯！",
+	"EQUIPMENT_AFFIXGOLD_PICKUP": "化身 <color=#FCFF00>幸运之躯</color>！",
 	"EQUIPMENT_AFFIXGOLD_DESC": "化身 <color=#FCFF00>幸运之躯</color>！",
 
 	"EQUIPMENT_AFFIXWHITE_NAME": "拥怀之凛冽",
-	"EQUIPMENT_AFFIXWHITE_PICKUP": "化身冰霜之躯",
+	"EQUIPMENT_AFFIXWHITE_PICKUP": "化身 <color=#C2F3FF>冰霜之躯</color>！",
 	"EQUIPMENT_AFFIXWHITE_DESC": "化身 <color=#C2F3FF>冰霜之躯</color>！<style=cIsDamage>减速</style> 攻击到的敌人。",
 
 	"EQUIPMENT_BURNNEARBY_NAME" : "地狱火酊剂",
@@ -85,10 +85,10 @@
 
 	"EQUIPMENT_SCANNER_NAME": "雷达扫描仪",
 	"EQUIPMENT_SCANNER_PICKUP": "揭示周围所有可交互物体。",
-	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>揭示</style> 500米内所有可交互物品，持续 <style=cIsUtility>10 秒</style>。",
+	"EQUIPMENT_SCANNER_DESC": "<style=cIsUtility>揭示</style> 500 米内所有可交互物品，持续 <style=cIsUtility>10秒</style>。",
 	
 	"EQUIPMENT_CRIPPLEWARD_NAME" : "悲痛的雕像",
 	"EQUIPMENT_CRIPPLEWARD_PICKUP" : "扔下一个使周围所有人陷入虚弱的雕像……可以再次拾取。",
-	"EQUIPMENT_CRIPPLEWARD_DESC" :  "所有范围内人物将被 <style=cIsUtility>减速 50%</style> 并且 <style=cIsDamage>减少 20护甲</style>。",
+	"EQUIPMENT_CRIPPLEWARD_DESC" :  "所有范围内人物将被 <style=cIsUtility>减速 50%</style> 并且 <style=cIsDamage>减少20护甲</style>。",
 	}
 }

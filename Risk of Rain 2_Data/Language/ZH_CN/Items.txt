@@ -5,7 +5,7 @@
 	"EQUIPMENT_PICKUP_CONTEXT" : "捡起 {0}",
 	"EQUIPMENT_SWAP_CONTEXT" : "更换为 {0}",
 
-	"ITEM_CLOVER_NAME": "57叶幸运草",
+	"ITEM_CLOVER_NAME": "57 叶幸运草",
 	"ITEM_CLOVER_PICKUP": "运气站在你这边。",
 	"ITEM_CLOVER_DESC": "所有随机触发效果增加 <style=cIsUtility>+1 <style=cStack>(每个道具递 +1)</style> 次额外触发判断以提高成功触发几率</style>。", 
 
@@ -22,7 +22,7 @@
 	"ITEM_BEHEMOTH_PICKUP": "你所有的攻击都会爆炸！",
 	"ITEM_BEHEMOTH_DESC": "你的所有攻击会产生一个半径 <style=cIsDamage>4米 </style> <style=cStack>(每个道具递 +1.5米)</style> 的 <style=cIsDamage>爆炸</style> ，给予范围内敌人 <style=cIsDamage>60% 伤害</style> 。", 
 
-	"ITEM_MISSILE_NAME": "Mk. 1型空对地导弹",
+	"ITEM_MISSILE_NAME": "Mk. 1 型空对地导弹",
 	"ITEM_MISSILE_PICKUP": "有几率发射一枚导弹。",
 	"ITEM_MISSILE_DESC": "击中敌人时有 <style=cIsDamage>10%</style> 几率发射一枚导弹造成 <style=cIsDamage>300%</style> <style=cStack>(每个道具递 +300%)</style> 伤害。", 
 
@@ -31,7 +31,7 @@
 	"ITEM_EXPLODEONDEATH_DESC": "击杀敌人时，生成一道半径 <style=cIsDamage>12米</style> <style=cStack>(每个道具递 +2.4米)</style> 的 <style=cIsDamage>岩浆柱</style> ，并造成 <style=cIsDamage>350%</style> <style=cStack>(每个道具递 +280% )</style> 伤害。", 
 
 	"ITEM_DAGGER_NAME": "仪式匕首",
-	"ITEM_DAGGER_PICKUP": "击杀敌人后释放<color=#ff429f>自动追踪的匕首</color>。",
+	"ITEM_DAGGER_PICKUP": "击杀敌人后释放 <color=#ff429f>自动追踪的匕首</color>。",
 	"ITEM_DAGGER_DESC": "击杀敌人后释放 <style=cIsDamage>3</style> <style=cStack>(每个道具递 +3)</style> 把 <style=cIsDamage>自动跟踪的匕首</style> ，每把造成 <style=cIsDamage>150%</style> 基础伤害。", 
 	"ITEM_DAGGER_LORE": "硫磺的味道弥漫在空气中。\r\n\r\n‘哦，天哪，它们离我们太近了，它们已经抓住Hitchcock了，哦我的老天。’\r\n\r\n‘找到那个……那把匕首，就在我的背包里，快点’\r\n\r\n‘我没看到……哦我找到了！这是什么鬼，这玩意不会有用的，Marion。我到底要怎么用这玩意去……？哦天哪！它们把他撕成了碎片……’\r\n\r\n‘你必须……必须要杀掉我，啊！快杀掉我，用这个杀掉我！’\r\n\r\n‘什么？你在说什么鬼东西？’\r\n\r\n‘是的，这是唯一的方法了，快点！’\r\n\r\n‘你在说什么鬼话？快停下来！’\r\n\r\n‘这是拥有魔力的小刀，它会保护我们，她会保佑我们的。但在那之前你必须要用这把刀杀掉我。’\r\n\r\n‘不，不要让我来做这件事，哦我的天哪。’\r\n\r\n‘你……必须这么，我已经见过这个东西的效果了，这是唯一的方法——它们已经靠的很近了，你必须用它杀了我，快杀了我！’\r\n\r\n‘对不起，Marion，我真的很抱歉，我不觉着……’\r\n\r\n‘快点！现在就杀了我！现在马上杀掉我！快！杀！掉！我！杀……’",
 	
@@ -40,8 +40,8 @@
 	"ITEM_TOOTH_DESC": "击杀敌人会掉落一个 <style=cIsHealing>治疗球</style> ，可以恢复 <style=cIsHealing>4 <style=cStack>(每个道具递 +4)</style> 生命值</style>。", 
 
 	"ITEM_CRITGLASSES_NAME": "制镜师的眼镜",
-	"ITEM_CRITGLASSES_PICKUP": "有几率造成'致命一击'，造成双倍伤害。",
-	"ITEM_CRITGLASSES_DESC": "你的攻击有 <style=cIsDamage>10%</style> <style=cStack>(每个道具递 +10%)</style> 几率触发 <style=cIsDamage>'致命一击'</style> 以造成 <style=cIsDamage>双倍伤害</style>。", 
+	"ITEM_CRITGLASSES_PICKUP": "有几率触发‘致命一击’，造成双倍伤害。",
+	"ITEM_CRITGLASSES_DESC": "你的攻击有 <style=cIsDamage>10%</style> <style=cStack>(每个道具递 +10%)</style> 几率触发 <style=cIsDamage>‘致命一击’</style> 以造成 <style=cIsDamage>双倍伤害</style>。", 
 
 	"ITEM_HOOF_NAME": "保罗的山羊蹄",
 	"ITEM_HOOF_PICKUP": "移动得更快。",
@@ -76,8 +76,8 @@
 	"ITEM_CROWBAR_DESC": "对当前生命值 <style=cIsDamage>高于90%</style> 的敌人攻击会造成 <style=cIsDamage>150%</style> <style=cStack>(每个道具递 +30%)</style> 的伤害。",   
 
 	"ITEM_ATTACKSPEEDONCRIT_NAME": "狩猎天性",
-	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "'致命一击'将会提升攻击速度，累计3次。",
-	"ITEM_ATTACKSPEEDONCRIT_DESC": "每次 <style=cIsDamage>'致命一击'</style> 将会提升 <style=cIsDamage>10%</style> 的 <style=cIsDamage>攻击速度</style>，最大不超过 <style=cIsDamage>30% <style=cStack>(每个道具递 +30%)</style> 攻击速度</style>。",
+	"ITEM_ATTACKSPEEDONCRIT_PICKUP": "‘致命一击’将会提升攻击速度，累计3次。",
+	"ITEM_ATTACKSPEEDONCRIT_DESC": "每次 <style=cIsDamage>‘致命一击’</style> 将会提升 <style=cIsDamage>10%</style> 的 <style=cIsDamage>攻击速度</style>，最大不超过 <style=cIsDamage>30% <style=cStack>(每个道具递 +30%)</style> 攻击速度</style>。",
 	"ITEM_ATTACKSPEEDONCRIT_LORE": "流言蜚语在恐慌的人群中快速传播着，人们都在讨论着他们下水道里那令人畏惧的蜥蜴人，虽然只是简单的传说，但却使这平原上的所有花草石木为之颤抖，恐惧在森林间、山谷中不断传播着\r\n\r\n一个恶魔，自天空坠落，其强大程度足以碾压Providence与他手下的那些菜鸟，虽然同样只有双手双脚，但却它有着22只永不闭拢的深红色的眼睛。\n",
 
 	"ITEM_BLEEDONHIT_NAME": "三尖匕首",
@@ -94,8 +94,8 @@
 	"ITEM_FALLBOOTS_LORE": "‘从历史角度来说，在低重力星球上的居民，比如水星，如果移居到其他星球上会有很多问题。骨密度较低的水星人（左图）在其他重力较高的星球居住通常会在一周内摔断骨头。小型行星舰队与殖民船只上的人在从太空返回居住星球时一般也有类似的问题。\r\n\r\n动能转化环（上图）这一发明通过将多余的重力转化为声光热来减少此类问题，借助此发明，水星的居民得以安全地移居其他星球。’\r\n\r\n——水星历史博物馆。",
 
 	"ITEM_COOLDOWNONCRIT_NAME": "邪恶指环",
-	"ITEM_COOLDOWNONCRIT_PICKUP": "'致命一击'减少1秒冷却时间。",
-	"ITEM_COOLDOWNONCRIT_DESC": "提高 <style=cIsDamage>5% 致命一击'几率</style>。 <style=cIsDamage>'致命一击'</style> 减少 <style=cIsUtility>1</style> 秒所有的 <style=cIsUtility>冷却时间</style>。",
+	"ITEM_COOLDOWNONCRIT_PICKUP": "‘致命一击’减少1秒冷却时间。",
+	"ITEM_COOLDOWNONCRIT_DESC": "提高 <style=cIsDamage>5% ‘致命一击’几率</style>。 <style=cIsDamage>‘致命一击’</style> 减少 <style=cIsUtility>1</style> 秒所有的 <style=cIsUtility>冷却时间</style>。",
 
 	"ITEM_WARDONLEVEL_NAME": "战旗",
 	"ITEM_WARDONLEVEL_PICKUP": "在升级时会在地上插上战旗,为你提高能力。",
@@ -105,14 +105,14 @@
 	"ITEM_WARCRYONMULTIKILL_PICKUP": "在快速连续击杀3个敌人后进入狂暴状态。",
 	"ITEM_WARCRYONMULTIKILL_DESC": "在 <style=cIsDamage>1</style> 秒内 <style=cIsDamage>击杀3个敌人</style> 将获得 <style=cIsDamage>6秒</style> <style=cStack>(每个道具递 +4秒)</style> 的 <style=cIsDamage>狂暴状态</style>，增加 <style=cIsUtility>50%</style> 的 <style=cIsUtility>移动速度</style> 与 <style=cIsDamage>100%</style> 的 <style=cIsDamage>攻击速度</style>。",
 
-	"ITEM_PHASING_NAME": "旧战隐形装置",
+	"ITEM_PHASING_NAME": "老旧式战争隐秘装置",
 	"ITEM_PHASING_PICKUP": "当受到大量伤害时自动隐身。",
 	"ITEM_PHASING_DESC": "受到攻击时有几率提供 <style=cIsUtility>3秒</style> <style=cStack>(每个道具递 +1.5秒)</style> 的 <style=cIsUtility>40% 移动速度</style> 加成与 <style=cIsUtility>隐身效果</style>，受到的伤害越高触发几率越高。",
 	"ITEM_PHASING_LORE": "送货订单：[杂物] 古战争文物 (47件)\r\n跟踪编码：01××××××\r\n预计送达日期：2056年8月13日\r\n送货优先级：优先派送\r\n送货地址：地球，新奥尔良，国家战争博物馆\r\n送货详情：\r\n\r\n我们已经尽力将当地的所有战争文物收集起来了，这里有好多有趣的东西：老式步枪、压缩饼干、密码册，我们甚至还发现了一个状态极佳的隐形装置原型，把它放在你的展览上一定能惊艳全场。\r\n\r\n不过我们这边出了点小问题，我们的货车撞到了坑里，然后火车把所有的货物都撒出去了，然后，它看起来确实是进入了隐形状态，我猜大概是遇到了一些奇怪的短路还是什么，总之我们现在没有办法确认这个隐形设备的具体位置了，它应该就在我邮给你的这其中一个盒子里面。\r\n希望我们的佣金里包含着这个玩意。\r\n",
 	
 	"ITEM_HEALONCRIT_NAME": "收割者镰刀",
-	"ITEM_HEALONCRIT_PICKUP": "'致命一击'回复你的生命值。",
-	"ITEM_HEALONCRIT_DESC": "增加 <style=cIsDamage>5% '致命一击'几率</style>，<style=cIsDamage>'致命一击'</style> <style=cIsHealing>恢复</style> <style=cIsHealing>8</style> <style=cStack>(每个道具递 +4)</style> 点 <style=cIsHealing> 生命值</style>。",
+	"ITEM_HEALONCRIT_PICKUP": "‘致命一击’回复你的生命值。",
+	"ITEM_HEALONCRIT_DESC": "增加 <style=cIsDamage>5% ‘致命一击’几率</style>，<style=cIsDamage>‘致命一击’</style> <style=cIsHealing>恢复</style> <style=cIsHealing>8</style> <style=cStack>(每个道具递 +4)</style> 点 <style=cIsHealing> 生命值</style>。",
 
 	"ITEM_HEALWHILESAFE_NAME": "谨慎的蛞蝓",
 	"ITEM_HEALWHILESAFE_PICKUP": "脱离战斗后快速恢复生命值。",
@@ -181,8 +181,8 @@
 	"ITEM_GOLDONHIT_DESC": "<style=cIsUtility>30%</style>×伤害系数（伤害系数请参考‘震撼手雷’） 几率在攻击敌人时获得 <style=cIsUtility>2×道具数×难度系数</style> 金钱，而自身受到伤害时，系统会计算 道具数量×当前金钱量×计算后扣除的生命值/最大生命值 与 未经过道具Buff计算的原始伤害数值×道具数量 两个数值，取最大的数值作为扣除金钱量（也就是说就算用熊挡住了200伤害，但还是会扣200×道具数的金钱）",
 
 	"ITEM_SHIELDONLY_NAME": "超凡卓越",
-	"ITEM_SHIELDONLY_PICKUP": "将所有生命值全部转换为护盾，并增加最大生命上限。",
-	"ITEM_SHIELDONLY_DESC": "保留 <style=cIsHealing>1点生命值</style> ，并将其余部分 <style=cIsHealing>转换</style> 为 <style=cIsHealing>可再生护盾</style>。同时 <style=cIsHealing>给予 50% <style=cStack>(每个道具递 +25%)</style> 最大生命</style> 加成。",
+	"ITEM_SHIELDONLY_PICKUP": "增加最大生命值上限，并将所有生命值全部转换为护盾。",
+	"ITEM_SHIELDONLY_DESC": "<style=cIsHealing>给予 50% <style=cStack>(每个道具递 +25%)</style> 最大生命</style> 加成。同时保留 <style=cIsHealing>1点生命值</style> ，并将其余部分 <style=cIsHealing>转换</style> 为 <style=cIsHealing>可再生护盾</style>。",
 	"ITEM_SHIELDONLY_LORE": "你一直在尽全力去生存，你认为你自己学的足够快，你总觉着自己足够幸运，你一直在体验似曾相识的情景，如果你理解了我说的话，不要继续读下去。\r\n你在控制着自己的信仰，你在陌生的环境里寻找熟悉感，你的直觉依赖于从未有过的经历，你在思考你过去的人生，如果你理解了我说的话，不要继续读下去。\r\n你发现你自己在寻找一些从未有过的东西，你失去了你从未拥有过的东西，你扮演着并非实际存在的角色，你一直在体验似曾相识的感觉，如果你理解了我说的话，不要继续读下去。\r\n你看穿了我的想法，因为你已经将这些信息消化掉了，很快[观察者们]将会把这些信息抹除掉。如果你读到了这里，我恐怕已经死去很久了，但从另一方面来说，你又把我释放了出来，我已不存在于我的世界，没有任何证据证明我曾存在过，但我现在存在于你的世界里了。我从我的苦难之中逃了出来，请保护我的安全，我希望你永远不要理解这些。\r\n",
 
 	"ITEM_ALIENHEAD_NAME": "外星人头颅",
@@ -222,7 +222,7 @@
 	"ITEM_TREASURECACHE_LORE" : "送货订单：钥匙\r\n跟踪编码：12××××××\r\n预计送达日期：2056年1月21日\r\n送货优先级：标准\r\n送货地址：地球，德鲁伊山社区，|||||||\r\n送货详情：\r\n\r\n我完全不相信UESC，他们的保险箱？那就是个辣鸡，到处都是数据溢出和后门，我有个表兄在他们工厂干活，他们的箱子老是发生各种奇奇怪怪的故障。我在拍卖会上见过很多他们的箱子，大多是别人不小心丢了还没人认领的，你只要愿意付钱，它就能当场自己打开，这不来搞笑的吗？\r\n\r\n不管怎样，我要给你的不过是我之前说的我要做的事，但它实在太重要以至于我不得不让它离UESC的那些破安保远一点，所以我把这个钥匙给了你，并把上锁的箱子给了Margaret，就像是双重认证那样，一旦你收到钥匙就回信给我。\r\n",
 	
 	"ITEM_BOSSDAMAGEBONUS_NAME": "穿甲弹",
-	"ITEM_BOSSDAMAGEBONUS_PICKUP": "攻击对 <style=cIsDamage>BOSS</style> 造成 <style=cIsDamage>额外伤害</style>。",
+	"ITEM_BOSSDAMAGEBONUS_PICKUP": "攻击时对 BOSS 造成额外伤害。",
 	"ITEM_BOSSDAMAGEBONUS_DESC": "对 <style=cIsUtility>BOSS</style> 额外造成 <style=cIsDamage>20%</style> <style=cStack>(每个道具递 +10%)</style> 伤害。",
 	
 	"ITEM_SPRINTARMOR_NAME": "玫瑰圆盾",
@@ -259,9 +259,9 @@
 	"ITEM_UTILITYSKILLMAGAZINE_DESC": "增加 <style=cIsUtility>+2</style> <style=cStack>(每个道具递 +2)</style> 次你 <style=cIsUtility>通用技能</style> 的充能。<style=cIsUtility>减少<style=cIsUtility>33%</style> 的通用技能冷却时间</style>。",
 	"ITEM_UTILITYSKILLMAGAZINE_LORE" : "送货订单：样品XAS4-49\r\n跟踪编码：342××××××\r\n预计送达日期：2056年12月29日\r\n送货优先级：优先派送\r\n送货地址：火星，33层，Geshka塔楼\r\n送货详情：\r\n\r\n自从上次通讯以来，我们对‘强光’的研究愈加深入。\r\n\r\n关于这个喷射引擎，我们最初的想法是将其用作大型HL设备的主要散热器，比如我们的桥梁与屏障。然而，如果就像我们平时那样将它安放到可快速降解能源上时，我们就可以得到趋近完美的半速粒子的发射速率。换一种说法就是……能大幅度提高燃料利用率。\r\n\r\n它的设计是非常浅显易懂的，但我还是要重申一点：在使用它时请务必远离HL排气端。它的排气设计实在是太暴力了，所以它只能用于固态且非常稳定的能源上。\r\n\r\n",
 	
-	"ITEM_HEADHUNTER_NAME": "秃鹫艉迹",
-	"ITEM_HEADHUNTER_PICKUP": "临时偷取精英怪的能力。",
-	"ITEM_HEADHUNTER_DESC": "获得一个刚刚被杀死精英怪物的 <style=cIsDamage>能力</style> <style=cIsDamage>8秒</style> <style=cStack>(每个道具递 +5秒)</style>。",
+	"ITEM_HEADHUNTER_NAME": "秃鹫尾迹",
+	"ITEM_HEADHUNTER_PICKUP": "临时窃取精英怪的能力。",
+	"ITEM_HEADHUNTER_DESC": "获得一个刚刚被杀死精英怪物的 <style=cIsDamage>特殊能力</style>,持续 <style=cIsDamage>8秒</style> <style=cStack>(每个道具递 +5秒)</style>。",
 	
 	"ITEM_KILLELITEFRENZY_NAME": "脑颅秸秆",
 	"ITEM_KILLELITEFRENZY_PICKUP": "击杀精英怪后，技能在一段时间内无冷却时间。",
