@@ -14,7 +14,7 @@
 	"EQUIPMENT_FRUIT_DESC": "立即恢复 <style=cIsHealing>50% 的最大生命值</style>。",
 
 	"EQUIPMENT_METEOR_NAME": "璀璨的陨石",
-	"EQUIPMENT_METEOR_PICKUP": ""召唤从天而降的陨石，<color=#FF7F7F>对敌我双方均造成伤害</color>。 ",
+	"EQUIPMENT_METEOR_PICKUP": "召唤从天而降的陨石，<color=#FF7F7F>对敌我双方均造成伤害</color>。 ",
 	"EQUIPMENT_METEOR_DESC": "召唤 <style=cIsDamage>从天而降的陨石</style>，每次对所有单位造成 <style=cIsDamage>600% 的轰炸伤害</style>，持续20秒。",
 
 	"EQUIPMENT_SOULJAR_NAME": "灵魂罐",
@@ -76,7 +76,7 @@
 
 	"EQUIPMENT_BURNNEARBY_NAME" : "地狱火酊剂",
 	"EQUIPMENT_BURNNEARBY_PICKUP" : "灼伤周围的一切……<color=#FF7F7F>包括你和你的队友</color>。\n",
-	"EQUIPMENT_BURNNEARBY_DESC" : "对 8米内的所有敌我单位每秒造成你 <style=cIsHealing> 5%的最大生命值</style> 的 <style=cIsDamage>灼伤伤害</style>，灼伤对友方造成 <style=cIsDamage>一半</style> 的伤害，对敌方造成 <style=cIsDamage>24 倍的</style> 的伤害 。",
+	"EQUIPMENT_BURNNEARBY_DESC" : "对8米内的所有敌我单位每秒造成你 <style=cIsHealing> 5%的最大生命值</style> 的 <style=cIsDamage>灼伤伤害</style>，灼伤对友方造成 <style=cIsDamage>一半</style> 的伤害，对敌方造成 <style=cIsDamage>24 倍的</style> 的伤害 。",
 	"EQUIPMENT_BURNNEARBY_LORE" : "<style=cMono>\n========================================\n====   MyBabel 机 器 语 言 翻 译 程 序   ====\n====     [Version 12.45.1.009 ]   ======\n========================================\n正 在 尝 试 翻 译 … <100000000 轮循环>\n正 在 尝 试 翻 译 … <1453461 轮循环>\n翻 译 完 成！\n显 示 结 果 吗？Y/N\nY\n================================</style>\n点燃 [Grix]，让我们测一下时间 \n.....\n.....\n.....\n...\n..\n.\n\n太分散了，我从底部刮下混合物，它们应该只是一些沉淀\n点燃 [Ouju]，让我们测一下时间\n....\n...\n...\n..\n.\n\n太平缓了，比率也许可以再提高一些。我将混合物平铺开来。黑色腐烂的 [Ouju] 开始在我脚下流动\n点燃 [Rhisko]，我来测一下时间\n...\n.\n\n我这次提高了Tetrafoil的比率。我将混合物调制饱和，腐臭味在室内弥漫，灰烬飘舞\n...\n点燃我，让<他>来测量我的时间\n...\n...\n...\n..\n..\n..\n.\n\n<真完美>\n<style=cMono>\n================================\n",
 
 	"EQUIPMENT_SOULCORRUPTOR_NAME": "EQUIPMENT_SOULCORRUPTOR_NAME",
