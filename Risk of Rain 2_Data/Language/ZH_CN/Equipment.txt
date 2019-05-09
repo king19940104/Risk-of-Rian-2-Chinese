@@ -30,8 +30,8 @@
 	"EQUIPMENT_GHOSTGUN_DESC": "幽灵枪描述。",
 
 	"EQUIPMENT_CRITONUSE_NAME": "弱点目镜",
-	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内提升100%的‘致命一击’几率。",
-	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage> 提升100% 的‘致命一击’几率</style>，持续8秒。",
+	"EQUIPMENT_CRITONUSE_PICKUP": "在8秒内提升100%的［致命一击］几率。",
+	"EQUIPMENT_CRITONUSE_DESC": "<style=cIsDamage> 提升100% 的［致命一击］几率</style>，持续8秒。",
 
 	"EQUIPMENT_DRONEBACKUP_NAME": "紧急支援",
 	"EQUIPMENT_DRONEBACKUP_PICKUP": "呼叫无人机支援，持续25秒。",
@@ -44,7 +44,7 @@
 
 	"EQUIPMENT_JETPACK_NAME": "乳白蝶蛹",
 	"EQUIPMENT_JETPACK_PICKUP": "使你暂时可以飞行。",
-   	"EQUIPMENT_JETPACK_DESC": "张开翅膀以 <style=cIsUtility>飞行15秒</style>。 效果持续时间内给予 <style=cIsUtility>+20% 移动速度</style>。 ",
+   	"EQUIPMENT_JETPACK_DESC": "张开翅膀以 <style=cIsUtility>飞行15秒</style>。 效果持续时间内给予 <style=cIsUtility>20% 移动速度</style>。 ",
 
 	"EQUIPMENT_LIGHTNING_NAME": "皇家电容器",
 	"EQUIPMENT_LIGHTNING_PICKUP": "释放一道闪电劈中目标怪物。",

@@ -4,9 +4,9 @@
 	//[NULL]
 	"NULL_SUBTITLE": "倾巢而出",
 
-	"ELITE_MODIFIER_FIRE": "烈焰{0}",
-	"ELITE_MODIFIER_LIGHTNING": "超负荷{0}",
-	"ELITE_MODIFIER_ICE": "冰霜{0}",
+	"ELITE_MODIFIER_FIRE": "烈焰·{0}",
+	"ELITE_MODIFIER_LIGHTNING": "超负荷·{0}",
+	"ELITE_MODIFIER_ICE": "冰霜·{0}",
 
 	//[CHARACTER]
 	"COMMANDO_BODY_NAME": "突击步兵",
