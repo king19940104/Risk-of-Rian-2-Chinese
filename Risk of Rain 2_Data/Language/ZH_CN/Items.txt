@@ -209,7 +209,7 @@
 	"ITEM_SPRINTBONUS_LORE" : "送货订单：NR-G 运动苏打饮料（400罐）\r\n跟踪编码：49××××××\r\n预计送达日期：2056年3月12日\r\n送货优先级：标准\r\n送货地址：金星，脊湖，威尼斯卫生公共服务中心\r\n送货详情：\r\n\r\n啊，这是嗯……几星期前在Majora Minora的灾难中，人们混合制作的能量饮料。\r\n\r\n对事件中的一些受害者进行的快速毒品检测显示嗯……里面包含各种各种的毒品，没开玩笑，美沙酮，苯环定，四氢大麻酚，各种阿片类，苯二氮卓类，巴比妥类，安非他命……这张单子根本列都列不完。\r\n\r\nRadical Drinks坚持认为这当中不存在他们生产的运动饮料，我觉着这完全不可能，也许他们真的很懂如何在Violet Heights开Party对吧？\r\n",
 	
 	"ITEM_SECONDARYSKILLMAGAZINE_NAME": "备用弹夹",
-	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "为你的 次要技能 增加一次额外充能。",
+	"ITEM_SECONDARYSKILLMAGAZINE_PICKUP": "为你的<style=cIsUtility>次要技能</style>增加一次额外充能。",
 	"ITEM_SECONDARYSKILLMAGAZINE_DESC": "你的 <style=cIsUtility>次要技能</style> 增加 <style=cIsUtility>1</style> <style=cStack>(每个道具递 +1)</style> 次额外充能。",
 	
 	"ITEM_STICKYBOMB_NAME": "粘性炸弹",
@@ -230,7 +230,7 @@
 	"ITEM_SPRINTARMOR_DESC": "<style=cIsUtility>冲刺</style> 时 <style=cIsHealing>提高 30 <style=cStack>(每个道具递 +30)</style> 点护甲</style>。",
 	"ITEM_SPRINTARMOR_LORE" : "送货订单：如果你收到了就告我们一声，我发现……\r\n跟踪编码：53××××××\r\n预计送达日期：2056年5月22日\r\n送货优先级：优先派送\r\n送货地址：海王星，极地，探索中心\r\n送货详情：\r\n\r\n顺带一提你妈妈应该给了你另一个包裹，如果你收到了就告我们一声。\r\n\r\n爸爸\r\n",
 	
-	"ITEM_ELEMENTALRINGS_NAME" : "『克加罗』与『鲁纳尔德』的箍环",
+	"ITEM_ELEMENTALRINGS_NAME" : "『卡迦罗』与『鲁纳尔德』的箍环",
 	"ITEM_ICERING_NAME" : "『鲁纳尔德』的箍环",
 	"ITEM_ICERING_PICKUP" : "攻击敌人有几率生成爆裂冰霜。",
 	"ITEM_ICERING_DESC" : "击中有 <style=cIsDamage>8%</style> 几率对敌人释放一个 <style=cIsDamage>爆裂冰霜</style>, <style=cIsUtility>减缓</style> <style=cIsUtility>80%</style> 的速度并造成 <style=cIsDamage>250%</style> 的伤害 <style=cStack>(每个道具递 +125%)</style>。\n\n<style=cStack>内部数据实际几率：8% ×伤害系数</style>\n\r\n\r 伤害系数请参考“震撼手雷”",
