@@ -11,26 +11,33 @@
 
 UCS2字符集字库 By _喵Plus_
 
-安装方式：
+**下载地址：**
 --
-将Risk of Rain 2_Data复制至游戏目录下覆盖
+    http://jianjam.ys168.com/
 
 
-
-切换至英文：
+**安装方式**：
 --
-进入Risk of Rain 2_Data\Config，用autoexec英文.cfg替换autoexec.cfg（如果是下面的MOD抵触情况请替换根目录的文件）
+    一、适用于之前未安装过任何汉化的游戏客户端：
+        下载2个压缩包并解压得到 Risk of Rain 2_Data 文件夹， 覆盖游戏根目录下所有文件。
+
+    二、适用于之前安装过贴吧 喵plus 的汉化的游戏客户端：
+        解压缩 ZH_CN 文件夹内的所有 txt 文本覆盖游戏根目录下 Risk of Rain 2_Data\Language\ZH_CN 内所有 txt 文件。
 
 
-
-完全卸载汉化
+**切换至英文**：
 --
-首先按上面的方法切换至英文版打开一次游戏，然后校验文件完整性，删除Risk of Rain 2_Data目录下的Font与Font.manifest，删除Risk of Rain 2_Data\Config下的autoexec.cfg，删除Risk of Rain 2_Data\Language里面的ZN_CN文件夹，卸载完成
+    进入Risk of Rain 2_Data\Config，用autoexec英文.cfg替换autoexec.cfg（如果是下面的MOD抵触情况请替换根目录的文件）
 
 
-注意事项
+**完全卸载汉化**
 --
-使用怪物掉落MOD或其他同一作者的MOD导致语言变为英文的解决方案：
-请将完整汉化补丁压缩包内\Risk of Rain 2_Data\Config目录下的autoexec.cfg复制至游戏根目录下
-原因是该MOD作者将原本从Config目录读取的配置文件修改成了从游戏根目录读取，因而导致我的autoexec语言配置文件失效
-当然也可以手动在游戏目录下面找到config.cfg直接将里面language后面的东西改成ZH_CN
+    首先按上面的方法切换至英文版打开一次游戏，然后校验文件完整性，删除Risk of Rain 2_Data目录下的Font与Font.manifest，删除Risk of Rain 2_Data\Config下的autoexec.cfg，删除Risk of Rain 2_Data\Language里面的ZN_CN文件夹，卸载完成
+
+
+**注意事项**
+--
+    使用怪物掉落MOD或其他同一作者的MOD导致语言变为英文的解决方案：
+    请将完整汉化补丁压缩包内\Risk of Rain 2_Data\Config目录下的autoexec.cfg复制至游戏根目录下
+    原因是该MOD作者将原本从Config目录读取的配置文件修改成了从游戏根目录读取，因而导致我的autoexec语言配置文件失效
+    当然也可以手动在游戏目录下面找到config.cfg直接将里面language后面的东西改成ZH_CN
