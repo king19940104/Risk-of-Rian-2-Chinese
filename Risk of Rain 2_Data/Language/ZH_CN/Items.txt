@@ -214,7 +214,7 @@
 	
 	"ITEM_STICKYBOMB_NAME": "粘性炸弹",
 	"ITEM_STICKYBOMB_PICKUP": "有几率在攻击时将一枚炸弹粘在敌人上。",
-	"ITEM_STICKYBOMB_DESC": "击中敌人时有 <style=cIsDamage>5%</style> <style=cStack>(每个道具递 +2.5%)/style> 几率在其身上附加一个 <style=cIsDamage>炸弹</style> , <style=cIsDamage>炸弹引爆</style> 造成 <style=cIsDamage>250%</style> <style=cStack>(每个道具递 +125%)</style> 伤害。",
+	"ITEM_STICKYBOMB_DESC": "击中敌人时有 <style=cIsDamage>5%</style> <style=cStack>(每个道具递 +2.5%)</style> 几率在其身上附加一个 <style=cIsDamage>炸弹</style> , <style=cIsDamage>炸弹引爆</style> 造成 <style=cIsDamage>250%</style> <style=cStack>(每个道具递 +125%)</style> 伤害。",
 	
 	"ITEM_TREASURECACHE_NAME": "生锈的钥匙",
 	"ITEM_TREASURECACHE_PICKUP": "找到上锁的破箱子，里面会有好东西！",
