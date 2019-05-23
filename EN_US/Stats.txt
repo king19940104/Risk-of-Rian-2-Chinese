@@ -7,7 +7,11 @@
 		"STAT_POINTS_FORMAT": "<color=#FFFF7F>{0}</color> pts.",
 		"STAT_CLASS_NAME_FORMAT": "Class: <color=#FFFF7F>{0}</color>",
 		"STAT_KILLER_NAME_FORMAT": "Killed By: <color=#FFFF7F>{0}</color>",
-		
+		"STAT_TITLE" : "Stats",
+		"STAT_TOTAL" : "Total",
+		"STAT_CONTINUE" : "Continue",
+		"STAT_INFO" : "Info",
+
 		"STATNAME_TOTALTIMEALIVE": "Time Alive",
 		"STATNAME_TOTALKILLS": "Kills",
 		"STATNAME_TOTALDEATHS": "Deaths",

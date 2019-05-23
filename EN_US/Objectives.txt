@@ -1,6 +1,7 @@
 {
 	"strings":
 	{
+		"OBJECTIVE_TITLE" : "Objective:",
 		"OBJECTIVE_FIND_TELEPORTER": "Find and activate the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style>",
 		"OBJECTIVE_CHARGE_TELEPORTER": "Charge the <style=cDeath>Teleporter <sprite name=\"TP\" tint=1></style> ({0}%)",
 		"OBJECTIVE_CHARGE_TELEPORTER_OOB": "Enter the <style=cDeath>Teleporter zone!</style> ({0}%)",

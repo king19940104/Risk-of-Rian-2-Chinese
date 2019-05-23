@@ -1,6 +1,7 @@
 {
 	strings:
 	{
+		"NEW_UNLOCKABLE" : "NEW",
 		"LOCKED" : "LOCKED",
 		"UNLOCKED_FORMAT" : "Unlocked: {0}",
 		

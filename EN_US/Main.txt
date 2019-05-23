@@ -2,6 +2,8 @@
 	"strings":
 	{
 		"GAME_TITLE": "Spacegame 2017",
+		"DEFAULT_FONT": "TmpFonts/Bombardier/tmpBombDropShadow",
+		
 		"LOREM" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.", 
 		"TITLE_PROFILE": "Profile: {0}",
 		"TITLE_SINGLEPLAYER": "Singleplayer",
@@ -37,6 +39,9 @@
 		"WEEKLY_RUN_NO_ENTRY" : "You must complete a Prismatic Trial to see the time of other users.",
 		"WEEKLY_RUN_NEXT_CYCLE_COUNTDOWN_FORMAT" : "Prismatic Trials - Next seed in {0:00}:{1:00}:{2:00}",
 		"WEEKLY_RUN_DESCRIPTION" :	"'Prismatic Trials' allow you to compete with other players online for the fastest time, featuring an identical game world for all players.\n\nThe <style=cWorldEvent>top 10%</style> of players will be rewarded with literally nothing for now.",
+		"WEEKLY_RUN_RANK" : "Rank",
+		"WEEKLY_RUN_NAME" : "Name",
+		"WEEKLY_RUN_TIME" : "Time",
 
 		"CHARSELECT_RETURN": "Back",
 		"DIFFICULTY_EASY_NAME": "Drizzle",
@@ -112,5 +117,19 @@
 		"LEADERBOARDS" : "Leaderboards",
 		"LEADERBOARDS_GLOBAL" : "GLOBAL",
 		"LEADERBOARDS_FRIENDS" : "FRIENDS",
+
+		"PROFILE_TITLE" : "Select a Profile",
+		"PROFILE_CREATE_NEW" : "Create New..."
+		"PROFILE_ENTER" : "Enter",
+		"PROFILE_SELECT" : "Select",
+		"PROFILE_DEL" : "Del",
+		"PROFILE_DELETE" : "Delete",
+		"PROFILE_CREATE_PROFILE" : "Create Profile",
+		"PROFILE_ADD" : "Add",
+
+		"PAUSE_RESUME" : "Resume",
+		"PAUSE_SETTINGS" : "Settings",
+		"PAUSE_QUIT_TO_MENU" : "Quit To Menu",
+		"PAUSE_QUIT_TO_DESKTOP" : "Quit To Desktop",
 	}
 }
